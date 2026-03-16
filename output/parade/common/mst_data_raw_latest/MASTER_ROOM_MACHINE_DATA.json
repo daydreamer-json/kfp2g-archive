@@ -1,0 +1,24 @@
+[
+  {
+    "getItemId": 30790,
+    "getItemNum": 1,
+    "getItemTime": 480,
+    "getStaminaNum": 0,
+    "id": 1,
+    "maxValidMachine": 0,
+    "mdlOnoffPercent": 0,
+    "stackMax": 3,
+    "type": 1
+  },
+  {
+    "getItemId": 0,
+    "getItemNum": 0,
+    "getItemTime": 360,
+    "getStaminaNum": 12,
+    "id": 618003,
+    "maxValidMachine": 3,
+    "mdlOnoffPercent": 80,
+    "stackMax": 4,
+    "type": 2
+  }
+]

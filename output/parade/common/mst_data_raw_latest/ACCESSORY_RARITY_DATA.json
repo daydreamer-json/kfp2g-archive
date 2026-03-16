@@ -1,0 +1,6 @@
+[
+  { "levelLimit": 10, "rarity": 1, "rarityName": "☆", "sellPrice": 50 },
+  { "levelLimit": 10, "rarity": 2, "rarityName": "☆☆", "sellPrice": 100 },
+  { "levelLimit": 10, "rarity": 3, "rarityName": "☆☆☆", "sellPrice": 150 },
+  { "levelLimit": 10, "rarity": 4, "rarityName": "☆☆☆☆", "sellPrice": 200 }
+]

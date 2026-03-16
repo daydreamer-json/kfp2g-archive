@@ -1,0 +1,17 @@
+[
+  {
+    "followDispNum": 30,
+    "gachaId": 50012,
+    "id": 1,
+    "passingBorderPoint": 1,
+    "passingDispNum": 30,
+    "rankingBorderRank": 30,
+    "rankingDispNum": 30,
+    "shopId": 10,
+    "stampLogDispNum": 100,
+    "stampPointRate": 10,
+    "stampPointRateFollow": 12,
+    "stampPointRateFollowFollower": 15,
+    "stampPointRateFollower": 12
+  }
+]

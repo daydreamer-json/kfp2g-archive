@@ -1,0 +1,13 @@
+[
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 15,
+    "campaignId": 1,
+    "endDatetime": 2549012400000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 5,
+    "startDatetime": 971175600000,
+    "successAcqRate": 100,
+    "successProbability": 80
+  }
+]

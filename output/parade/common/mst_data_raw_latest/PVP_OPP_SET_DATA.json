@@ -1,0 +1,1595 @@
+[
+  {
+    "coefficient": 120,
+    "pvpId": 1,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 1,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 1,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 2,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 2,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 2,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 3,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 3,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 3,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 4,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 4,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 4,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 5,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 5,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 5,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 6,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 6,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 6,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 7,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 7,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 7,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 8,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 8,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 8,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 9,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 9,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 9,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 10,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 10,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 10,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 11,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 11,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 11,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 12,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 12,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 12,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 13,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 13,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 13,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 14,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 14,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 14,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 15,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 15,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 15,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 16,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 16,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 16,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 17,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 17,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 17,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 18,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 18,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 18,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 19,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 19,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 19,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 20,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 20,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 20,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 21,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 21,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 21,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 22,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 22,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 22,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 23,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 23,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 23,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 24,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 24,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 24,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 25,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 25,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 25,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 26,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 26,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 26,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 27,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 27,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 27,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 28,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 28,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 28,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 29,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 29,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 29,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 30,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 30,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 30,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 31,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 31,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 31,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 32,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 32,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 32,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 33,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 33,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 33,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 34,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 34,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 34,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 35,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 35,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 35,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 36,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 36,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 36,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 37,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 37,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 37,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 38,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 38,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 38,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 39,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 39,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 39,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 101,
+    "rankHigh": 4,
+    "rankRow": 2,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 101,
+    "rankHigh": 1,
+    "rankRow": -1,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 101,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 1,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 102,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 102,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 102,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 103,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 103,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 103,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 104,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 104,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 104,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 105,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 105,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 105,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 106,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 106,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 106,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 107,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 107,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 107,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 108,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 108,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 108,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 109,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 109,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 109,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 110,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 110,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 110,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 111,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 111,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 111,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 112,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 112,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 112,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 113,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 113,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 113,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 114,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 114,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 114,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 115,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 115,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 115,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 116,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 116,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 116,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 117,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 117,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 117,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 118,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 118,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 118,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 119,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 119,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 119,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
+    "pvpId": 120,
+    "rankHigh": 3,
+    "rankRow": 1,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 120,
+    "rankHigh": 0,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 120,
+    "rankHigh": -2,
+    "rankRow": -4,
+    "selectActiveDays": 0,
+    "selectPerson": 3,
+    "strength": 3
+  }
+]

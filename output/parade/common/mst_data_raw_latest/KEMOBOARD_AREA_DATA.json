@@ -1,0 +1,8 @@
+[
+  { "attribute": 1, "id": 1, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 },
+  { "attribute": 2, "id": 2, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 },
+  { "attribute": 3, "id": 3, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 },
+  { "attribute": 4, "id": 4, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 },
+  { "attribute": 5, "id": 5, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 },
+  { "attribute": 6, "id": 6, "resetItemId": 30136, "resetItemNum": 1, "resetStoneNum": 100 }
+]

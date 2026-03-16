@@ -1,0 +1,994 @@
+[
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300011,
+    "name": "てもちバルーン（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300012,
+    "name": "てもちバルーン（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300013,
+    "name": "ゴムボール（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300014,
+    "name": "ゴムボール（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300015,
+    "name": "バドミントンラケット（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300016,
+    "name": "バドミントンラケット（オール）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300017,
+    "name": "おでかけ（高山）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300018,
+    "name": "おでかけ（高山）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300019,
+    "name": "花火（ビーチ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300020,
+    "name": "花火（ビーチ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300021,
+    "name": "花火（加帕里夜市）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300022,
+    "name": "花火（加帕里夜市）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300023,
+    "name": "花火（学校）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300024,
+    "name": "花火（学校）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300025,
+    "name": "おでかけ（ビーチ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300026,
+    "name": "おでかけ（ビーチ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300027,
+    "name": "おでかけ（水辺）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300028,
+    "name": "おでかけ（水辺）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300029,
+    "name": "おでかけ（オアシス）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300030,
+    "name": "おでかけ（オアシス）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300031,
+    "name": "おでかけ（加帕里夜市）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300032,
+    "name": "おでかけ（加帕里夜市）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300033,
+    "name": "おでかけ（竹林）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300034,
+    "name": "おでかけ（竹林）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300035,
+    "name": "おでかけ（サバンナ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300036,
+    "name": "おでかけ（サバンナ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300037,
+    "name": "おでかけ（オデッセイ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300038,
+    "name": "おでかけ（オデッセイ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。インテリアメダルが獲得できます",
+    "iconName": "icon_item_30139",
+    "id": 300039,
+    "name": "おでかけ（PPPライブステージ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。インテリアメダルが獲得できます",
+    "iconName": "icon_item_30139",
+    "id": 300040,
+    "name": "おでかけ（PPPライブステージ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300041,
+    "name": "おでかけ（学校）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300042,
+    "name": "おでかけ（学校）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300043,
+    "name": "おでかけ（森・クリスマス）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300044,
+    "name": "おでかけ（森・クリスマス）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300045,
+    "name": "花火（パークセントラル・ウシ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300046,
+    "name": "花火（パークセントラル・ウシ）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300047,
+    "name": "羽根つきセット",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ジャパまん（オール）大が獲得できます",
+    "iconName": "icon_item_13003",
+    "id": 300048,
+    "name": "羽根つきセット",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300049,
+    "name": "雪遊び（雪山）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "。ゴールドが獲得できます",
+    "iconName": "icon_item_30101",
+    "id": 300050,
+    "name": "雪遊び（雪山）",
+    "rarity": 3,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "月間パスポートの「スペシャルデイリーミッション」の報酬が受け取れない不具合の補填です（すごい!!!ごーじゃす）",
+    "iconName": "icon_item_32002",
+    "id": 309001,
+    "name": "不具合の補填（すごい!!!ごーじゃす）",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "月間パスポートの「スペシャルデイリーミッション」の報酬が受け取れない不具合の補填です（すごい!!すたんだーど）",
+    "iconName": "icon_item_32003",
+    "id": 309002,
+    "name": "不具合の補填（すごい!!すたんだーど）",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "月間パスポートの「スペシャルデイリーミッション」の報酬が受け取れない不具合の補填です（すごい!はじめて）",
+    "iconName": "icon_item_32003",
+    "id": 309003,
+    "name": "不具合の補填（すごい!はじめて）",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "ファニー属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310001,
+    "name": "ファニー☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "フレンドリー属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310002,
+    "name": "フレンドリー☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "リラックス属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310003,
+    "name": "リラックス☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "ラブリー属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310004,
+    "name": "ラブリー☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "アクティブ属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310005,
+    "name": "アクティブ☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "マイペース属性フレンズの成長に役立つアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310006,
+    "name": "マイペース☆４フレンズぴっくあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "様々なアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310007,
+    "name": "しょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRクリスマスインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310008,
+    "name": "12月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310009,
+    "name": "1月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310010,
+    "name": "2月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310011,
+    "name": "3月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310012,
+    "name": "4月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310013,
+    "name": "5月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310014,
+    "name": "6月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのSRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310015,
+    "name": "ぷよぷよコラボすてっぷあっぷしょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310016,
+    "name": "7月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310017,
+    "name": "8月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310018,
+    "name": "9月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310019,
+    "name": "10月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310020,
+    "name": "11月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310021,
+    "name": "12月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "ジャパまん（オール）大、あるいはキラキラ（無償）が獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310022,
+    "name": "クリスマスらっきーボックス",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310023,
+    "name": "1月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310024,
+    "name": "2月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310025,
+    "name": "3月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310026,
+    "name": "4月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310027,
+    "name": "5月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310028,
+    "name": "6月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310029,
+    "name": "7月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310030,
+    "name": "8月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310031,
+    "name": "9月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310032,
+    "name": "3周年記念復刻インテリア便1のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310033,
+    "name": "3周年記念復刻インテリア便2のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310034,
+    "name": "3周年記念復刻インテリア便3のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310035,
+    "name": "3周年記念復刻インテリア便4のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310036,
+    "name": "3周年記念復刻インテリア便5のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310037,
+    "name": "3周年記念復刻インテリア便6のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310038,
+    "name": "10月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310039,
+    "name": "11月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310040,
+    "name": "12月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310041,
+    "name": "1月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310042,
+    "name": "2月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310043,
+    "name": "3月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310046,
+    "name": "4月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310047,
+    "name": "5月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "様々なアイテムがランダムで獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310048,
+    "name": "しょうたいのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310049,
+    "name": "6月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310050,
+    "name": "7月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310051,
+    "name": "8月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310052,
+    "name": "9月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310053,
+    "name": "10月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310054,
+    "name": "11月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310055,
+    "name": "12月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310056,
+    "name": "1月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310057,
+    "name": "2月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310058,
+    "name": "3月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310059,
+    "name": "4月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310060,
+    "name": "5月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310061,
+    "name": "6月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310062,
+    "name": "7月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310063,
+    "name": "8月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310064,
+    "name": "9月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310065,
+    "name": "10月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310066,
+    "name": "11月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310067,
+    "name": "12月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310068,
+    "name": "1月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310069,
+    "name": "2月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310070,
+    "name": "3月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310071,
+    "name": "4月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310072,
+    "name": "5月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310073,
+    "name": "6月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310074,
+    "name": "7月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "ランダムなぬいぐるみが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310075,
+    "name": "麒麟と四神のランダムぬいぐるみ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310076,
+    "name": "8月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310077,
+    "name": "9月インテリア便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310078,
+    "name": "10月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310079,
+    "name": "11月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310080,
+    "name": "12月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310081,
+    "name": "1月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310082,
+    "name": "2月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310083,
+    "name": "3月ぬいぐるみ便ぷらすのおまけ",
+    "rarity": 1,
+    "stackMax": 1
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "eventId": 0,
+    "pvpId": 1,
+    "rankResetNum": 5,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1575003540000,
+    "seasonId": 1,
+    "seasonStartDatetime": 1569290400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 2,
+    "rankResetNum": 5,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1580446740000,
+    "seasonId": 2,
+    "seasonStartDatetime": 1575003600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 3,
+    "rankResetNum": 0,
+    "rankResetRatio": 15,
+    "seasonEndDatetime": 1585630800000,
+    "seasonId": 3,
+    "seasonStartDatetime": 1580446800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 4,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1590728400000,
+    "seasonId": 4,
+    "seasonStartDatetime": 1585630800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 5,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1596085200000,
+    "seasonId": 5,
+    "seasonStartDatetime": 1590732000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 6,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1600318800000,
+    "seasonId": 6,
+    "seasonStartDatetime": 1596088800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 7,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1606453200000,
+    "seasonId": 7,
+    "seasonStartDatetime": 1600322400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 8,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1611896400000,
+    "seasonId": 8,
+    "seasonStartDatetime": 1606456800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 9,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1617166800000,
+    "seasonId": 9,
+    "seasonStartDatetime": 1611896400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 10,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1622005200000,
+    "seasonId": 10,
+    "seasonStartDatetime": 1617166800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 11,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1627534800000,
+    "seasonId": 11,
+    "seasonStartDatetime": 1622005200000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 12,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1632978000000,
+    "seasonId": 12,
+    "seasonStartDatetime": 1627534800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 13,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1638248400000,
+    "seasonId": 13,
+    "seasonStartDatetime": 1632978000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 14,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1643346000000,
+    "seasonId": 14,
+    "seasonStartDatetime": 1638248400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 15,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1648098000000,
+    "seasonId": 15,
+    "seasonStartDatetime": 1643346000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 16,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1653541200000,
+    "seasonId": 16,
+    "seasonStartDatetime": 1648098000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 17,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1658984400000,
+    "seasonId": 17,
+    "seasonStartDatetime": 1653541200000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 18,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1664427600000,
+    "seasonId": 18,
+    "seasonStartDatetime": 1658984400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 19,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1669266000000,
+    "seasonId": 19,
+    "seasonStartDatetime": 1664427600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 20,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1674709200000,
+    "seasonId": 20,
+    "seasonStartDatetime": 1669266000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 21,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1679547600000,
+    "seasonId": 21,
+    "seasonStartDatetime": 1674709200000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 22,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1684990800000,
+    "seasonId": 22,
+    "seasonStartDatetime": 1679547600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 23,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1690434000000,
+    "seasonId": 23,
+    "seasonStartDatetime": 1684990800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 24,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1695877200000,
+    "seasonId": 24,
+    "seasonStartDatetime": 1690434000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 25,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1701320400000,
+    "seasonId": 25,
+    "seasonStartDatetime": 1695891600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 26,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1706158800000,
+    "seasonId": 26,
+    "seasonStartDatetime": 1701320400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 27,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1711602000000,
+    "seasonId": 27,
+    "seasonStartDatetime": 1706158800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 28,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1717045200000,
+    "seasonId": 28,
+    "seasonStartDatetime": 1711602000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 29,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1721883600000,
+    "seasonId": 29,
+    "seasonStartDatetime": 1717045200000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 30,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1727326800000,
+    "seasonId": 30,
+    "seasonStartDatetime": 1721883600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 31,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1732770000000,
+    "seasonId": 31,
+    "seasonStartDatetime": 1727326800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 32,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1738213200000,
+    "seasonId": 32,
+    "seasonStartDatetime": 1732770000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 33,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1742792400000,
+    "seasonId": 33,
+    "seasonStartDatetime": 1738213200000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 34,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1748494800000,
+    "seasonId": 34,
+    "seasonStartDatetime": 1742792400000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 35,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1753938000000,
+    "seasonId": 35,
+    "seasonStartDatetime": 1748494800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 36,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1758690000000,
+    "seasonId": 36,
+    "seasonStartDatetime": 1753938000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 37,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1764219600000,
+    "seasonId": 37,
+    "seasonStartDatetime": 1758690000000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 38,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1769662800000,
+    "seasonId": 38,
+    "seasonStartDatetime": 1764219600000,
+    "typeId": 1
+  },
+  {
+    "eventId": 0,
+    "pvpId": 39,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1774587600000,
+    "seasonId": 39,
+    "seasonStartDatetime": 1769662800000,
+    "typeId": 1
+  },
+  {
+    "eventId": 61,
+    "pvpId": 101,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1601442000000,
+    "seasonId": 101,
+    "seasonStartDatetime": 1600837200000,
+    "typeId": 2
+  },
+  {
+    "eventId": 75,
+    "pvpId": 102,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1608181200000,
+    "seasonId": 102,
+    "seasonStartDatetime": 1607576400000,
+    "typeId": 2
+  },
+  {
+    "eventId": 86,
+    "pvpId": 103,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1613106000000,
+    "seasonId": 103,
+    "seasonStartDatetime": 1612501200000,
+    "typeId": 2
+  },
+  {
+    "eventId": 99,
+    "pvpId": 104,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1618585140000,
+    "seasonId": 104,
+    "seasonStartDatetime": 1617980400000,
+    "typeId": 2
+  },
+  {
+    "eventId": 109,
+    "pvpId": 105,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1623819600000,
+    "seasonId": 105,
+    "seasonStartDatetime": 1623214800000,
+    "typeId": 2
+  },
+  {
+    "eventId": 119,
+    "pvpId": 106,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1629003600000,
+    "seasonId": 106,
+    "seasonStartDatetime": 1628398800000,
+    "typeId": 2
+  },
+  {
+    "eventId": 129,
+    "pvpId": 107,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1634792400000,
+    "seasonId": 107,
+    "seasonStartDatetime": 1634187600000,
+    "typeId": 2
+  },
+  {
+    "eventId": 138,
+    "pvpId": 108,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1640062800000,
+    "seasonId": 108,
+    "seasonStartDatetime": 1639458000000,
+    "typeId": 2
+  },
+  {
+    "eventId": 147,
+    "pvpId": 109,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1645160400000,
+    "seasonId": 109,
+    "seasonStartDatetime": 1644555600000,
+    "typeId": 2
+  },
+  {
+    "eventId": 158,
+    "pvpId": 110,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1650517200000,
+    "seasonId": 110,
+    "seasonStartDatetime": 1649912400000,
+    "typeId": 2
+  },
+  {
+    "eventId": 168,
+    "pvpId": 111,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1655701200000,
+    "seasonId": 111,
+    "seasonStartDatetime": 1655096400000,
+    "typeId": 2
+  },
+  {
+    "eventId": 178,
+    "pvpId": 112,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1658379600000,
+    "seasonId": 112,
+    "seasonStartDatetime": 1657774800000,
+    "typeId": 2
+  },
+  {
+    "eventId": 192,
+    "pvpId": 113,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1666242000000,
+    "seasonId": 113,
+    "seasonStartDatetime": 1665637200000,
+    "typeId": 2
+  },
+  {
+    "eventId": 211,
+    "pvpId": 114,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1677128400000,
+    "seasonId": 114,
+    "seasonStartDatetime": 1676523600000,
+    "typeId": 2
+  },
+  {
+    "eventId": 219,
+    "pvpId": 115,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1681966800000,
+    "seasonId": 115,
+    "seasonStartDatetime": 1681362000000,
+    "typeId": 2
+  },
+  {
+    "eventId": 234,
+    "pvpId": 116,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1689829200000,
+    "seasonId": 116,
+    "seasonStartDatetime": 1689224400000,
+    "typeId": 2
+  },
+  {
+    "eventId": 251,
+    "pvpId": 117,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1698296400000,
+    "seasonId": 117,
+    "seasonStartDatetime": 1697691600000,
+    "typeId": 2
+  },
+  {
+    "eventId": 272,
+    "pvpId": 118,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1709182800000,
+    "seasonId": 118,
+    "seasonStartDatetime": 1708578000000,
+    "typeId": 2
+  },
+  {
+    "eventId": 284,
+    "pvpId": 119,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1716440400000,
+    "seasonId": 119,
+    "seasonStartDatetime": 1715835600000,
+    "typeId": 2
+  },
+  {
+    "eventId": 299,
+    "pvpId": 120,
+    "rankResetNum": 0,
+    "rankResetRatio": 0,
+    "seasonEndDatetime": 1724302800000,
+    "seasonId": 120,
+    "seasonStartDatetime": 1723698000000,
+    "typeId": 2
+  }
+]

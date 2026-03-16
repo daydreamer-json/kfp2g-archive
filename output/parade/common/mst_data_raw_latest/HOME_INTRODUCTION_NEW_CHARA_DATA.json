@@ -1,0 +1,546 @@
+[
+  {
+    "bannerId": 1352,
+    "charaId": 493,
+    "characterFlag": 0,
+    "endTime": 1728536400000,
+    "introductionId": 1,
+    "startTime": 1727931600000
+  },
+  {
+    "bannerId": 1357,
+    "charaId": 419,
+    "characterFlag": 0,
+    "endTime": 1729746000000,
+    "introductionId": 2,
+    "startTime": 1728536400000
+  },
+  {
+    "bannerId": 1361,
+    "charaId": 514,
+    "characterFlag": 0,
+    "endTime": 1730955600000,
+    "introductionId": 3,
+    "startTime": 1729227600000
+  },
+  {
+    "bannerId": 1362,
+    "charaId": 517,
+    "characterFlag": 0,
+    "endTime": 1730955600000,
+    "introductionId": 4,
+    "startTime": 1729400400000
+  },
+  {
+    "bannerId": 1368,
+    "charaId": 510,
+    "characterFlag": 0,
+    "endTime": 1730955600000,
+    "introductionId": 5,
+    "startTime": 1730350800000
+  },
+  {
+    "bannerId": 1372,
+    "charaId": 495,
+    "characterFlag": 0,
+    "endTime": 1732165200000,
+    "introductionId": 6,
+    "startTime": 1730955600000
+  },
+  {
+    "bannerId": 1380,
+    "charaId": 437,
+    "characterFlag": 0,
+    "endTime": 1732770000000,
+    "introductionId": 7,
+    "startTime": 1732165200000
+  },
+  {
+    "bannerId": 1385,
+    "charaId": 518,
+    "characterFlag": 0,
+    "endTime": 1734584400000,
+    "introductionId": 8,
+    "startTime": 1732770000000
+  },
+  {
+    "bannerId": 1386,
+    "charaId": 466,
+    "characterFlag": 0,
+    "endTime": 1734584400000,
+    "introductionId": 9,
+    "startTime": 1733374800000
+  },
+  {
+    "bannerId": 1393,
+    "charaId": 213,
+    "characterFlag": 0,
+    "endTime": 1735794000000,
+    "introductionId": 10,
+    "startTime": 1734584400000
+  },
+  {
+    "bannerId": 1402,
+    "charaId": 289,
+    "characterFlag": 0,
+    "endTime": 1736485200000,
+    "introductionId": 11,
+    "startTime": 1735189200000
+  },
+  {
+    "bannerId": 1403,
+    "charaId": 525,
+    "characterFlag": 0,
+    "endTime": 1736485200000,
+    "introductionId": 12,
+    "startTime": 1735657200000
+  },
+  {
+    "bannerId": 1410,
+    "charaId": 516,
+    "characterFlag": 0,
+    "endTime": 1737608400000,
+    "introductionId": 13,
+    "startTime": 1736485200000
+  },
+  {
+    "bannerId": 1418,
+    "charaId": 315,
+    "characterFlag": 0,
+    "endTime": 1738213200000,
+    "introductionId": 14,
+    "startTime": 1737608400000
+  },
+  {
+    "bannerId": 1421,
+    "charaId": 269,
+    "characterFlag": 0,
+    "endTime": 1738818000000,
+    "introductionId": 15,
+    "startTime": 1738213200000
+  },
+  {
+    "bannerId": 1424,
+    "charaId": 484,
+    "characterFlag": 0,
+    "endTime": 1740027600000,
+    "introductionId": 16,
+    "startTime": 1738818000000
+  },
+  {
+    "bannerId": 1429,
+    "charaId": 128,
+    "characterFlag": 0,
+    "endTime": 1740027600000,
+    "introductionId": 17,
+    "startTime": 1739509200000
+  },
+  {
+    "bannerId": 1433,
+    "charaId": 511,
+    "characterFlag": 0,
+    "endTime": 1740632400000,
+    "introductionId": 18,
+    "startTime": 1740027600000
+  },
+  {
+    "bannerId": 1438,
+    "charaId": 457,
+    "characterFlag": 0,
+    "endTime": 1741842000000,
+    "introductionId": 19,
+    "startTime": 1740632400000
+  },
+  {
+    "bannerId": 1442,
+    "charaId": 523,
+    "characterFlag": 0,
+    "endTime": 1741842000000,
+    "introductionId": 20,
+    "startTime": 1741237200000
+  },
+  {
+    "bannerId": 1446,
+    "charaId": 531,
+    "characterFlag": 0,
+    "endTime": 1743656400000,
+    "introductionId": 21,
+    "startTime": 1741842000000
+  },
+  {
+    "bannerId": 1447,
+    "charaId": 532,
+    "characterFlag": 0,
+    "endTime": 1743656400000,
+    "introductionId": 22,
+    "startTime": 1742360400000
+  },
+  {
+    "bannerId": 1457,
+    "charaId": 522,
+    "characterFlag": 0,
+    "endTime": 1744347600000,
+    "introductionId": 23,
+    "startTime": 1743742800000
+  },
+  {
+    "bannerId": 1460,
+    "charaId": 520,
+    "characterFlag": 0,
+    "endTime": 1745470800000,
+    "introductionId": 24,
+    "startTime": 1744261200000
+  },
+  {
+    "bannerId": 1465,
+    "charaId": 543,
+    "characterFlag": 0,
+    "endTime": 1746680400000,
+    "introductionId": 25,
+    "startTime": 1744866000000
+  },
+  {
+    "bannerId": 1466,
+    "charaId": 542,
+    "characterFlag": 0,
+    "endTime": 1746680400000,
+    "introductionId": 26,
+    "startTime": 1745038800000
+  },
+  {
+    "bannerId": 1468,
+    "charaId": 526,
+    "characterFlag": 0,
+    "endTime": 1746680400000,
+    "introductionId": 27,
+    "startTime": 1746075600000
+  },
+  {
+    "bannerId": 1473,
+    "charaId": 494,
+    "characterFlag": 0,
+    "endTime": 1747890000000,
+    "introductionId": 28,
+    "startTime": 1746680400000
+  },
+  {
+    "bannerId": 1478,
+    "charaId": 187,
+    "characterFlag": 0,
+    "endTime": 1747890000000,
+    "introductionId": 29,
+    "startTime": 1747285200000
+  },
+  {
+    "bannerId": 1481,
+    "charaId": 496,
+    "characterFlag": 0,
+    "endTime": 1748494800000,
+    "introductionId": 30,
+    "startTime": 1747890000000
+  },
+  {
+    "bannerId": 1487,
+    "charaId": 535,
+    "characterFlag": 0,
+    "endTime": 1749963600000,
+    "introductionId": 31,
+    "startTime": 1748754000000
+  },
+  {
+    "bannerId": 1488,
+    "charaId": 536,
+    "characterFlag": 0,
+    "endTime": 1749963600000,
+    "introductionId": 32,
+    "startTime": 1749358800000
+  },
+  {
+    "bannerId": 1492,
+    "charaId": 479,
+    "characterFlag": 0,
+    "endTime": 1750309200000,
+    "introductionId": 33,
+    "startTime": 1749704400000
+  },
+  {
+    "bannerId": 1495,
+    "charaId": 169,
+    "characterFlag": 0,
+    "endTime": 1751518800000,
+    "introductionId": 34,
+    "startTime": 1750309200000
+  },
+  {
+    "bannerId": 1504,
+    "charaId": 261,
+    "characterFlag": 0,
+    "endTime": 1752123600000,
+    "introductionId": 35,
+    "startTime": 1751518800000
+  },
+  {
+    "bannerId": 1508,
+    "charaId": 491,
+    "characterFlag": 0,
+    "endTime": 1753333200000,
+    "introductionId": 36,
+    "startTime": 1752123600000
+  },
+  {
+    "bannerId": 1513,
+    "charaId": 549,
+    "characterFlag": 0,
+    "endTime": 1754197200000,
+    "introductionId": 37,
+    "startTime": 1752728400000
+  },
+  {
+    "bannerId": 1514,
+    "charaId": 550,
+    "characterFlag": 0,
+    "endTime": 1754197200000,
+    "introductionId": 38,
+    "startTime": 1752987600000
+  },
+  {
+    "bannerId": 1521,
+    "charaId": 541,
+    "characterFlag": 0,
+    "endTime": 1754542800000,
+    "introductionId": 39,
+    "startTime": 1753938000000
+  },
+  {
+    "bannerId": 1524,
+    "charaId": 439,
+    "characterFlag": 0,
+    "endTime": 1755752400000,
+    "introductionId": 40,
+    "startTime": 1754542800000
+  },
+  {
+    "bannerId": 1529,
+    "charaId": 428,
+    "characterFlag": 0,
+    "endTime": 1756357200000,
+    "introductionId": 41,
+    "startTime": 1755147600000
+  },
+  {
+    "bannerId": 1534,
+    "charaId": 231,
+    "characterFlag": 0,
+    "endTime": 1756357200000,
+    "introductionId": 42,
+    "startTime": 1755752400000
+  },
+  {
+    "bannerId": 1539,
+    "charaId": 292,
+    "characterFlag": 0,
+    "endTime": 1756962000000,
+    "introductionId": 43,
+    "startTime": 1756357200000
+  },
+  {
+    "bannerId": 1545,
+    "charaId": 534,
+    "characterFlag": 0,
+    "endTime": 1759381200000,
+    "introductionId": 44,
+    "startTime": 1757566800000
+  },
+  {
+    "bannerId": 1546,
+    "charaId": 533,
+    "characterFlag": 0,
+    "endTime": 1759381200000,
+    "introductionId": 45,
+    "startTime": 1758171600000
+  },
+  {
+    "bannerId": 1551,
+    "charaId": 556,
+    "characterFlag": 0,
+    "endTime": 1759986000000,
+    "introductionId": 46,
+    "startTime": 1758690000000
+  },
+  {
+    "bannerId": 1560,
+    "charaId": 540,
+    "characterFlag": 0,
+    "endTime": 1760936400000,
+    "introductionId": 47,
+    "startTime": 1759726800000
+  },
+  {
+    "bannerId": 1562,
+    "charaId": 552,
+    "characterFlag": 0,
+    "endTime": 1762146000000,
+    "introductionId": 48,
+    "startTime": 1759986000000
+  },
+  {
+    "bannerId": 1563,
+    "charaId": 551,
+    "characterFlag": 0,
+    "endTime": 1762146000000,
+    "introductionId": 49,
+    "startTime": 1760245200000
+  },
+  {
+    "bannerId": 1570,
+    "charaId": 557,
+    "characterFlag": 0,
+    "endTime": 1761800400000,
+    "introductionId": 50,
+    "startTime": 1761195600000
+  },
+  {
+    "bannerId": 1574,
+    "charaId": 560,
+    "characterFlag": 0,
+    "endTime": 1763010000000,
+    "introductionId": 51,
+    "startTime": 1761800400000
+  },
+  {
+    "bannerId": 1576,
+    "charaId": 529,
+    "characterFlag": 0,
+    "endTime": 1763010000000,
+    "introductionId": 52,
+    "startTime": 1762405200000
+  },
+  {
+    "bannerId": 1580,
+    "charaId": 504,
+    "characterFlag": 0,
+    "endTime": 1763614800000,
+    "introductionId": 53,
+    "startTime": 1763010000000
+  },
+  {
+    "bannerId": 1584,
+    "charaId": 505,
+    "characterFlag": 0,
+    "endTime": 1764219600000,
+    "introductionId": 54,
+    "startTime": 1763614800000
+  },
+  {
+    "bannerId": 1590,
+    "charaId": 537,
+    "characterFlag": 0,
+    "endTime": 1765429200000,
+    "introductionId": 55,
+    "startTime": 1764219600000
+  },
+  {
+    "bannerId": 1591,
+    "charaId": 558,
+    "characterFlag": 0,
+    "endTime": 1765429200000,
+    "introductionId": 56,
+    "startTime": 1764824400000
+  },
+  {
+    "bannerId": 1595,
+    "charaId": 462,
+    "characterFlag": 0,
+    "endTime": 1766638800000,
+    "introductionId": 57,
+    "startTime": 1765429200000
+  },
+  {
+    "bannerId": 1599,
+    "charaId": 521,
+    "characterFlag": 0,
+    "endTime": 1766638800000,
+    "introductionId": 58,
+    "startTime": 1766034000000
+  },
+  {
+    "bannerId": 1606,
+    "charaId": 562,
+    "characterFlag": 0,
+    "endTime": 1768194000000,
+    "introductionId": 59,
+    "startTime": 1766638800000
+  },
+  {
+    "bannerId": 1607,
+    "charaId": 561,
+    "characterFlag": 0,
+    "endTime": 1768194000000,
+    "introductionId": 60,
+    "startTime": 1767193200000
+  },
+  {
+    "bannerId": 1613,
+    "charaId": 564,
+    "characterFlag": 1,
+    "endTime": 1770267600000,
+    "introductionId": 61,
+    "startTime": 1768453200000
+  },
+  {
+    "bannerId": 1614,
+    "charaId": 563,
+    "characterFlag": 0,
+    "endTime": 1770267600000,
+    "introductionId": 62,
+    "startTime": 1768626000000
+  },
+  {
+    "bannerId": 1619,
+    "charaId": 501,
+    "characterFlag": 0,
+    "endTime": 1770267600000,
+    "introductionId": 63,
+    "startTime": 1769662800000
+  },
+  {
+    "bannerId": 1623,
+    "charaId": 553,
+    "characterFlag": 0,
+    "endTime": 1771477200000,
+    "introductionId": 64,
+    "startTime": 1770267600000
+  },
+  {
+    "bannerId": 1628,
+    "charaId": 478,
+    "characterFlag": 0,
+    "endTime": 1771477200000,
+    "introductionId": 65,
+    "startTime": 1770872400000
+  },
+  {
+    "bannerId": 1629,
+    "charaId": 497,
+    "characterFlag": 0,
+    "endTime": 1772168400000,
+    "introductionId": 66,
+    "startTime": 1771477200000
+  },
+  {
+    "bannerId": 1638,
+    "charaId": 503,
+    "characterFlag": 0,
+    "endTime": 1773291600000,
+    "introductionId": 67,
+    "startTime": 1772168400000
+  },
+  {
+    "bannerId": 1645,
+    "charaId": 171,
+    "characterFlag": 0,
+    "endTime": 1775106000000,
+    "introductionId": 68,
+    "startTime": 1773291600000
+  }
+]

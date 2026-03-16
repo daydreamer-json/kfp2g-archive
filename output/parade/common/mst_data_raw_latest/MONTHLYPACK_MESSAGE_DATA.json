@@ -1,0 +1,9 @@
+[
+  {
+    "afterPeriodText": "月間パスポートの期限が切れました。\nショップへ移動しますか？\n継続購入をすると以下の特典が獲得できます。\n【{ID=1}】　　　　　　　　　　　　　　　　　　　\n「{item1}」×{count1}\n【{ID=2}】　　　　　　　　　　　　　　　　　　\n「{item2}」×{count2}\n継続購入ボーナス期間は{day}です。",
+    "beforeCanbuyDay": 5,
+    "beforePeriodText": "月間パスポートの購入が可能になりました。\nショップへ移動しますか？\n継続購入すると以下の特典が獲得できます。\n【{ID=1}】　　　　　　　　　　　　　　　　　　　\n「{item1}」×{count1}\n【{ID=2}】　　　　　　　　　　　　　　　　　　\n「{item2}」×{count2}",
+    "continueReckonDay": 10,
+    "id": 1
+  }
+]

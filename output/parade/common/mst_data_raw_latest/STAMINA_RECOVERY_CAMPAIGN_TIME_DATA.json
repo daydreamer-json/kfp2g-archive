@@ -1,0 +1,21 @@
+[
+  { "campaignId": 1, "endTime": 1633014000000, "staminaRecoveryTime": 150, "startTime": 1632409200000 },
+  { "campaignId": 2, "endTime": 1641531600000, "staminaRecoveryTime": 150, "startTime": 1640322000000 },
+  { "campaignId": 3, "endTime": 1648702800000, "staminaRecoveryTime": 150, "startTime": 1648098000000 },
+  { "campaignId": 4, "endTime": 1664427600000, "staminaRecoveryTime": 150, "startTime": 1663218000000 },
+  { "campaignId": 5, "endTime": 1673067600000, "staminaRecoveryTime": 150, "startTime": 1672203600000 },
+  { "campaignId": 6, "endTime": 1680152400000, "staminaRecoveryTime": 150, "startTime": 1678942800000 },
+  { "campaignId": 7, "endTime": 1683781200000, "staminaRecoveryTime": 150, "startTime": 1682571600000 },
+  { "campaignId": 8, "endTime": 1693458000000, "staminaRecoveryTime": 150, "startTime": 1692853200000 },
+  { "campaignId": 9, "endTime": 1696482000000, "staminaRecoveryTime": 150, "startTime": 1695358800000 },
+  { "campaignId": 10, "endTime": 1704949200000, "staminaRecoveryTime": 150, "startTime": 1703653200000 },
+  { "campaignId": 11, "endTime": 1712206800000, "staminaRecoveryTime": 150, "startTime": 1711083600000 },
+  { "campaignId": 12, "endTime": 1715230800000, "staminaRecoveryTime": 150, "startTime": 1714107600000 },
+  { "campaignId": 13, "endTime": 1718254800000, "staminaRecoveryTime": 150, "startTime": 1717650000000 },
+  { "campaignId": 14, "endTime": 1726117200000, "staminaRecoveryTime": 150, "startTime": 1725512400000 },
+  { "campaignId": 15, "endTime": 1727931600000, "staminaRecoveryTime": 150, "startTime": 1727326800000 },
+  { "campaignId": 16, "endTime": 1734584400000, "staminaRecoveryTime": 150, "startTime": 1733979600000 },
+  { "campaignId": 17, "endTime": 1743656400000, "staminaRecoveryTime": 150, "startTime": 1742792400000 },
+  { "campaignId": 18, "endTime": 1765429200000, "staminaRecoveryTime": 150, "startTime": 1764824400000 },
+  { "campaignId": 19, "endTime": 1770267600000, "staminaRecoveryTime": 150, "startTime": 1769662800000 }
+]

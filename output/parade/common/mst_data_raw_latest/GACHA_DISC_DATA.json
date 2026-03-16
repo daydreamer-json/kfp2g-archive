@@ -1,0 +1,74 @@
+[
+  {
+    "availableCount": 1,
+    "discountId": 1,
+    "discountName": "一日一回無料",
+    "discountNum": 1000,
+    "discountType": 2,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 2,
+    "discountName": "半額(単発)",
+    "discountNum": 13,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 3,
+    "discountName": "半額(10連)",
+    "discountNum": 125,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 4,
+    "discountName": "無料(単発)",
+    "discountNum": 25,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 5,
+    "discountName": "無料(10連)",
+    "discountNum": 250,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 6,
+    "discountName": "初回キラキラ130個",
+    "discountNum": 120,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 7,
+    "discountName": "初回キラキラ80個",
+    "discountNum": 70,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1514732400000
+  },
+  {
+    "availableCount": 1,
+    "discountId": 8,
+    "discountName": "無料(10連)",
+    "discountNum": 150,
+    "discountType": 1,
+    "endDatetime": 2524575600000,
+    "startDatetime": 1678338000000
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1589900399000,
+    "seasonId": 1,
+    "seasonStartDatetime": 1576029600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1593529199000,
+    "seasonId": 2,
+    "seasonStartDatetime": 1589900400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1596207599000,
+    "seasonId": 3,
+    "seasonStartDatetime": 1593529200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1598885999000,
+    "seasonId": 4,
+    "seasonStartDatetime": 1596207600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1601477999000,
+    "seasonId": 5,
+    "seasonStartDatetime": 1598886000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1604156399000,
+    "seasonId": 6,
+    "seasonStartDatetime": 1601478000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1606748399000,
+    "seasonId": 7,
+    "seasonStartDatetime": 1604156400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1609426799000,
+    "seasonId": 8,
+    "seasonStartDatetime": 1606748400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1612105199000,
+    "seasonId": 9,
+    "seasonStartDatetime": 1609426800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1614524399000,
+    "seasonId": 10,
+    "seasonStartDatetime": 1612105200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1617202799000,
+    "seasonId": 11,
+    "seasonStartDatetime": 1614524400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1619794799000,
+    "seasonId": 12,
+    "seasonStartDatetime": 1617202800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1622473199000,
+    "seasonId": 13,
+    "seasonStartDatetime": 1619794800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1625065199000,
+    "seasonId": 14,
+    "seasonStartDatetime": 1622473200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1627621200000,
+    "seasonId": 15,
+    "seasonStartDatetime": 1625065200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1630421999000,
+    "seasonId": 16,
+    "seasonStartDatetime": 1627743600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1633013999000,
+    "seasonId": 17,
+    "seasonStartDatetime": 1630422000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1635692399000,
+    "seasonId": 18,
+    "seasonStartDatetime": 1633014000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1638284399000,
+    "seasonId": 19,
+    "seasonStartDatetime": 1635692400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1640962799000,
+    "seasonId": 20,
+    "seasonStartDatetime": 1638284400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1643641199000,
+    "seasonId": 21,
+    "seasonStartDatetime": 1640962800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1646060399000,
+    "seasonId": 22,
+    "seasonStartDatetime": 1643641200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1648738799000,
+    "seasonId": 23,
+    "seasonStartDatetime": 1646060400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1651330799000,
+    "seasonId": 24,
+    "seasonStartDatetime": 1648738800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1654009199000,
+    "seasonId": 25,
+    "seasonStartDatetime": 1651330800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1656601199000,
+    "seasonId": 26,
+    "seasonStartDatetime": 1654009200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1659279599000,
+    "seasonId": 27,
+    "seasonStartDatetime": 1656601200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1661957999000,
+    "seasonId": 28,
+    "seasonStartDatetime": 1659279600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1664549999000,
+    "seasonId": 29,
+    "seasonStartDatetime": 1661958000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1667228399000,
+    "seasonId": 30,
+    "seasonStartDatetime": 1664550000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1669820399000,
+    "seasonId": 31,
+    "seasonStartDatetime": 1667228400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1672498799000,
+    "seasonId": 32,
+    "seasonStartDatetime": 1669820400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1675177199000,
+    "seasonId": 33,
+    "seasonStartDatetime": 1672498800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1677596399000,
+    "seasonId": 34,
+    "seasonStartDatetime": 1675177200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1680274799000,
+    "seasonId": 35,
+    "seasonStartDatetime": 1677596400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1682866799000,
+    "seasonId": 36,
+    "seasonStartDatetime": 1680274800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1685545199000,
+    "seasonId": 37,
+    "seasonStartDatetime": 1682866800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1688137199000,
+    "seasonId": 38,
+    "seasonStartDatetime": 1685545200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1690815599000,
+    "seasonId": 39,
+    "seasonStartDatetime": 1688137200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1693493999000,
+    "seasonId": 40,
+    "seasonStartDatetime": 1690815600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1696085999000,
+    "seasonId": 41,
+    "seasonStartDatetime": 1693494000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1698764399000,
+    "seasonId": 42,
+    "seasonStartDatetime": 1696086000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1701356399000,
+    "seasonId": 43,
+    "seasonStartDatetime": 1698764400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1704034799000,
+    "seasonId": 44,
+    "seasonStartDatetime": 1701356400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1706713199000,
+    "seasonId": 45,
+    "seasonStartDatetime": 1704034800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1709218799000,
+    "seasonId": 46,
+    "seasonStartDatetime": 1706713200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1711897199000,
+    "seasonId": 47,
+    "seasonStartDatetime": 1709218800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1714489199000,
+    "seasonId": 48,
+    "seasonStartDatetime": 1711897200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1717167599000,
+    "seasonId": 49,
+    "seasonStartDatetime": 1714489200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1719759599000,
+    "seasonId": 50,
+    "seasonStartDatetime": 1717167600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1722437999000,
+    "seasonId": 51,
+    "seasonStartDatetime": 1719759600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1725116399000,
+    "seasonId": 52,
+    "seasonStartDatetime": 1722438000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1727708399000,
+    "seasonId": 53,
+    "seasonStartDatetime": 1725116400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1730386799000,
+    "seasonId": 54,
+    "seasonStartDatetime": 1727708400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1732978799000,
+    "seasonId": 55,
+    "seasonStartDatetime": 1730386800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1735657199000,
+    "seasonId": 56,
+    "seasonStartDatetime": 1732978800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1738335599000,
+    "seasonId": 57,
+    "seasonStartDatetime": 1735657200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1740754799000,
+    "seasonId": 58,
+    "seasonStartDatetime": 1738335600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1743433199000,
+    "seasonId": 59,
+    "seasonStartDatetime": 1740754800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1746025199000,
+    "seasonId": 60,
+    "seasonStartDatetime": 1743433200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1748703599000,
+    "seasonId": 61,
+    "seasonStartDatetime": 1746025200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1751295599000,
+    "seasonId": 62,
+    "seasonStartDatetime": 1748703600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1753973999000,
+    "seasonId": 63,
+    "seasonStartDatetime": 1751295600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1756652399000,
+    "seasonId": 64,
+    "seasonStartDatetime": 1753974000000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1759244399000,
+    "seasonId": 65,
+    "seasonStartDatetime": 1756652400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1761922799000,
+    "seasonId": 66,
+    "seasonStartDatetime": 1759244400000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1764514799000,
+    "seasonId": 67,
+    "seasonStartDatetime": 1761922800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1767193199000,
+    "seasonId": 68,
+    "seasonStartDatetime": 1764514800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1769871599000,
+    "seasonId": 69,
+    "seasonStartDatetime": 1767193200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1772290799000,
+    "seasonId": 70,
+    "seasonStartDatetime": 1769871600000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1774969199000,
+    "seasonId": 71,
+    "seasonStartDatetime": 1772290800000
+  }
+]

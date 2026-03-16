@@ -1,0 +1,458 @@
+[
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "cold_district",
+    "labelText": "寒冷地",
+    "priority": 7,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "desert",
+    "labelText": "さばく",
+    "priority": 5,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "jungle",
+    "labelText": "ジャングル",
+    "priority": 3,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "LOWER",
+    "labelText": "たいりょく条件",
+    "priority": 1,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "night",
+    "labelText": "時間",
+    "priority": 11,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "savanna",
+    "labelText": "サバンナ",
+    "priority": 2,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "UPPER",
+    "labelText": "たいりょく条件",
+    "priority": 0,
+    "startTime": 946652400000
+  },
+  {
+    "category": 1,
+    "categoryName": "発動条件",
+    "filterName": "waterside",
+    "labelText": "みずべ",
+    "priority": 6,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "DEFAULT",
+    "labelText": "敵",
+    "priority": 12,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_FRONT_ALL",
+    "labelText": "敵",
+    "priority": 14,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_FRONT_RANDOM",
+    "labelText": "敵",
+    "priority": 16,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_LOWER_HP",
+    "labelText": "敵",
+    "priority": 17,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_SIDE_ALL",
+    "labelText": "敵",
+    "priority": 13,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_SIDE_RANDOM",
+    "labelText": "敵",
+    "priority": 15,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "ENEMY_UPPER_HP",
+    "labelText": "敵",
+    "priority": 18,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_FRONT_ALL",
+    "labelText": "味方",
+    "priority": 21,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_FRONT_RANDOM",
+    "labelText": "味方",
+    "priority": 23,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_LOWER_HP",
+    "labelText": "味方",
+    "priority": 24,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_SIDE_ALL",
+    "labelText": "味方",
+    "priority": 20,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_SIDE_RANDOM",
+    "labelText": "味方",
+    "priority": 22,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "MY_UPPER_HP",
+    "labelText": "味方",
+    "priority": 25,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "SELF",
+    "labelText": "自身",
+    "priority": 19,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "WITHOUT_SELF",
+    "labelText": "味方",
+    "priority": 26,
+    "startTime": 946652400000
+  },
+  {
+    "category": 2,
+    "categoryName": "効果対象",
+    "filterName": "WITHOUT_SELF_ALL",
+    "labelText": "味方",
+    "priority": 27,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "ABSORB",
+    "labelText": "たいりょく回復",
+    "priority": 46,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "ACTION_DAMAGE",
+    "labelText": "与ダメージ",
+    "priority": 37,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "ADD_DAMAGE",
+    "labelText": "与ダメージ",
+    "priority": 35,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "AVOID",
+    "labelText": "かいひ",
+    "priority": 51,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "BEAT_DAMAGE",
+    "labelText": "与ダメージ",
+    "priority": 36,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "HATE",
+    "labelText": "いかく/かくれみ",
+    "priority": 57,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "HEAL",
+    "labelText": "たいりょく回復",
+    "priority": 44,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "HIT_RATE",
+    "labelText": "攻撃命中率",
+    "priority": 48,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "MP",
+    "labelText": "MP",
+    "priority": 42,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "PLASM_DURATION",
+    "labelText": "プラズムチャージ",
+    "priority": 56,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "RCV_DAMAGE",
+    "labelText": "被ダメージ",
+    "priority": 40,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "RESIST",
+    "labelText": "耐性",
+    "priority": 53,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "SP_ADD_DAMAGE",
+    "labelText": "与ダメージ",
+    "priority": 39,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "SP_AVOID",
+    "labelText": "かいひ",
+    "priority": 50,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "SP_HIT_RATE",
+    "labelText": "攻撃命中率",
+    "priority": 49,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "SP_RCV_DAMAGE",
+    "labelText": "被ダメージ",
+    "priority": 41,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "TRY_DAMAGE",
+    "labelText": "与ダメージ",
+    "priority": 38,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "TURN_HEAL",
+    "labelText": "たいりょく回復",
+    "priority": 45,
+    "startTime": 946652400000
+  },
+  {
+    "category": 3,
+    "categoryName": "効果内容",
+    "filterName": "TURN_MP",
+    "labelText": "MP",
+    "priority": 43,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "BLEED",
+    "labelText": "ズキンズキン",
+    "priority": 33,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "BUFF_INVALID",
+    "labelText": "しょんぼりきぶん",
+    "priority": 62,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "BURNED",
+    "labelText": "ばてばてヒリヒリ",
+    "priority": 70,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "ICE",
+    "labelText": "ひやひや",
+    "priority": 32,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "INAUDIBLE",
+    "labelText": "ロストフラッグ",
+    "priority": 69,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "MP_NOCOUNT",
+    "labelText": "ぼんやりうっかり",
+    "priority": 61,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "PARALYSIS",
+    "labelText": "びりびり",
+    "priority": 67,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "POISON",
+    "labelText": "どく",
+    "priority": 28,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "SEAL",
+    "labelText": "くたくた",
+    "priority": 31,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "SILENCE",
+    "labelText": "ちぐはぐリズム",
+    "priority": 68,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "SLEEP",
+    "labelText": "すやすや",
+    "priority": 30,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "STUN",
+    "labelText": "くらくら",
+    "priority": 29,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "TICKLING",
+    "labelText": "コチョコチョマスター",
+    "priority": 65,
+    "startTime": 946652400000
+  },
+  {
+    "category": 4,
+    "categoryName": "耐性",
+    "filterName": "UNHEAL",
+    "labelText": "からげんき",
+    "priority": 34,
+    "startTime": 946652400000
+  }
+]

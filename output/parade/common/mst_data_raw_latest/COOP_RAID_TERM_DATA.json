@@ -1,0 +1,8 @@
+[
+  { "endTime": "4:00:00", "eventId": 246, "startTime": "0:00:00", "termId": 1 },
+  { "endTime": "9:00:00", "eventId": 246, "startTime": "4:00:00", "termId": 2 },
+  { "endTime": "14:00:00", "eventId": 246, "startTime": "9:00:00", "termId": 3 },
+  { "endTime": "18:00:00", "eventId": 246, "startTime": "14:00:00", "termId": 4 },
+  { "endTime": "21:00:00", "eventId": 246, "startTime": "18:00:00", "termId": 5 },
+  { "endTime": "23:59:59", "eventId": 246, "startTime": "21:00:00", "termId": 6 }
+]

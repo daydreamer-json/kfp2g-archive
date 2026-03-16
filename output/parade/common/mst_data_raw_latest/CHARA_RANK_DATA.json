@@ -1,0 +1,74 @@
+[
+  {
+    "atk": 100,
+    "def": 100,
+    "hp": 100,
+    "levelLimit": 40,
+    "pxExRate": 4,
+    "rank": 1,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 0,
+    "useCostFragmentNum": 0
+  },
+  {
+    "atk": 102,
+    "def": 102,
+    "hp": 102,
+    "levelLimit": 50,
+    "pxExRate": 4,
+    "rank": 2,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 1000,
+    "useCostFragmentNum": 10
+  },
+  {
+    "atk": 104,
+    "def": 104,
+    "hp": 104,
+    "levelLimit": 60,
+    "pxExRate": 20,
+    "rank": 3,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 5000,
+    "useCostFragmentNum": 30
+  },
+  {
+    "atk": 106,
+    "def": 106,
+    "hp": 106,
+    "levelLimit": 70,
+    "pxExRate": 60,
+    "rank": 4,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 10000,
+    "useCostFragmentNum": 60
+  },
+  {
+    "atk": 108,
+    "def": 108,
+    "hp": 108,
+    "levelLimit": 80,
+    "pxExRate": 60,
+    "rank": 5,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 50000,
+    "useCostFragmentNum": 120
+  },
+  {
+    "atk": 110,
+    "def": 110,
+    "hp": 110,
+    "levelLimit": 90,
+    "pxExRate": 60,
+    "rank": 6,
+    "rankId": 1,
+    "rankName": "",
+    "useCostCoinNum": 100000,
+    "useCostFragmentNum": 240
+  }
+]

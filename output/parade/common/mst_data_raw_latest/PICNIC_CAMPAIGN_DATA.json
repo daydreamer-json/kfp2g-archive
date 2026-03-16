@@ -1,0 +1,18 @@
+[
+  { "campaignId": 1, "endTime": 1680152400000, "picnicBuffAddratio": 300, "startTime": 1679547600000 },
+  { "campaignId": 2, "endTime": 1683781200000, "picnicBuffAddratio": 200, "startTime": 1682571600000 },
+  { "campaignId": 3, "endTime": 1689224400000, "picnicBuffAddratio": 200, "startTime": 1688619600000 },
+  { "campaignId": 4, "endTime": 1693458000000, "picnicBuffAddratio": 200, "startTime": 1692248400000 },
+  { "campaignId": 5, "endTime": 1699506000000, "picnicBuffAddratio": 200, "startTime": 1698901200000 },
+  { "campaignId": 6, "endTime": 1702530000000, "picnicBuffAddratio": 200, "startTime": 1701925200000 },
+  { "campaignId": 7, "endTime": 1706763600000, "picnicBuffAddratio": 200, "startTime": 1706158800000 },
+  { "campaignId": 8, "endTime": 1710392400000, "picnicBuffAddratio": 200, "startTime": 1709787600000 },
+  { "campaignId": 9, "endTime": 1712811600000, "picnicBuffAddratio": 300, "startTime": 1712206800000 },
+  { "campaignId": 10, "endTime": 1715835600000, "picnicBuffAddratio": 300, "startTime": 1715230800000 },
+  { "campaignId": 11, "endTime": 1718254800000, "picnicBuffAddratio": 300, "startTime": 1717650000000 },
+  { "campaignId": 12, "endTime": 1721278800000, "picnicBuffAddratio": 300, "startTime": 1720674000000 },
+  { "campaignId": 13, "endTime": 1728536400000, "picnicBuffAddratio": 300, "startTime": 1727931600000 },
+  { "campaignId": 14, "endTime": 1736485200000, "picnicBuffAddratio": 300, "startTime": 1735189200000 },
+  { "campaignId": 15, "endTime": 1748494800000, "picnicBuffAddratio": 300, "startTime": 1747285200000 },
+  { "campaignId": 16, "endTime": 1768194000000, "picnicBuffAddratio": 300, "startTime": 1766638800000 }
+]

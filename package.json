@@ -1,0 +1,55 @@
+{
+  "name": "kfp2g-archive",
+  "version": "0.1.0",
+  "description": "certain furry kemono anime game archive",
+  "author": "daydreamer-json <atarakima1@icloud.com> (https://github.com/daydreamer-json)",
+  "license": "AGPL-3.0-or-later",
+  "module": "src/main.ts",
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydreamer-json/kfp2g-archive.git"
+  },
+  "dependencies": {
+    "@octokit/rest": "^22.0.1",
+    "chalk": "^5.6.2",
+    "cli-table3": "^0.6.5",
+    "cookie": "^1.1.1",
+    "deepmerge": "^4.3.1",
+    "ky": "^1.14.3",
+    "log4js": "^6.9.1",
+    "luxon": "^3.7.2",
+    "ora": "^9.3.0",
+    "p-queue": "^9.1.0",
+    "prompts": "^2.4.2",
+    "qs": "^6.15.0",
+    "semver": "^7.7.4",
+    "tar-stream": "^3.1.8",
+    "uuid": "^13.0.0",
+    "yaml": "^2.8.2",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.6",
+    "@tsconfig/bun": "^1.0.10",
+    "@tsconfig/node24": "^24.0.4",
+    "@tsconfig/recommended": "^1.0.13",
+    "@tsconfig/strictest": "^2.0.8",
+    "@types/bun": "latest",
+    "@types/luxon": "^3.7.1",
+    "@types/node": "^25.5.0",
+    "@types/prompts": "^2.4.9",
+    "@types/qs": "^6.15.0",
+    "@types/semver": "^7.7.1",
+    "@types/tar-stream": "^3.1.4",
+    "@types/yargs": "^17.0.35",
+    "oxfmt": "^0.40.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "trustedDependencies": [
+    "@mongodb-js/zstd"
+  ]
+}

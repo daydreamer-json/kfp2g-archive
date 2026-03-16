@@ -1,0 +1,67 @@
+[
+  {
+    "expPhotoStrengBase": 100,
+    "levelLimit": 20,
+    "levelOverLimit00": 25,
+    "levelOverLimit01": 30,
+    "levelOverLimit02": 35,
+    "levelOverLimit03": 40,
+    "photoStrengBase": 30,
+    "rarity": 1,
+    "rarityName": "☆",
+    "sellPrice": 50,
+    "strengConsCoin": 100
+  },
+  {
+    "expPhotoStrengBase": 400,
+    "levelLimit": 30,
+    "levelOverLimit00": 35,
+    "levelOverLimit01": 40,
+    "levelOverLimit02": 45,
+    "levelOverLimit03": 50,
+    "photoStrengBase": 133,
+    "rarity": 2,
+    "rarityName": "☆☆",
+    "sellPrice": 100,
+    "strengConsCoin": 200
+  },
+  {
+    "expPhotoStrengBase": 700,
+    "levelLimit": 40,
+    "levelOverLimit00": 45,
+    "levelOverLimit01": 50,
+    "levelOverLimit02": 55,
+    "levelOverLimit03": 60,
+    "photoStrengBase": 233,
+    "rarity": 3,
+    "rarityName": "☆☆☆",
+    "sellPrice": 150,
+    "strengConsCoin": 300
+  },
+  {
+    "expPhotoStrengBase": 1500,
+    "levelLimit": 50,
+    "levelOverLimit00": 55,
+    "levelOverLimit01": 60,
+    "levelOverLimit02": 65,
+    "levelOverLimit03": 70,
+    "photoStrengBase": 500,
+    "rarity": 4,
+    "rarityName": "☆☆☆☆",
+    "sellPrice": 200,
+    "strengConsCoin": 400
+  },
+  {
+    "expPhotoStrengBase": 2000,
+    "levelLimit": 60,
+    "levelOverLimit00": 65,
+    "levelOverLimit01": 70,
+    "levelOverLimit02": 75,
+    "levelOverLimit03": 80,
+    "photoStrengBase": 666,
+    "rarity": 5,
+    "rarityName": "☆☆☆☆☆",
+    "sellPrice": 250,
+    "strengConsCoin": 500
+  }
+]

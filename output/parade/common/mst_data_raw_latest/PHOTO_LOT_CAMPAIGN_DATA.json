@@ -1,0 +1,167 @@
+[
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 15,
+    "campaignId": 1,
+    "endDatetime": 2549012400000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 5,
+    "startDatetime": 971175600000,
+    "successAcqRate": 100,
+    "successProbability": 80
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 40,
+    "campaignId": 2,
+    "endDatetime": 971175600000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 10,
+    "startDatetime": 971175600000,
+    "successAcqRate": 100,
+    "successProbability": 50
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 80,
+    "campaignId": 3,
+    "endDatetime": 971175600000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 10,
+    "startDatetime": 971175600000,
+    "successAcqRate": 100,
+    "successProbability": 10
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 4,
+    "endDatetime": 1616648400000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1616130000000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 5,
+    "endDatetime": 1668661200000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1668142800000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 6,
+    "endDatetime": 1689829200000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1689224400000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 7,
+    "endDatetime": 1714021200000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1712811600000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 8,
+    "endDatetime": 1718254800000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1717045200000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 9,
+    "endDatetime": 1720674000000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1719464400000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 10,
+    "endDatetime": 1735189200000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1733979600000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 70,
+    "campaignId": 11,
+    "endDatetime": 1743656400000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 30,
+    "startDatetime": 1741842000000,
+    "successAcqRate": 100,
+    "successProbability": 0
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 12,
+    "endDatetime": 1748494800000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1747285200000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 13,
+    "endDatetime": 1763010000000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1761195600000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 14,
+    "endDatetime": 1770267600000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 20,
+    "startDatetime": 1768453200000,
+    "successAcqRate": 100,
+    "successProbability": 20
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 70,
+    "campaignId": 15,
+    "endDatetime": 1775106000000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 30,
+    "startDatetime": 1773291600000,
+    "successAcqRate": 100,
+    "successProbability": 0
+  }
+]

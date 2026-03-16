@@ -1,0 +1,32 @@
+[
+  {
+    "endTime": 1617771600000,
+    "homeModelFllePathA": "",
+    "homeModelFllePathB": "",
+    "homeModelFllePathC": "",
+    "homeModelFllePathD": "",
+    "id": 1,
+    "startTime": 1614315600000,
+    "titleTexturePath": "title_logo_004"
+  },
+  {
+    "endTime": 1654873199000,
+    "homeModelFllePathA": "SD_room_segagames_timezone_a_morning",
+    "homeModelFllePathB": "SD_room_segagames_timezone_b_noon",
+    "homeModelFllePathC": "SD_room_segagames_timezone_c_evening",
+    "homeModelFllePathD": "SD_room_segagames_timezone_d_night",
+    "id": 2,
+    "startTime": 1654182000000,
+    "titleTexturePath": ""
+  },
+  {
+    "endTime": 1767193199000,
+    "homeModelFllePathA": "SD_room_xmas_timezone_a_morning",
+    "homeModelFllePathB": "SD_room_xmas_timezone_b_noon",
+    "homeModelFllePathC": "SD_room_xmas_timezone_c_evening",
+    "homeModelFllePathD": "SD_room_xmas_timezone_d_night",
+    "id": 3,
+    "startTime": 1766638800000,
+    "titleTexturePath": ""
+  }
+]

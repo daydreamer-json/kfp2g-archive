@@ -1,0 +1,26 @@
+[
+  {
+    "category": 1,
+    "flavorText": "スタミナを20回復できる",
+    "iconName": "itemicon_31001",
+    "id": 31001,
+    "name": "スタミナ20回復ドリンク",
+    "rarity": 2,
+    "recoveryVal": 20,
+    "salePrice": 100,
+    "stackMax": 9999999,
+    "unitName": "個"
+  },
+  {
+    "category": 1,
+    "flavorText": "スタミナを50回復できる",
+    "iconName": "itemicon_31002",
+    "id": 31002,
+    "name": "スタミナ50回復ドリンク",
+    "rarity": 3,
+    "recoveryVal": 50,
+    "salePrice": 100,
+    "stackMax": 9999999,
+    "unitName": "個"
+  }
+]

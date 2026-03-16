@@ -1,0 +1,25 @@
+[
+  {
+    "accessoryStocKLimit": 1000,
+    "continueStone": 3,
+    "enableNoahweb": 1,
+    "endTime": 4102412400000,
+    "followLimit": 200,
+    "followerLimit": 200,
+    "historyLimit": 1000,
+    "id": 1,
+    "photoStockLimit": 1000,
+    "presentLimit": 1000,
+    "pvpLimit": 9,
+    "pvpRecoveryTime": 3600,
+    "pvpStone": 9,
+    "pvpspecialLimit": 9,
+    "pvpspecialRecoveryTime": 3600,
+    "skipStone": 5,
+    "staminaLimit": 999,
+    "staminaRecoveryTime": 300,
+    "staminaStone": 5,
+    "startTime": 946652400000,
+    "stoneUnitPrice": "15.0"
+  }
+]

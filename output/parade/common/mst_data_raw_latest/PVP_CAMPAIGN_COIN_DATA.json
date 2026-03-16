@@ -1,0 +1,6 @@
+[
+  { "campaignId": 1, "endTime": 1575522000000, "ratio": 20000, "startTime": 1575003600000 },
+  { "campaignId": 2, "endTime": 1581656400000, "ratio": 20000, "startTime": 1581051600000 },
+  { "campaignId": 3, "endTime": 1587013200000, "ratio": 20000, "startTime": 1586322000000 },
+  { "campaignId": 4, "endTime": 1590469200000, "ratio": 5000, "startTime": 1589864400000 }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "kizunaExp": 0,
+    "level": 1,
+    "levelId": 1,
+    "levelReleaseDatetime": 971175600000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 2000,
+    "level": 2,
+    "levelId": 1,
+    "levelReleaseDatetime": 971175600000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 20000,
+    "level": 3,
+    "levelId": 1,
+    "levelReleaseDatetime": 971175600000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 100000,
+    "level": 4,
+    "levelId": 1,
+    "levelReleaseDatetime": 971175600000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 280000,
+    "level": 5,
+    "levelId": 1,
+    "levelReleaseDatetime": 971175600000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 480000,
+    "level": 6,
+    "levelId": 1,
+    "levelReleaseDatetime": 1600318800000,
+    "releaseItemId": 0,
+    "releaseItemNum": 0
+  },
+  {
+    "kizunaExp": 700000,
+    "level": 7,
+    "levelId": 1,
+    "levelReleaseDatetime": 1608181200000,
+    "releaseItemId": 17101,
+    "releaseItemNum": 1
+  },
+  {
+    "kizunaExp": 940000,
+    "level": 8,
+    "levelId": 1,
+    "levelReleaseDatetime": 1695358800000,
+    "releaseItemId": 17101,
+    "releaseItemNum": 2
+  },
+  {
+    "kizunaExp": 1200000,
+    "level": 9,
+    "levelId": 1,
+    "levelReleaseDatetime": 1695358800000,
+    "releaseItemId": 17101,
+    "releaseItemNum": 2
+  },
+  {
+    "kizunaExp": 1480000,
+    "level": 10,
+    "levelId": 1,
+    "levelReleaseDatetime": 1695358800000,
+    "releaseItemId": 17101,
+    "releaseItemNum": 3
+  }
+]

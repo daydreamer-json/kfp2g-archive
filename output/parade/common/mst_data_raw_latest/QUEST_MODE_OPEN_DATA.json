@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "originQuestoneId": 0,
+    "questoneId": 10010903,
+    "releaseMode": 1,
+    "text": " 「成長クエスト」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 2,
+    "originQuestoneId": 0,
+    "questoneId": 10010103,
+    "releaseMode": 2,
+    "text": "「ピクニック」が解放されました！",
+    "title": "ピクニック解放"
+  },
+  {
+    "id": 3,
+    "originQuestoneId": 0,
+    "questoneId": 10010603,
+    "releaseMode": 3,
+    "text": "「フレンズストーリー」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 4,
+    "originQuestoneId": 0,
+    "questoneId": 10010303,
+    "releaseMode": 4,
+    "text": "「ピクニック」で遊べるフレンズが増えました！",
+    "title": "ピクニック人数+1"
+  },
+  {
+    "id": 5,
+    "originQuestoneId": 0,
+    "questoneId": 10011201,
+    "releaseMode": 5,
+    "text": "「ピクニック」で遊べるフレンズが増えました！",
+    "title": "ピクニック人数+1"
+  },
+  {
+    "id": 6,
+    "originQuestoneId": 0,
+    "questoneId": 10021201,
+    "releaseMode": 6,
+    "text": "「ちからくらべ」が解放されました！",
+    "title": "ちからくらべ解放"
+  },
+  {
+    "id": 7,
+    "originQuestoneId": 0,
+    "questoneId": 10020603,
+    "releaseMode": 7,
+    "text": "「ピクニック」で遊べるフレンズが増えました！",
+    "title": "ピクニック人数+1"
+  },
+  {
+    "id": 8,
+    "originQuestoneId": 0,
+    "questoneId": 10031202,
+    "releaseMode": 8,
+    "text": "「アライさん隊長日誌」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 9,
+    "originQuestoneId": 0,
+    "questoneId": 10031202,
+    "releaseMode": 9,
+    "text": "「シーサーバル道場」が解放されました！",
+    "title": "シーサーバル道場解放"
+  },
+  { "id": 10, "originQuestoneId": 0, "questoneId": 10081102, "releaseMode": 10, "text": "", "title": "" },
+  { "id": 11, "originQuestoneId": 0, "questoneId": 10091102, "releaseMode": 11, "text": "", "title": "" },
+  {
+    "id": 12,
+    "originQuestoneId": 0,
+    "questoneId": 10041201,
+    "releaseMode": 12,
+    "text": "「セーバルぶらり旅」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 13,
+    "originQuestoneId": 0,
+    "questoneId": 14,
+    "releaseMode": 13,
+    "text": "「わいわいツリーハウス」が解放されました！",
+    "title": "わいわいツリーハウス解放"
+  },
+  {
+    "id": 14,
+    "originQuestoneId": 0,
+    "questoneId": 10010103,
+    "releaseMode": 15,
+    "text": " 「すぺしゃるクエスト」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 15,
+    "originQuestoneId": 0,
+    "questoneId": 10091201,
+    "releaseMode": 16,
+    "text": "「メインストーリー シーズン２」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 16,
+    "originQuestoneId": 12071006,
+    "questoneId": 14,
+    "releaseMode": 17,
+    "text": "「メインストーリー シーズン３」が解放されました！",
+    "title": "クエストモード解放"
+  },
+  {
+    "id": 17,
+    "originQuestoneId": 0,
+    "questoneId": 10091201,
+    "releaseMode": 18,
+    "text": "クエストモード選択画面でのフレンズおてつだい機能が解放されました！",
+    "title": "フレンズおてつだい機能解放"
+  }
+]
