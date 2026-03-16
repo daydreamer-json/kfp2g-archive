@@ -35,3 +35,26 @@ export interface MstVersionResponse extends Response {
 export interface MstDataResponse extends Response {
   data: string;
 }
+
+export interface ABListAssetData {
+  name: string;
+  save: boolean;
+  type: 'Asset' | 'Raw' | 'AssetDirectory' | 'RawDirectory' | 'Pack' | 'PackEnd';
+  category: string;
+  tags: string[];
+  size: number;
+  hash: string;
+  dependencies: number[];
+}
+export interface ABListData {
+  version: string;
+  items: ABListAssetData[];
+}
+
+export interface ABMirrorArchiveEntry {
+  assetBundleUrl: string;
+  assetBundleVersion: string;
+  platform: 'Windows' | 'Android' | 'iOS';
+  chunkMapFile: string;
+  chunkMapBaseName: string;
+}

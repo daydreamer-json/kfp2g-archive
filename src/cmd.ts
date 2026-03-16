@@ -42,6 +42,22 @@ async function parseCommand() {
       },
       wrapHandler(cmds.archive),
     )
+    .command(
+      ['abArchive'],
+      'Download all assetbundles',
+      (yargs) => {
+        yargs.options({
+          'output-dir': {
+            alias: ['o'],
+            desc: 'Output root directory',
+            default: path.resolve('output'),
+            normalize: true,
+            type: 'string',
+          },
+        });
+      },
+      wrapHandler(cmds.abArchive),
+    )
     .options({
       'log-level': {
         desc: 'Set log level (' + TypesLogLevels.LOG_LEVELS_NUM.join(', ') + ')',

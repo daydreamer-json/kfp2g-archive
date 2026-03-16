@@ -1,6 +1,6 @@
 import path from 'node:path';
 import { Octokit } from '@octokit/rest';
-import ky from 'ky';
+import ky, { HTTPError } from 'ky';
 import { DateTime } from 'luxon';
 import PQueue from 'p-queue';
 import semver from 'semver';
@@ -14,6 +14,8 @@ import github from '../utils/github.js';
 import logger from '../utils/logger.js';
 import mathUtils from '../utils/math.js';
 import tarball from '../utils/tarball.js';
+
+const networkQueue = new PQueue({ concurrency: config.threadCount.network });
 
 interface StoredData<T> {
   req: any;
@@ -132,10 +134,9 @@ async function validateDGPAccessToken(): Promise<boolean> {
 async function dlGameFile(fileList: TypesApiDgp.Filelist['data'], signCookie: string) {
   logger.info('Downloading game file ...');
   const outArr: (TypesApiDgp.Filelist['data']['file_list'][number] & { buffer: ArrayBuffer })[] = [];
-  const netQueue = new PQueue({ concurrency: config.threadCount.network });
   for (const fileEntry of fileList.file_list.sort((a, b) => a.size - b.size)) {
     const url = fileList.domain + '/' + fileEntry.path;
-    netQueue.add(async () => {
+    networkQueue.add(async () => {
       const rsp = await ky
         .get(url, {
           ...api.dmmGamePlayer.defaultSettings.ky,
@@ -151,7 +152,7 @@ async function dlGameFile(fileList: TypesApiDgp.Filelist['data'], signCookie: st
       );
     });
   }
-  await netQueue.onIdle();
+  await networkQueue.onIdle();
   return outArr;
 }
 
@@ -305,6 +306,109 @@ async function fetchAndSaveMst() {
   }
 }
 
+async function downloadRawFile(url: string) {
+  const urlObj = new URL(url);
+  urlObj.search = '';
+  const localPath = path.join(
+    argvUtils.getArgv()['outputDir'],
+    'raw',
+    urlObj.hostname,
+    ...urlObj.pathname.split('/').filter(Boolean),
+  );
+
+  if (await Bun.file(localPath).exists()) return false;
+
+  try {
+    const data = await ky.get(urlObj.href, api.parade.defaultSettings.ky).bytes();
+    await Bun.write(localPath, data);
+    return true;
+  } catch (err) {
+    if (err instanceof HTTPError && (err.response.status === 404 || err.response.status === 403)) return false;
+    throw err;
+  }
+}
+
+async function fetchAndSaveRawFile() {
+  logger.debug('Fetching raw files ...');
+  const wroteFiles: string[] = [];
+  const outputDir = argvUtils.getArgv()['outputDir'];
+
+  const addToQueue = (url: string) => {
+    networkQueue.add(async () => {
+      if (await downloadRawFile(url)) {
+        wroteFiles.push(url);
+      }
+    });
+  };
+
+  const urls = new Set<string>();
+
+  const platforms = ['Windows', 'Android', 'iOS'] as const;
+  const fileNames = ['ab_list.txt', 'ab_env.txt', 'ab_guid.txt', 'filesize.csv'];
+  const getUrlRspAllPath = path.join(outputDir, 'parade', 'common', 'get_url', 'all.json');
+  const getUrlRspAll: StoredData<IParadeApi.GetUrlResponse>[] = await Bun.file(getUrlRspAllPath).json();
+  for (const getUrlRspEntry of getUrlRspAll) {
+    for (const platform of platforms) {
+      for (const fName of fileNames) {
+        urls.add(
+          `${getUrlRspEntry.rsp.asset_bundle_url}/${platform}/${getUrlRspEntry.rsp.asset_bundle_version}/ja/${fName}`,
+        );
+      }
+    }
+  }
+  for (const url of urls) addToQueue(url);
+  await networkQueue.onIdle();
+
+  for (const url of wroteFiles.filter((e) => e.includes('ab_list.txt'))) {
+    const urlObj = new URL(url);
+    urlObj.search = '';
+    const localPath = path.join(
+      argvUtils.getArgv()['outputDir'],
+      'raw',
+      urlObj.hostname,
+      ...urlObj.pathname.split('/').filter(Boolean),
+    );
+    const rawData = await Bun.file(localPath).text();
+    const parsedData = parseAbList(rawData);
+    await Bun.write(localPath.replace(/\.txt$/, '.json'), JSON.stringify(parsedData, null, 2));
+  }
+
+  logger.info(`Fetched raw files: ${wroteFiles.length} files`);
+}
+
+function parseAbList(text: string): IParadeApi.ABListData {
+  const lines = text.split(/\r?\n/);
+
+  if (lines.length === 0) throw new Error('Text is empty');
+
+  const version = lines.shift() || '';
+  const dataList: IParadeApi.ABListAssetData[] = [];
+
+  for (const line of lines) {
+    if (line.startsWith('[EOF]')) break;
+    if (!line) continue;
+
+    const cols = line.split('\t');
+    if (cols.length <= 7) throw new Error('Cannot parse ab_list.txt: not enough cols length: ' + cols.length);
+    const data: IParadeApi.ABListAssetData = {
+      name: cols[0]!,
+      save: cols[1]! === '1',
+      type: cols[2]! as IParadeApi.ABListAssetData['type'],
+      category: cols[3]!,
+      tags: cols[4]!.split(','),
+      size: parseInt(cols[5]!),
+      hash: !isNaN(parseInt(cols[6]!, 16)) ? cols[6]! : '',
+      dependencies: cols[7]!
+        .split(',')
+        .map((val) => parseInt(val, 10))
+        .filter(Boolean),
+    };
+    dataList.push(data);
+  }
+
+  return { version: version, items: dataList };
+}
+
 async function main() {
   // validate dmm access token
   await validateDGPAccessToken();
@@ -315,6 +419,7 @@ async function main() {
 
   await fetchAndSaveGetUrlCmd();
   await fetchAndSaveMst();
+  await fetchAndSaveRawFile();
 }
 
 export default main;
