@@ -1,0 +1,59 @@
+name: Auto API update check
+permissions:
+  actions: write
+  checks: write
+  contents: write
+on:
+  # Scheduled trigger is disabled by default (use cron-job)
+  # Uncommenting the following two lines will enable it
+  # schedule:
+  #   - cron: '0 16 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+      - name: Install dependencies
+        run: bun install
+      - name: Create config auth
+        env:
+          CONFIG_AUTH_YAML_CTX: ${{ secrets.CONFIG_AUTH_YAML }}
+        run: |
+          mkdir -p config
+          echo "$CONFIG_AUTH_YAML_CTX" > config/config_auth.yaml
+      - name: Run archive script
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 5
+          timeout_minutes: 10
+          command: bun run src/main.ts archive
+      - name: Format output folder
+        run: bun x oxfmt output
+      - name: Git pull
+        run: git pull
+      - name: Git commit and push
+        uses: iarekylew00t/verified-bot-commit@v2
+        with:
+          message: "[Auto] API update"
+          files: |
+            output/**
+          if-no-commit: info
+      - name: Run assetbundle archive script
+        run: bun run src/main.ts abArchive
+        continue-on-error: false
+      - name: Format output folder
+        run: bun x oxfmt output
+      - name: Git pull
+        run: git pull
+      - name: Git commit and push
+        uses: iarekylew00t/verified-bot-commit@v2
+        with:
+          message: "[Auto] API update"
+          files: |
+            output/**
+          if-no-commit: info
