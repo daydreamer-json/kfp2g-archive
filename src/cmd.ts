@@ -28,7 +28,7 @@ async function parseCommand() {
   await yargsInstance
     .command(
       ['archive'],
-      'Archive command',
+      'Archive in-game API data',
       (yargs) => {
         yargs.options({
           'output-dir': {
@@ -43,8 +43,24 @@ async function parseCommand() {
       wrapHandler(cmds.archive),
     )
     .command(
+      ['gamePkgArchive'],
+      'Archive dmm game packages',
+      (yargs) => {
+        yargs.options({
+          'output-dir': {
+            alias: ['o'],
+            desc: 'Output root directory',
+            default: path.resolve('output'),
+            normalize: true,
+            type: 'string',
+          },
+        });
+      },
+      wrapHandler(cmds.gamePkgArchive),
+    )
+    .command(
       ['abArchive'],
-      'Download all assetbundles',
+      'Archive all assetbundles to mirror',
       (yargs) => {
         yargs.options({
           'output-dir': {
