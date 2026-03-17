@@ -172,7 +172,7 @@ async function fetchAndArchiveGamePkg() {
     reqParam.gameType,
     reqParam.launchType,
   );
-  if (dgpLaunchRsp.result_code !== 100) throw new Error('API error');
+  if (dgpLaunchRsp.result_code !== 100) throw new Error('API error: ' + JSON.stringify(dgpLaunchRsp));
   if (configAuth.get().dmm.viewerId === null) {
     const viewerId = dgpLaunchRsp.data.execute_args.match(/\/viewer_id=(\d+)/);
     if (viewerId && viewerId[1]) {
