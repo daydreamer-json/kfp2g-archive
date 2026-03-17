@@ -1,8 +1,13 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
   "ignorePatterns": [
-    "output/raw/**/index_main.json",
-    "output/raw/**/index_initial.json"
+    "output/raw/**/ab_list.json",
+    "output/raw/**/ab_list.txt",
+    "output/raw/**/ab_guid.txt",
+    "output/raw/**/filesize.csv",
+    "output/parade/common/mst_data/all.json",
+    "output/parade/common/mst_data/latest.json",
+    "output/parade/common/mst_data_raw_latest/*.json"
   ],
   "useTabs": false,
   "printWidth": 120,
