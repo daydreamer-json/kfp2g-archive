@@ -41,6 +41,11 @@ async function main() {
 
   const octoClient = new Octokit({ auth: configAuth.get().github.relArchive.token });
 
+  if (await github.checkIsActionRunning()) {
+    logger.error('Duplicate execution detected (GitHub Action is already running)');
+    return;
+  }
+
   const outputDir = argvUtils.getArgv()['outputDir'];
 
   const abMirrorListPath = path.join(outputDir, 'parade', 'ab', 'mirror_list.json');
