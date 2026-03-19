@@ -8902,5 +8902,29 @@
     "id": 1118,
     "increaseItemId": 33165,
     "startDatetime": 1773896400000
+  },
+  {
+    "bonusPhotoId": 6559,
+    "bonusRatio": 2500,
+    "endDatetime": 1775106000000,
+    "id": 1119,
+    "increaseItemId": 33169,
+    "startDatetime": 1774328400000
+  },
+  {
+    "bonusPhotoId": 5256,
+    "bonusRatio": 2500,
+    "endDatetime": 1775106000000,
+    "id": 1120,
+    "increaseItemId": 33169,
+    "startDatetime": 1774328400000
+  },
+  {
+    "bonusPhotoId": 4517,
+    "bonusRatio": 500,
+    "endDatetime": 1775106000000,
+    "id": 1121,
+    "increaseItemId": 33169,
+    "startDatetime": 1774328400000
   }
 ]

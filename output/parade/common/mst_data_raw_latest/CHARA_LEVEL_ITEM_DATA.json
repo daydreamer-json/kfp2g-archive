@@ -1,26 +1,194 @@
 [
-  { "attribute": 0, "attributeExp": 300, "exp": 300, "isKizuna": 0, "itemId": 13001, "strengCoinNum": 20 },
-  { "attribute": 0, "attributeExp": 1200, "exp": 1200, "isKizuna": 0, "itemId": 13002, "strengCoinNum": 80 },
-  { "attribute": 0, "attributeExp": 3000, "exp": 3000, "isKizuna": 0, "itemId": 13003, "strengCoinNum": 200 },
-  { "attribute": 1, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13004, "strengCoinNum": 20 },
-  { "attribute": 1, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13005, "strengCoinNum": 80 },
-  { "attribute": 1, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13006, "strengCoinNum": 200 },
-  { "attribute": 2, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13007, "strengCoinNum": 20 },
-  { "attribute": 2, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13008, "strengCoinNum": 80 },
-  { "attribute": 2, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13009, "strengCoinNum": 200 },
-  { "attribute": 3, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13010, "strengCoinNum": 20 },
-  { "attribute": 3, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13011, "strengCoinNum": 80 },
-  { "attribute": 3, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13012, "strengCoinNum": 200 },
-  { "attribute": 4, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13013, "strengCoinNum": 20 },
-  { "attribute": 4, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13014, "strengCoinNum": 80 },
-  { "attribute": 4, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13015, "strengCoinNum": 200 },
-  { "attribute": 5, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13016, "strengCoinNum": 20 },
-  { "attribute": 5, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13017, "strengCoinNum": 80 },
-  { "attribute": 5, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13018, "strengCoinNum": 200 },
-  { "attribute": 6, "attributeExp": 300, "exp": 200, "isKizuna": 0, "itemId": 13019, "strengCoinNum": 20 },
-  { "attribute": 6, "attributeExp": 1200, "exp": 800, "isKizuna": 0, "itemId": 13020, "strengCoinNum": 80 },
-  { "attribute": 6, "attributeExp": 3000, "exp": 2000, "isKizuna": 0, "itemId": 13021, "strengCoinNum": 200 },
-  { "attribute": 0, "attributeExp": 75, "exp": 75, "isKizuna": 1, "itemId": 13051, "strengCoinNum": 20 },
-  { "attribute": 0, "attributeExp": 300, "exp": 300, "isKizuna": 1, "itemId": 13052, "strengCoinNum": 80 },
-  { "attribute": 0, "attributeExp": 750, "exp": 750, "isKizuna": 1, "itemId": 13053, "strengCoinNum": 200 }
+  {
+    "attribute": 0,
+    "attributeExp": 300,
+    "exp": 300,
+    "isKizuna": 0,
+    "itemId": 13001,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 0,
+    "attributeExp": 1200,
+    "exp": 1200,
+    "isKizuna": 0,
+    "itemId": 13002,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 0,
+    "attributeExp": 3000,
+    "exp": 3000,
+    "isKizuna": 0,
+    "itemId": 13003,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 1,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13004,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 1,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13005,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 1,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13006,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 2,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13007,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 2,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13008,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 2,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13009,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 3,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13010,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 3,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13011,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 3,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13012,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 4,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13013,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 4,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13014,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 4,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13015,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 5,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13016,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 5,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13017,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 5,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13018,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 6,
+    "attributeExp": 300,
+    "exp": 200,
+    "isKizuna": 0,
+    "itemId": 13019,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 6,
+    "attributeExp": 1200,
+    "exp": 800,
+    "isKizuna": 0,
+    "itemId": 13020,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 6,
+    "attributeExp": 3000,
+    "exp": 2000,
+    "isKizuna": 0,
+    "itemId": 13021,
+    "strengCoinNum": 200
+  },
+  {
+    "attribute": 0,
+    "attributeExp": 75,
+    "exp": 75,
+    "isKizuna": 1,
+    "itemId": 13051,
+    "strengCoinNum": 20
+  },
+  {
+    "attribute": 0,
+    "attributeExp": 300,
+    "exp": 300,
+    "isKizuna": 1,
+    "itemId": 13052,
+    "strengCoinNum": 80
+  },
+  {
+    "attribute": 0,
+    "attributeExp": 750,
+    "exp": 750,
+    "isKizuna": 1,
+    "itemId": 13053,
+    "strengCoinNum": 200
+  }
 ]

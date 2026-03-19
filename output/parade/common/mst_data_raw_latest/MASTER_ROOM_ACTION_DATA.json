@@ -1,197 +1,977 @@
 [
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1002 },
-  { "charaId": 102, "clothesItemId": 71020, "masterRoomActionId": 1002 },
-  { "charaId": 102, "clothesItemId": 71021, "masterRoomActionId": 1002 },
-  { "charaId": 102, "clothesItemId": 71022, "masterRoomActionId": 1002 },
-  { "charaId": 102, "clothesItemId": 71023, "masterRoomActionId": 1002 },
-  { "charaId": 102, "clothesItemId": 71024, "masterRoomActionId": 1002 },
-  { "charaId": 103, "clothesItemId": 71030, "masterRoomActionId": 1002 },
-  { "charaId": 103, "clothesItemId": 71031, "masterRoomActionId": 1002 },
-  { "charaId": 103, "clothesItemId": 71032, "masterRoomActionId": 1002 },
-  { "charaId": 103, "clothesItemId": 71033, "masterRoomActionId": 1002 },
-  { "charaId": 103, "clothesItemId": 71034, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72220, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72221, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72222, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72223, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72224, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72231, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72232, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72233, "masterRoomActionId": 1002 },
-  { "charaId": 222, "clothesItemId": 72234, "masterRoomActionId": 1002 },
-  { "charaId": 223, "clothesItemId": 72230, "masterRoomActionId": 1002 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1003 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1004 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1006 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1016 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1018 },
-  { "charaId": 102, "clothesItemId": 71020, "masterRoomActionId": 1018 },
-  { "charaId": 102, "clothesItemId": 71021, "masterRoomActionId": 1018 },
-  { "charaId": 102, "clothesItemId": 71022, "masterRoomActionId": 1018 },
-  { "charaId": 102, "clothesItemId": 71023, "masterRoomActionId": 1018 },
-  { "charaId": 102, "clothesItemId": 71024, "masterRoomActionId": 1018 },
-  { "charaId": 103, "clothesItemId": 71030, "masterRoomActionId": 1018 },
-  { "charaId": 103, "clothesItemId": 71031, "masterRoomActionId": 1018 },
-  { "charaId": 103, "clothesItemId": 71032, "masterRoomActionId": 1018 },
-  { "charaId": 103, "clothesItemId": 71033, "masterRoomActionId": 1018 },
-  { "charaId": 103, "clothesItemId": 71034, "masterRoomActionId": 1018 },
-  { "charaId": 222, "clothesItemId": 72220, "masterRoomActionId": 1018 },
-  { "charaId": 222, "clothesItemId": 72221, "masterRoomActionId": 1018 },
-  { "charaId": 222, "clothesItemId": 72222, "masterRoomActionId": 1018 },
-  { "charaId": 222, "clothesItemId": 72223, "masterRoomActionId": 1018 },
-  { "charaId": 222, "clothesItemId": 72224, "masterRoomActionId": 1018 },
-  { "charaId": 223, "clothesItemId": 72230, "masterRoomActionId": 1018 },
-  { "charaId": 223, "clothesItemId": 72231, "masterRoomActionId": 1018 },
-  { "charaId": 223, "clothesItemId": 72232, "masterRoomActionId": 1018 },
-  { "charaId": 223, "clothesItemId": 72233, "masterRoomActionId": 1018 },
-  { "charaId": 223, "clothesItemId": 72234, "masterRoomActionId": 1018 },
-  { "charaId": 3, "clothesItemId": 70039, "masterRoomActionId": 1019 },
-  { "charaId": 4, "clothesItemId": 70049, "masterRoomActionId": 1019 },
-  { "charaId": 5, "clothesItemId": 70059, "masterRoomActionId": 1019 },
-  { "charaId": 7, "clothesItemId": 70074, "masterRoomActionId": 1019 },
-  { "charaId": 7, "clothesItemId": 70079, "masterRoomActionId": 1019 },
-  { "charaId": 8, "clothesItemId": 70089, "masterRoomActionId": 1019 },
-  { "charaId": 9, "clothesItemId": 70099, "masterRoomActionId": 1019 },
-  { "charaId": 10, "clothesItemId": 70109, "masterRoomActionId": 1019 },
-  { "charaId": 11, "clothesItemId": 70119, "masterRoomActionId": 1019 },
-  { "charaId": 12, "clothesItemId": 70120, "masterRoomActionId": 1019 },
-  { "charaId": 12, "clothesItemId": 70124, "masterRoomActionId": 1019 },
-  { "charaId": 12, "clothesItemId": 70129, "masterRoomActionId": 1019 },
-  { "charaId": 13, "clothesItemId": 70130, "masterRoomActionId": 1019 },
-  { "charaId": 13, "clothesItemId": 70134, "masterRoomActionId": 1019 },
-  { "charaId": 13, "clothesItemId": 70139, "masterRoomActionId": 1019 },
-  { "charaId": 14, "clothesItemId": 70140, "masterRoomActionId": 1019 },
-  { "charaId": 14, "clothesItemId": 70144, "masterRoomActionId": 1019 },
-  { "charaId": 14, "clothesItemId": 70149, "masterRoomActionId": 1019 },
-  { "charaId": 15, "clothesItemId": 70150, "masterRoomActionId": 1019 },
-  { "charaId": 15, "clothesItemId": 70154, "masterRoomActionId": 1019 },
-  { "charaId": 15, "clothesItemId": 70159, "masterRoomActionId": 1019 },
-  { "charaId": 16, "clothesItemId": 70164, "masterRoomActionId": 1019 },
-  { "charaId": 16, "clothesItemId": 70169, "masterRoomActionId": 1019 },
-  { "charaId": 18, "clothesItemId": 70180, "masterRoomActionId": 1019 },
-  { "charaId": 18, "clothesItemId": 70184, "masterRoomActionId": 1019 },
-  { "charaId": 18, "clothesItemId": 70189, "masterRoomActionId": 1019 },
-  { "charaId": 20, "clothesItemId": 70209, "masterRoomActionId": 1019 },
-  { "charaId": 21, "clothesItemId": 70219, "masterRoomActionId": 1019 },
-  { "charaId": 24, "clothesItemId": 70244, "masterRoomActionId": 1019 },
-  { "charaId": 24, "clothesItemId": 70249, "masterRoomActionId": 1019 },
-  { "charaId": 25, "clothesItemId": 70259, "masterRoomActionId": 1019 },
-  { "charaId": 26, "clothesItemId": 70269, "masterRoomActionId": 1019 },
-  { "charaId": 27, "clothesItemId": 70279, "masterRoomActionId": 1019 },
-  { "charaId": 28, "clothesItemId": 70289, "masterRoomActionId": 1019 },
-  { "charaId": 35, "clothesItemId": 70350, "masterRoomActionId": 1019 },
-  { "charaId": 35, "clothesItemId": 70354, "masterRoomActionId": 1019 },
-  { "charaId": 37, "clothesItemId": 70379, "masterRoomActionId": 1019 },
-  { "charaId": 43, "clothesItemId": 70434, "masterRoomActionId": 1019 },
-  { "charaId": 44, "clothesItemId": 70449, "masterRoomActionId": 1019 },
-  { "charaId": 45, "clothesItemId": 70459, "masterRoomActionId": 1019 },
-  { "charaId": 46, "clothesItemId": 70464, "masterRoomActionId": 1019 },
-  { "charaId": 51, "clothesItemId": 70510, "masterRoomActionId": 1019 },
-  { "charaId": 52, "clothesItemId": 70520, "masterRoomActionId": 1019 },
-  { "charaId": 52, "clothesItemId": 70524, "masterRoomActionId": 1019 },
-  { "charaId": 53, "clothesItemId": 70539, "masterRoomActionId": 1019 },
-  { "charaId": 59, "clothesItemId": 70599, "masterRoomActionId": 1019 },
-  { "charaId": 60, "clothesItemId": 70600, "masterRoomActionId": 1019 },
-  { "charaId": 60, "clothesItemId": 70604, "masterRoomActionId": 1019 },
-  { "charaId": 60, "clothesItemId": 70609, "masterRoomActionId": 1019 },
-  { "charaId": 63, "clothesItemId": 70634, "masterRoomActionId": 1019 },
-  { "charaId": 64, "clothesItemId": 70649, "masterRoomActionId": 1019 },
-  { "charaId": 68, "clothesItemId": 70684, "masterRoomActionId": 1019 },
-  { "charaId": 69, "clothesItemId": 70699, "masterRoomActionId": 1019 },
-  { "charaId": 70, "clothesItemId": 70709, "masterRoomActionId": 1019 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 1019 },
-  { "charaId": 73, "clothesItemId": 70739, "masterRoomActionId": 1019 },
-  { "charaId": 74, "clothesItemId": 70749, "masterRoomActionId": 1019 },
-  { "charaId": 75, "clothesItemId": 70759, "masterRoomActionId": 1019 },
-  { "charaId": 77, "clothesItemId": 70779, "masterRoomActionId": 1019 },
-  { "charaId": 79, "clothesItemId": 70790, "masterRoomActionId": 1019 },
-  { "charaId": 85, "clothesItemId": 70854, "masterRoomActionId": 1019 },
-  { "charaId": 87, "clothesItemId": 70870, "masterRoomActionId": 1019 },
-  { "charaId": 88, "clothesItemId": 70884, "masterRoomActionId": 1019 },
-  { "charaId": 89, "clothesItemId": 70894, "masterRoomActionId": 1019 },
-  { "charaId": 93, "clothesItemId": 70934, "masterRoomActionId": 1019 },
-  { "charaId": 94, "clothesItemId": 70940, "masterRoomActionId": 1019 },
-  { "charaId": 95, "clothesItemId": 70950, "masterRoomActionId": 1019 },
-  { "charaId": 104, "clothesItemId": 71040, "masterRoomActionId": 1019 },
-  { "charaId": 104, "clothesItemId": 71044, "masterRoomActionId": 1019 },
-  { "charaId": 104, "clothesItemId": 71049, "masterRoomActionId": 1019 },
-  { "charaId": 109, "clothesItemId": 71090, "masterRoomActionId": 1019 },
-  { "charaId": 109, "clothesItemId": 71094, "masterRoomActionId": 1019 },
-  { "charaId": 109, "clothesItemId": 71099, "masterRoomActionId": 1019 },
-  { "charaId": 110, "clothesItemId": 71100, "masterRoomActionId": 1019 },
-  { "charaId": 113, "clothesItemId": 71139, "masterRoomActionId": 1019 },
-  { "charaId": 120, "clothesItemId": 71209, "masterRoomActionId": 1019 },
-  { "charaId": 125, "clothesItemId": 71250, "masterRoomActionId": 1019 },
-  { "charaId": 125, "clothesItemId": 71254, "masterRoomActionId": 1019 },
-  { "charaId": 141, "clothesItemId": 71410, "masterRoomActionId": 1019 },
-  { "charaId": 141, "clothesItemId": 71414, "masterRoomActionId": 1019 },
-  { "charaId": 153, "clothesItemId": 71530, "masterRoomActionId": 1019 },
-  { "charaId": 153, "clothesItemId": 71534, "masterRoomActionId": 1019 },
-  { "charaId": 155, "clothesItemId": 71550, "masterRoomActionId": 1019 },
-  { "charaId": 155, "clothesItemId": 71554, "masterRoomActionId": 1019 },
-  { "charaId": 156, "clothesItemId": 71564, "masterRoomActionId": 1019 },
-  { "charaId": 161, "clothesItemId": 71619, "masterRoomActionId": 1019 },
-  { "charaId": 180, "clothesItemId": 71809, "masterRoomActionId": 1019 },
-  { "charaId": 182, "clothesItemId": 71820, "masterRoomActionId": 1019 },
-  { "charaId": 188, "clothesItemId": 71884, "masterRoomActionId": 1019 },
-  { "charaId": 222, "clothesItemId": 72224, "masterRoomActionId": 1019 },
-  { "charaId": 223, "clothesItemId": 72234, "masterRoomActionId": 1019 },
-  { "charaId": 234, "clothesItemId": 72344, "masterRoomActionId": 1019 },
-  { "charaId": 237, "clothesItemId": 72370, "masterRoomActionId": 1019 },
-  { "charaId": 237, "clothesItemId": 72374, "masterRoomActionId": 1019 },
-  { "charaId": 239, "clothesItemId": 72399, "masterRoomActionId": 1019 },
-  { "charaId": 242, "clothesItemId": 72420, "masterRoomActionId": 1019 },
-  { "charaId": 242, "clothesItemId": 72429, "masterRoomActionId": 1019 },
-  { "charaId": 243, "clothesItemId": 72439, "masterRoomActionId": 1019 },
-  { "charaId": 276, "clothesItemId": 72760, "masterRoomActionId": 1019 },
-  { "charaId": 276, "clothesItemId": 72764, "masterRoomActionId": 1019 },
-  { "charaId": 282, "clothesItemId": 72824, "masterRoomActionId": 1019 },
-  { "charaId": 301, "clothesItemId": 73019, "masterRoomActionId": 1019 },
-  { "charaId": 302, "clothesItemId": 73029, "masterRoomActionId": 1019 },
-  { "charaId": 314, "clothesItemId": 73149, "masterRoomActionId": 1019 },
-  { "charaId": 316, "clothesItemId": 73160, "masterRoomActionId": 1019 },
-  { "charaId": 316, "clothesItemId": 73164, "masterRoomActionId": 1019 },
-  { "charaId": 322, "clothesItemId": 73229, "masterRoomActionId": 1019 },
-  { "charaId": 323, "clothesItemId": 73230, "masterRoomActionId": 1019 },
-  { "charaId": 327, "clothesItemId": 73279, "masterRoomActionId": 1019 },
-  { "charaId": 356, "clothesItemId": 73564, "masterRoomActionId": 1019 },
-  { "charaId": 357, "clothesItemId": 73571, "masterRoomActionId": 1019 },
-  { "charaId": 358, "clothesItemId": 73584, "masterRoomActionId": 1019 },
-  { "charaId": 359, "clothesItemId": 73591, "masterRoomActionId": 1019 },
-  { "charaId": 363, "clothesItemId": 73635, "masterRoomActionId": 1019 },
-  { "charaId": 365, "clothesItemId": 73655, "masterRoomActionId": 1019 },
-  { "charaId": 366, "clothesItemId": 73661, "masterRoomActionId": 1019 },
-  { "charaId": 367, "clothesItemId": 73671, "masterRoomActionId": 1019 },
-  { "charaId": 367, "clothesItemId": 73675, "masterRoomActionId": 1019 },
-  { "charaId": 368, "clothesItemId": 73681, "masterRoomActionId": 1019 },
-  { "charaId": 368, "clothesItemId": 73685, "masterRoomActionId": 1019 },
-  { "charaId": 369, "clothesItemId": 73690, "masterRoomActionId": 1019 },
-  { "charaId": 380, "clothesItemId": 73804, "masterRoomActionId": 1019 },
-  { "charaId": 381, "clothesItemId": 73814, "masterRoomActionId": 1019 },
-  { "charaId": 396, "clothesItemId": 73960, "masterRoomActionId": 1019 },
-  { "charaId": 397, "clothesItemId": 73970, "masterRoomActionId": 1019 },
-  { "charaId": 397, "clothesItemId": 73974, "masterRoomActionId": 1019 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 2004 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 2006 },
-  { "charaId": 102, "clothesItemId": 71020, "masterRoomActionId": 2006 },
-  { "charaId": 102, "clothesItemId": 71021, "masterRoomActionId": 2006 },
-  { "charaId": 102, "clothesItemId": 71022, "masterRoomActionId": 2006 },
-  { "charaId": 102, "clothesItemId": 71023, "masterRoomActionId": 2006 },
-  { "charaId": 102, "clothesItemId": 71024, "masterRoomActionId": 2006 },
-  { "charaId": 103, "clothesItemId": 71030, "masterRoomActionId": 2006 },
-  { "charaId": 103, "clothesItemId": 71031, "masterRoomActionId": 2006 },
-  { "charaId": 103, "clothesItemId": 71032, "masterRoomActionId": 2006 },
-  { "charaId": 103, "clothesItemId": 71033, "masterRoomActionId": 2006 },
-  { "charaId": 103, "clothesItemId": 71034, "masterRoomActionId": 2006 },
-  { "charaId": 222, "clothesItemId": 72220, "masterRoomActionId": 2006 },
-  { "charaId": 222, "clothesItemId": 72221, "masterRoomActionId": 2006 },
-  { "charaId": 222, "clothesItemId": 72222, "masterRoomActionId": 2006 },
-  { "charaId": 222, "clothesItemId": 72223, "masterRoomActionId": 2006 },
-  { "charaId": 222, "clothesItemId": 72224, "masterRoomActionId": 2006 },
-  { "charaId": 223, "clothesItemId": 72230, "masterRoomActionId": 2006 },
-  { "charaId": 223, "clothesItemId": 72231, "masterRoomActionId": 2006 },
-  { "charaId": 223, "clothesItemId": 72232, "masterRoomActionId": 2006 },
-  { "charaId": 223, "clothesItemId": 72233, "masterRoomActionId": 2006 },
-  { "charaId": 223, "clothesItemId": 72234, "masterRoomActionId": 2006 },
-  { "charaId": 71, "clothesItemId": 70710, "masterRoomActionId": 2016 }
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71020,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71021,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71022,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71023,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71024,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71030,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71031,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71032,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71033,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71034,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72220,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72221,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72222,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72223,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72224,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72231,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72232,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72233,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72234,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72230,
+    "masterRoomActionId": 1002
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1003
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1004
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1006
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1016
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71020,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71021,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71022,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71023,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71024,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71030,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71031,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71032,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71033,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71034,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72220,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72221,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72222,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72223,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72224,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72230,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72231,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72232,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72233,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72234,
+    "masterRoomActionId": 1018
+  },
+  {
+    "charaId": 3,
+    "clothesItemId": 70039,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 4,
+    "clothesItemId": 70049,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 5,
+    "clothesItemId": 70059,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 7,
+    "clothesItemId": 70074,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 7,
+    "clothesItemId": 70079,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 8,
+    "clothesItemId": 70089,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 9,
+    "clothesItemId": 70099,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 10,
+    "clothesItemId": 70109,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 11,
+    "clothesItemId": 70119,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 12,
+    "clothesItemId": 70120,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 12,
+    "clothesItemId": 70124,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 12,
+    "clothesItemId": 70129,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 13,
+    "clothesItemId": 70130,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 13,
+    "clothesItemId": 70134,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 13,
+    "clothesItemId": 70139,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 14,
+    "clothesItemId": 70140,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 14,
+    "clothesItemId": 70144,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 14,
+    "clothesItemId": 70149,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 15,
+    "clothesItemId": 70150,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 15,
+    "clothesItemId": 70154,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 15,
+    "clothesItemId": 70159,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 16,
+    "clothesItemId": 70164,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 16,
+    "clothesItemId": 70169,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 18,
+    "clothesItemId": 70180,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 18,
+    "clothesItemId": 70184,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 18,
+    "clothesItemId": 70189,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 20,
+    "clothesItemId": 70209,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 21,
+    "clothesItemId": 70219,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 24,
+    "clothesItemId": 70244,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 24,
+    "clothesItemId": 70249,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 25,
+    "clothesItemId": 70259,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 26,
+    "clothesItemId": 70269,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 27,
+    "clothesItemId": 70279,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 28,
+    "clothesItemId": 70289,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 35,
+    "clothesItemId": 70350,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 35,
+    "clothesItemId": 70354,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 37,
+    "clothesItemId": 70379,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 43,
+    "clothesItemId": 70434,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 44,
+    "clothesItemId": 70449,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 45,
+    "clothesItemId": 70459,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 46,
+    "clothesItemId": 70464,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 51,
+    "clothesItemId": 70510,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 52,
+    "clothesItemId": 70520,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 52,
+    "clothesItemId": 70524,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 53,
+    "clothesItemId": 70539,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 59,
+    "clothesItemId": 70599,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 60,
+    "clothesItemId": 70600,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 60,
+    "clothesItemId": 70604,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 60,
+    "clothesItemId": 70609,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 63,
+    "clothesItemId": 70634,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 64,
+    "clothesItemId": 70649,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 68,
+    "clothesItemId": 70684,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 69,
+    "clothesItemId": 70699,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 70,
+    "clothesItemId": 70709,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 73,
+    "clothesItemId": 70739,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 74,
+    "clothesItemId": 70749,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 75,
+    "clothesItemId": 70759,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 77,
+    "clothesItemId": 70779,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 79,
+    "clothesItemId": 70790,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 85,
+    "clothesItemId": 70854,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 87,
+    "clothesItemId": 70870,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 88,
+    "clothesItemId": 70884,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 89,
+    "clothesItemId": 70894,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 93,
+    "clothesItemId": 70934,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 94,
+    "clothesItemId": 70940,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 95,
+    "clothesItemId": 70950,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 104,
+    "clothesItemId": 71040,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 104,
+    "clothesItemId": 71044,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 104,
+    "clothesItemId": 71049,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 109,
+    "clothesItemId": 71090,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 109,
+    "clothesItemId": 71094,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 109,
+    "clothesItemId": 71099,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 110,
+    "clothesItemId": 71100,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 113,
+    "clothesItemId": 71139,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 120,
+    "clothesItemId": 71209,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 125,
+    "clothesItemId": 71250,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 125,
+    "clothesItemId": 71254,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 141,
+    "clothesItemId": 71410,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 141,
+    "clothesItemId": 71414,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 153,
+    "clothesItemId": 71530,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 153,
+    "clothesItemId": 71534,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 155,
+    "clothesItemId": 71550,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 155,
+    "clothesItemId": 71554,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 156,
+    "clothesItemId": 71564,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 161,
+    "clothesItemId": 71619,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 180,
+    "clothesItemId": 71809,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 182,
+    "clothesItemId": 71820,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 188,
+    "clothesItemId": 71884,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72224,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72234,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 234,
+    "clothesItemId": 72344,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 237,
+    "clothesItemId": 72370,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 237,
+    "clothesItemId": 72374,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 239,
+    "clothesItemId": 72399,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 242,
+    "clothesItemId": 72420,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 242,
+    "clothesItemId": 72429,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 243,
+    "clothesItemId": 72439,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 276,
+    "clothesItemId": 72760,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 276,
+    "clothesItemId": 72764,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 282,
+    "clothesItemId": 72824,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 301,
+    "clothesItemId": 73019,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 302,
+    "clothesItemId": 73029,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 314,
+    "clothesItemId": 73149,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 316,
+    "clothesItemId": 73160,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 316,
+    "clothesItemId": 73164,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 322,
+    "clothesItemId": 73229,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 323,
+    "clothesItemId": 73230,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 327,
+    "clothesItemId": 73279,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 356,
+    "clothesItemId": 73564,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 357,
+    "clothesItemId": 73571,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 358,
+    "clothesItemId": 73584,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 359,
+    "clothesItemId": 73591,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 363,
+    "clothesItemId": 73635,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 365,
+    "clothesItemId": 73655,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 366,
+    "clothesItemId": 73661,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 367,
+    "clothesItemId": 73671,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 367,
+    "clothesItemId": 73675,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 368,
+    "clothesItemId": 73681,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 368,
+    "clothesItemId": 73685,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 369,
+    "clothesItemId": 73690,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 380,
+    "clothesItemId": 73804,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 381,
+    "clothesItemId": 73814,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 396,
+    "clothesItemId": 73960,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 397,
+    "clothesItemId": 73970,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 397,
+    "clothesItemId": 73974,
+    "masterRoomActionId": 1019
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 2004
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71020,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71021,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71022,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71023,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 102,
+    "clothesItemId": 71024,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71030,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71031,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71032,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71033,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 103,
+    "clothesItemId": 71034,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72220,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72221,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72222,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72223,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 222,
+    "clothesItemId": 72224,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72230,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72231,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72232,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72233,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 223,
+    "clothesItemId": 72234,
+    "masterRoomActionId": 2006
+  },
+  {
+    "charaId": 71,
+    "clothesItemId": 70710,
+    "masterRoomActionId": 2016
+  }
 ]

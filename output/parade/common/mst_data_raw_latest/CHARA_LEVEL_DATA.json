@@ -1,202 +1,1202 @@
 [
-  { "charaExp": 0, "charaReleaseDatetime": 971175600000, "level": 1, "levelId": 1 },
-  { "charaExp": 200, "charaReleaseDatetime": 971175600000, "level": 2, "levelId": 1 },
-  { "charaExp": 500, "charaReleaseDatetime": 971175600000, "level": 3, "levelId": 1 },
-  { "charaExp": 900, "charaReleaseDatetime": 971175600000, "level": 4, "levelId": 1 },
-  { "charaExp": 1400, "charaReleaseDatetime": 971175600000, "level": 5, "levelId": 1 },
-  { "charaExp": 2000, "charaReleaseDatetime": 971175600000, "level": 6, "levelId": 1 },
-  { "charaExp": 2700, "charaReleaseDatetime": 971175600000, "level": 7, "levelId": 1 },
-  { "charaExp": 3500, "charaReleaseDatetime": 971175600000, "level": 8, "levelId": 1 },
-  { "charaExp": 4400, "charaReleaseDatetime": 971175600000, "level": 9, "levelId": 1 },
-  { "charaExp": 5400, "charaReleaseDatetime": 971175600000, "level": 10, "levelId": 1 },
-  { "charaExp": 7600, "charaReleaseDatetime": 971175600000, "level": 11, "levelId": 1 },
-  { "charaExp": 10000, "charaReleaseDatetime": 971175600000, "level": 12, "levelId": 1 },
-  { "charaExp": 12600, "charaReleaseDatetime": 971175600000, "level": 13, "levelId": 1 },
-  { "charaExp": 15400, "charaReleaseDatetime": 971175600000, "level": 14, "levelId": 1 },
-  { "charaExp": 18400, "charaReleaseDatetime": 971175600000, "level": 15, "levelId": 1 },
-  { "charaExp": 21600, "charaReleaseDatetime": 971175600000, "level": 16, "levelId": 1 },
-  { "charaExp": 25000, "charaReleaseDatetime": 971175600000, "level": 17, "levelId": 1 },
-  { "charaExp": 28600, "charaReleaseDatetime": 971175600000, "level": 18, "levelId": 1 },
-  { "charaExp": 32400, "charaReleaseDatetime": 971175600000, "level": 19, "levelId": 1 },
-  { "charaExp": 36400, "charaReleaseDatetime": 971175600000, "level": 20, "levelId": 1 },
-  { "charaExp": 42700, "charaReleaseDatetime": 971175600000, "level": 21, "levelId": 1 },
-  { "charaExp": 49300, "charaReleaseDatetime": 971175600000, "level": 22, "levelId": 1 },
-  { "charaExp": 56200, "charaReleaseDatetime": 971175600000, "level": 23, "levelId": 1 },
-  { "charaExp": 63400, "charaReleaseDatetime": 971175600000, "level": 24, "levelId": 1 },
-  { "charaExp": 70900, "charaReleaseDatetime": 971175600000, "level": 25, "levelId": 1 },
-  { "charaExp": 78700, "charaReleaseDatetime": 971175600000, "level": 26, "levelId": 1 },
-  { "charaExp": 86800, "charaReleaseDatetime": 971175600000, "level": 27, "levelId": 1 },
-  { "charaExp": 95200, "charaReleaseDatetime": 971175600000, "level": 28, "levelId": 1 },
-  { "charaExp": 103900, "charaReleaseDatetime": 971175600000, "level": 29, "levelId": 1 },
-  { "charaExp": 112900, "charaReleaseDatetime": 971175600000, "level": 30, "levelId": 1 },
-  { "charaExp": 125300, "charaReleaseDatetime": 971175600000, "level": 31, "levelId": 1 },
-  { "charaExp": 138100, "charaReleaseDatetime": 971175600000, "level": 32, "levelId": 1 },
-  { "charaExp": 151300, "charaReleaseDatetime": 971175600000, "level": 33, "levelId": 1 },
-  { "charaExp": 164900, "charaReleaseDatetime": 971175600000, "level": 34, "levelId": 1 },
-  { "charaExp": 178900, "charaReleaseDatetime": 971175600000, "level": 35, "levelId": 1 },
-  { "charaExp": 193300, "charaReleaseDatetime": 971175600000, "level": 36, "levelId": 1 },
-  { "charaExp": 208100, "charaReleaseDatetime": 971175600000, "level": 37, "levelId": 1 },
-  { "charaExp": 223300, "charaReleaseDatetime": 971175600000, "level": 38, "levelId": 1 },
-  { "charaExp": 238900, "charaReleaseDatetime": 971175600000, "level": 39, "levelId": 1 },
-  { "charaExp": 254900, "charaReleaseDatetime": 971175600000, "level": 40, "levelId": 1 },
-  { "charaExp": 275400, "charaReleaseDatetime": 971175600000, "level": 41, "levelId": 1 },
-  { "charaExp": 296400, "charaReleaseDatetime": 971175600000, "level": 42, "levelId": 1 },
-  { "charaExp": 317900, "charaReleaseDatetime": 971175600000, "level": 43, "levelId": 1 },
-  { "charaExp": 339900, "charaReleaseDatetime": 971175600000, "level": 44, "levelId": 1 },
-  { "charaExp": 362400, "charaReleaseDatetime": 971175600000, "level": 45, "levelId": 1 },
-  { "charaExp": 385400, "charaReleaseDatetime": 971175600000, "level": 46, "levelId": 1 },
-  { "charaExp": 408900, "charaReleaseDatetime": 971175600000, "level": 47, "levelId": 1 },
-  { "charaExp": 432900, "charaReleaseDatetime": 971175600000, "level": 48, "levelId": 1 },
-  { "charaExp": 457400, "charaReleaseDatetime": 971175600000, "level": 49, "levelId": 1 },
-  { "charaExp": 482400, "charaReleaseDatetime": 971175600000, "level": 50, "levelId": 1 },
-  { "charaExp": 513000, "charaReleaseDatetime": 971175600000, "level": 51, "levelId": 1 },
-  { "charaExp": 544200, "charaReleaseDatetime": 971175600000, "level": 52, "levelId": 1 },
-  { "charaExp": 576000, "charaReleaseDatetime": 971175600000, "level": 53, "levelId": 1 },
-  { "charaExp": 608400, "charaReleaseDatetime": 971175600000, "level": 54, "levelId": 1 },
-  { "charaExp": 641400, "charaReleaseDatetime": 971175600000, "level": 55, "levelId": 1 },
-  { "charaExp": 675000, "charaReleaseDatetime": 971175600000, "level": 56, "levelId": 1 },
-  { "charaExp": 709200, "charaReleaseDatetime": 971175600000, "level": 57, "levelId": 1 },
-  { "charaExp": 744000, "charaReleaseDatetime": 971175600000, "level": 58, "levelId": 1 },
-  { "charaExp": 779400, "charaReleaseDatetime": 971175600000, "level": 59, "levelId": 1 },
-  { "charaExp": 815400, "charaReleaseDatetime": 971175600000, "level": 60, "levelId": 1 },
-  { "charaExp": 858100, "charaReleaseDatetime": 971175600000, "level": 61, "levelId": 1 },
-  { "charaExp": 901500, "charaReleaseDatetime": 971175600000, "level": 62, "levelId": 1 },
-  { "charaExp": 945600, "charaReleaseDatetime": 971175600000, "level": 63, "levelId": 1 },
-  { "charaExp": 990400, "charaReleaseDatetime": 971175600000, "level": 64, "levelId": 1 },
-  { "charaExp": 1035900, "charaReleaseDatetime": 971175600000, "level": 65, "levelId": 1 },
-  { "charaExp": 1082100, "charaReleaseDatetime": 971175600000, "level": 66, "levelId": 1 },
-  { "charaExp": 1129000, "charaReleaseDatetime": 971175600000, "level": 67, "levelId": 1 },
-  { "charaExp": 1176600, "charaReleaseDatetime": 971175600000, "level": 68, "levelId": 1 },
-  { "charaExp": 1224900, "charaReleaseDatetime": 971175600000, "level": 69, "levelId": 1 },
-  { "charaExp": 1273900, "charaReleaseDatetime": 971175600000, "level": 70, "levelId": 1 },
-  { "charaExp": 1330700, "charaReleaseDatetime": 971175600000, "level": 71, "levelId": 1 },
-  { "charaExp": 1388300, "charaReleaseDatetime": 971175600000, "level": 72, "levelId": 1 },
-  { "charaExp": 1446700, "charaReleaseDatetime": 971175600000, "level": 73, "levelId": 1 },
-  { "charaExp": 1505900, "charaReleaseDatetime": 971175600000, "level": 74, "levelId": 1 },
-  { "charaExp": 1565900, "charaReleaseDatetime": 971175600000, "level": 75, "levelId": 1 },
-  { "charaExp": 1626700, "charaReleaseDatetime": 971175600000, "level": 76, "levelId": 1 },
-  { "charaExp": 1688300, "charaReleaseDatetime": 971175600000, "level": 77, "levelId": 1 },
-  { "charaExp": 1750700, "charaReleaseDatetime": 971175600000, "level": 78, "levelId": 1 },
-  { "charaExp": 1813900, "charaReleaseDatetime": 971175600000, "level": 79, "levelId": 1 },
-  { "charaExp": 1877900, "charaReleaseDatetime": 971175600000, "level": 80, "levelId": 1 },
-  { "charaExp": 1958900, "charaReleaseDatetime": 971175600000, "level": 81, "levelId": 1 },
-  { "charaExp": 2040900, "charaReleaseDatetime": 971175600000, "level": 82, "levelId": 1 },
-  { "charaExp": 2123900, "charaReleaseDatetime": 971175600000, "level": 83, "levelId": 1 },
-  { "charaExp": 2207900, "charaReleaseDatetime": 971175600000, "level": 84, "levelId": 1 },
-  { "charaExp": 2292900, "charaReleaseDatetime": 971175600000, "level": 85, "levelId": 1 },
-  { "charaExp": 2378900, "charaReleaseDatetime": 971175600000, "level": 86, "levelId": 1 },
-  { "charaExp": 2465900, "charaReleaseDatetime": 971175600000, "level": 87, "levelId": 1 },
-  { "charaExp": 2553900, "charaReleaseDatetime": 971175600000, "level": 88, "levelId": 1 },
-  { "charaExp": 2642900, "charaReleaseDatetime": 971175600000, "level": 89, "levelId": 1 },
-  { "charaExp": 2732900, "charaReleaseDatetime": 971175600000, "level": 90, "levelId": 1 },
-  { "charaExp": 2823900, "charaReleaseDatetime": 971175600000, "level": 91, "levelId": 1 },
-  { "charaExp": 2915900, "charaReleaseDatetime": 971175600000, "level": 92, "levelId": 1 },
-  { "charaExp": 3008900, "charaReleaseDatetime": 971175600000, "level": 93, "levelId": 1 },
-  { "charaExp": 3102900, "charaReleaseDatetime": 971175600000, "level": 94, "levelId": 1 },
-  { "charaExp": 3197900, "charaReleaseDatetime": 971175600000, "level": 95, "levelId": 1 },
-  { "charaExp": 3293900, "charaReleaseDatetime": 971175600000, "level": 96, "levelId": 1 },
-  { "charaExp": 3390900, "charaReleaseDatetime": 971175600000, "level": 97, "levelId": 1 },
-  { "charaExp": 3488900, "charaReleaseDatetime": 971175600000, "level": 98, "levelId": 1 },
-  { "charaExp": 3587900, "charaReleaseDatetime": 971175600000, "level": 99, "levelId": 1 },
-  { "charaExp": 3687900, "charaReleaseDatetime": 1677128400000, "level": 100, "levelId": 1 },
-  { "charaExp": 3788900, "charaReleaseDatetime": 1677128400000, "level": 101, "levelId": 1 },
-  { "charaExp": 3890900, "charaReleaseDatetime": 1677128400000, "level": 102, "levelId": 1 },
-  { "charaExp": 3993900, "charaReleaseDatetime": 1677128400000, "level": 103, "levelId": 1 },
-  { "charaExp": 4097900, "charaReleaseDatetime": 1677128400000, "level": 104, "levelId": 1 },
-  { "charaExp": 4202900, "charaReleaseDatetime": 1677128400000, "level": 105, "levelId": 1 },
-  { "charaExp": 4308900, "charaReleaseDatetime": 1677128400000, "level": 106, "levelId": 1 },
-  { "charaExp": 4415900, "charaReleaseDatetime": 1677128400000, "level": 107, "levelId": 1 },
-  { "charaExp": 4523900, "charaReleaseDatetime": 1677128400000, "level": 108, "levelId": 1 },
-  { "charaExp": 4632900, "charaReleaseDatetime": 1677128400000, "level": 109, "levelId": 1 },
-  { "charaExp": 4742900, "charaReleaseDatetime": 1677128400000, "level": 110, "levelId": 1 },
-  { "charaExp": 4853900, "charaReleaseDatetime": 1677128400000, "level": 111, "levelId": 1 },
-  { "charaExp": 4965900, "charaReleaseDatetime": 1677128400000, "level": 112, "levelId": 1 },
-  { "charaExp": 5078900, "charaReleaseDatetime": 1677128400000, "level": 113, "levelId": 1 },
-  { "charaExp": 5192900, "charaReleaseDatetime": 1677128400000, "level": 114, "levelId": 1 },
-  { "charaExp": 5307900, "charaReleaseDatetime": 1677128400000, "level": 115, "levelId": 1 },
-  { "charaExp": 5423900, "charaReleaseDatetime": 1677128400000, "level": 116, "levelId": 1 },
-  { "charaExp": 5540900, "charaReleaseDatetime": 1677128400000, "level": 117, "levelId": 1 },
-  { "charaExp": 5658900, "charaReleaseDatetime": 1677128400000, "level": 118, "levelId": 1 },
-  { "charaExp": 5777900, "charaReleaseDatetime": 1677128400000, "level": 119, "levelId": 1 },
-  { "charaExp": 5897900, "charaReleaseDatetime": 1677128400000, "level": 120, "levelId": 1 },
-  { "charaExp": 6018900, "charaReleaseDatetime": 1677128400000, "level": 121, "levelId": 1 },
-  { "charaExp": 6140900, "charaReleaseDatetime": 1677128400000, "level": 122, "levelId": 1 },
-  { "charaExp": 6263900, "charaReleaseDatetime": 1677128400000, "level": 123, "levelId": 1 },
-  { "charaExp": 6387900, "charaReleaseDatetime": 1677128400000, "level": 124, "levelId": 1 },
-  { "charaExp": 6512900, "charaReleaseDatetime": 1677128400000, "level": 125, "levelId": 1 },
-  { "charaExp": 6638900, "charaReleaseDatetime": 1677128400000, "level": 126, "levelId": 1 },
-  { "charaExp": 6765900, "charaReleaseDatetime": 1677128400000, "level": 127, "levelId": 1 },
-  { "charaExp": 6893900, "charaReleaseDatetime": 1677128400000, "level": 128, "levelId": 1 },
-  { "charaExp": 7022900, "charaReleaseDatetime": 1677128400000, "level": 129, "levelId": 1 },
-  { "charaExp": 7152900, "charaReleaseDatetime": 1677128400000, "level": 130, "levelId": 1 },
-  { "charaExp": 7283900, "charaReleaseDatetime": 1677128400000, "level": 131, "levelId": 1 },
-  { "charaExp": 7415900, "charaReleaseDatetime": 1677128400000, "level": 132, "levelId": 1 },
-  { "charaExp": 7548900, "charaReleaseDatetime": 1677128400000, "level": 133, "levelId": 1 },
-  { "charaExp": 7682900, "charaReleaseDatetime": 1677128400000, "level": 134, "levelId": 1 },
-  { "charaExp": 7817900, "charaReleaseDatetime": 1677128400000, "level": 135, "levelId": 1 },
-  { "charaExp": 7953900, "charaReleaseDatetime": 1677128400000, "level": 136, "levelId": 1 },
-  { "charaExp": 8090900, "charaReleaseDatetime": 1677128400000, "level": 137, "levelId": 1 },
-  { "charaExp": 8228900, "charaReleaseDatetime": 1677128400000, "level": 138, "levelId": 1 },
-  { "charaExp": 8367900, "charaReleaseDatetime": 1677128400000, "level": 139, "levelId": 1 },
-  { "charaExp": 8507900, "charaReleaseDatetime": 1677128400000, "level": 140, "levelId": 1 },
-  { "charaExp": 8648900, "charaReleaseDatetime": 1677128400000, "level": 141, "levelId": 1 },
-  { "charaExp": 8790900, "charaReleaseDatetime": 1677128400000, "level": 142, "levelId": 1 },
-  { "charaExp": 8933900, "charaReleaseDatetime": 1677128400000, "level": 143, "levelId": 1 },
-  { "charaExp": 9077900, "charaReleaseDatetime": 1677128400000, "level": 144, "levelId": 1 },
-  { "charaExp": 9222900, "charaReleaseDatetime": 1677128400000, "level": 145, "levelId": 1 },
-  { "charaExp": 9368900, "charaReleaseDatetime": 1677128400000, "level": 146, "levelId": 1 },
-  { "charaExp": 9515900, "charaReleaseDatetime": 1677128400000, "level": 147, "levelId": 1 },
-  { "charaExp": 9663900, "charaReleaseDatetime": 1677128400000, "level": 148, "levelId": 1 },
-  { "charaExp": 9812900, "charaReleaseDatetime": 1677128400000, "level": 149, "levelId": 1 },
-  { "charaExp": 9962900, "charaReleaseDatetime": 1677128400000, "level": 150, "levelId": 1 },
-  { "charaExp": 10189400, "charaReleaseDatetime": 1711083600000, "level": 151, "levelId": 1 },
-  { "charaExp": 10417400, "charaReleaseDatetime": 1711083600000, "level": 152, "levelId": 1 },
-  { "charaExp": 10646900, "charaReleaseDatetime": 1711083600000, "level": 153, "levelId": 1 },
-  { "charaExp": 10877900, "charaReleaseDatetime": 1711083600000, "level": 154, "levelId": 1 },
-  { "charaExp": 11110400, "charaReleaseDatetime": 1711083600000, "level": 155, "levelId": 1 },
-  { "charaExp": 11344400, "charaReleaseDatetime": 1711083600000, "level": 156, "levelId": 1 },
-  { "charaExp": 11579900, "charaReleaseDatetime": 1711083600000, "level": 157, "levelId": 1 },
-  { "charaExp": 11816900, "charaReleaseDatetime": 1711083600000, "level": 158, "levelId": 1 },
-  { "charaExp": 12055400, "charaReleaseDatetime": 1711083600000, "level": 159, "levelId": 1 },
-  { "charaExp": 12295400, "charaReleaseDatetime": 1711083600000, "level": 160, "levelId": 1 },
-  { "charaExp": 12536900, "charaReleaseDatetime": 1711083600000, "level": 161, "levelId": 1 },
-  { "charaExp": 12779900, "charaReleaseDatetime": 1711083600000, "level": 162, "levelId": 1 },
-  { "charaExp": 13024400, "charaReleaseDatetime": 1711083600000, "level": 163, "levelId": 1 },
-  { "charaExp": 13270400, "charaReleaseDatetime": 1711083600000, "level": 164, "levelId": 1 },
-  { "charaExp": 13517900, "charaReleaseDatetime": 1711083600000, "level": 165, "levelId": 1 },
-  { "charaExp": 13766900, "charaReleaseDatetime": 1711083600000, "level": 166, "levelId": 1 },
-  { "charaExp": 14017400, "charaReleaseDatetime": 1711083600000, "level": 167, "levelId": 1 },
-  { "charaExp": 14269400, "charaReleaseDatetime": 1711083600000, "level": 168, "levelId": 1 },
-  { "charaExp": 14522900, "charaReleaseDatetime": 1711083600000, "level": 169, "levelId": 1 },
-  { "charaExp": 14777900, "charaReleaseDatetime": 1711083600000, "level": 170, "levelId": 1 },
-  { "charaExp": 15077150, "charaReleaseDatetime": 1711083600000, "level": 171, "levelId": 1 },
-  { "charaExp": 15378150, "charaReleaseDatetime": 1711083600000, "level": 172, "levelId": 1 },
-  { "charaExp": 15680900, "charaReleaseDatetime": 1711083600000, "level": 173, "levelId": 1 },
-  { "charaExp": 15985400, "charaReleaseDatetime": 1711083600000, "level": 174, "levelId": 1 },
-  { "charaExp": 16291650, "charaReleaseDatetime": 1711083600000, "level": 175, "levelId": 1 },
-  { "charaExp": 16599650, "charaReleaseDatetime": 1711083600000, "level": 176, "levelId": 1 },
-  { "charaExp": 16909400, "charaReleaseDatetime": 1711083600000, "level": 177, "levelId": 1 },
-  { "charaExp": 17220900, "charaReleaseDatetime": 1711083600000, "level": 178, "levelId": 1 },
-  { "charaExp": 17534150, "charaReleaseDatetime": 1711083600000, "level": 179, "levelId": 1 },
-  { "charaExp": 17849150, "charaReleaseDatetime": 1711083600000, "level": 180, "levelId": 1 },
-  { "charaExp": 18165900, "charaReleaseDatetime": 1711083600000, "level": 181, "levelId": 1 },
-  { "charaExp": 18484400, "charaReleaseDatetime": 1711083600000, "level": 182, "levelId": 1 },
-  { "charaExp": 18804650, "charaReleaseDatetime": 1711083600000, "level": 183, "levelId": 1 },
-  { "charaExp": 19126650, "charaReleaseDatetime": 1711083600000, "level": 184, "levelId": 1 },
-  { "charaExp": 19450400, "charaReleaseDatetime": 1711083600000, "level": 185, "levelId": 1 },
-  { "charaExp": 19775900, "charaReleaseDatetime": 1711083600000, "level": 186, "levelId": 1 },
-  { "charaExp": 20103150, "charaReleaseDatetime": 1711083600000, "level": 187, "levelId": 1 },
-  { "charaExp": 20432150, "charaReleaseDatetime": 1711083600000, "level": 188, "levelId": 1 },
-  { "charaExp": 20762900, "charaReleaseDatetime": 1711083600000, "level": 189, "levelId": 1 },
-  { "charaExp": 21095400, "charaReleaseDatetime": 1711083600000, "level": 190, "levelId": 1 },
-  { "charaExp": 21477400, "charaReleaseDatetime": 1711083600000, "level": 191, "levelId": 1 },
-  { "charaExp": 21861400, "charaReleaseDatetime": 1711083600000, "level": 192, "levelId": 1 },
-  { "charaExp": 22247400, "charaReleaseDatetime": 1711083600000, "level": 193, "levelId": 1 },
-  { "charaExp": 22635400, "charaReleaseDatetime": 1711083600000, "level": 194, "levelId": 1 },
-  { "charaExp": 23025400, "charaReleaseDatetime": 1711083600000, "level": 195, "levelId": 1 },
-  { "charaExp": 23417400, "charaReleaseDatetime": 1711083600000, "level": 196, "levelId": 1 },
-  { "charaExp": 23811400, "charaReleaseDatetime": 1711083600000, "level": 197, "levelId": 1 },
-  { "charaExp": 24207400, "charaReleaseDatetime": 1711083600000, "level": 198, "levelId": 1 },
-  { "charaExp": 24605400, "charaReleaseDatetime": 1711083600000, "level": 199, "levelId": 1 },
-  { "charaExp": 25005400, "charaReleaseDatetime": 1711083600000, "level": 200, "levelId": 1 }
+  {
+    "charaExp": 0,
+    "charaReleaseDatetime": 971175600000,
+    "level": 1,
+    "levelId": 1
+  },
+  {
+    "charaExp": 200,
+    "charaReleaseDatetime": 971175600000,
+    "level": 2,
+    "levelId": 1
+  },
+  {
+    "charaExp": 500,
+    "charaReleaseDatetime": 971175600000,
+    "level": 3,
+    "levelId": 1
+  },
+  {
+    "charaExp": 900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 4,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 5,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 6,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 7,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3500,
+    "charaReleaseDatetime": 971175600000,
+    "level": 8,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 9,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 10,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 11,
+    "levelId": 1
+  },
+  {
+    "charaExp": 10000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 12,
+    "levelId": 1
+  },
+  {
+    "charaExp": 12600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 13,
+    "levelId": 1
+  },
+  {
+    "charaExp": 15400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 14,
+    "levelId": 1
+  },
+  {
+    "charaExp": 18400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 15,
+    "levelId": 1
+  },
+  {
+    "charaExp": 21600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 16,
+    "levelId": 1
+  },
+  {
+    "charaExp": 25000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 17,
+    "levelId": 1
+  },
+  {
+    "charaExp": 28600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 18,
+    "levelId": 1
+  },
+  {
+    "charaExp": 32400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 19,
+    "levelId": 1
+  },
+  {
+    "charaExp": 36400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 20,
+    "levelId": 1
+  },
+  {
+    "charaExp": 42700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 21,
+    "levelId": 1
+  },
+  {
+    "charaExp": 49300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 22,
+    "levelId": 1
+  },
+  {
+    "charaExp": 56200,
+    "charaReleaseDatetime": 971175600000,
+    "level": 23,
+    "levelId": 1
+  },
+  {
+    "charaExp": 63400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 24,
+    "levelId": 1
+  },
+  {
+    "charaExp": 70900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 25,
+    "levelId": 1
+  },
+  {
+    "charaExp": 78700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 26,
+    "levelId": 1
+  },
+  {
+    "charaExp": 86800,
+    "charaReleaseDatetime": 971175600000,
+    "level": 27,
+    "levelId": 1
+  },
+  {
+    "charaExp": 95200,
+    "charaReleaseDatetime": 971175600000,
+    "level": 28,
+    "levelId": 1
+  },
+  {
+    "charaExp": 103900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 29,
+    "levelId": 1
+  },
+  {
+    "charaExp": 112900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 30,
+    "levelId": 1
+  },
+  {
+    "charaExp": 125300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 31,
+    "levelId": 1
+  },
+  {
+    "charaExp": 138100,
+    "charaReleaseDatetime": 971175600000,
+    "level": 32,
+    "levelId": 1
+  },
+  {
+    "charaExp": 151300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 33,
+    "levelId": 1
+  },
+  {
+    "charaExp": 164900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 34,
+    "levelId": 1
+  },
+  {
+    "charaExp": 178900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 35,
+    "levelId": 1
+  },
+  {
+    "charaExp": 193300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 36,
+    "levelId": 1
+  },
+  {
+    "charaExp": 208100,
+    "charaReleaseDatetime": 971175600000,
+    "level": 37,
+    "levelId": 1
+  },
+  {
+    "charaExp": 223300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 38,
+    "levelId": 1
+  },
+  {
+    "charaExp": 238900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 39,
+    "levelId": 1
+  },
+  {
+    "charaExp": 254900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 40,
+    "levelId": 1
+  },
+  {
+    "charaExp": 275400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 41,
+    "levelId": 1
+  },
+  {
+    "charaExp": 296400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 42,
+    "levelId": 1
+  },
+  {
+    "charaExp": 317900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 43,
+    "levelId": 1
+  },
+  {
+    "charaExp": 339900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 44,
+    "levelId": 1
+  },
+  {
+    "charaExp": 362400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 45,
+    "levelId": 1
+  },
+  {
+    "charaExp": 385400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 46,
+    "levelId": 1
+  },
+  {
+    "charaExp": 408900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 47,
+    "levelId": 1
+  },
+  {
+    "charaExp": 432900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 48,
+    "levelId": 1
+  },
+  {
+    "charaExp": 457400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 49,
+    "levelId": 1
+  },
+  {
+    "charaExp": 482400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 50,
+    "levelId": 1
+  },
+  {
+    "charaExp": 513000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 51,
+    "levelId": 1
+  },
+  {
+    "charaExp": 544200,
+    "charaReleaseDatetime": 971175600000,
+    "level": 52,
+    "levelId": 1
+  },
+  {
+    "charaExp": 576000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 53,
+    "levelId": 1
+  },
+  {
+    "charaExp": 608400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 54,
+    "levelId": 1
+  },
+  {
+    "charaExp": 641400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 55,
+    "levelId": 1
+  },
+  {
+    "charaExp": 675000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 56,
+    "levelId": 1
+  },
+  {
+    "charaExp": 709200,
+    "charaReleaseDatetime": 971175600000,
+    "level": 57,
+    "levelId": 1
+  },
+  {
+    "charaExp": 744000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 58,
+    "levelId": 1
+  },
+  {
+    "charaExp": 779400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 59,
+    "levelId": 1
+  },
+  {
+    "charaExp": 815400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 60,
+    "levelId": 1
+  },
+  {
+    "charaExp": 858100,
+    "charaReleaseDatetime": 971175600000,
+    "level": 61,
+    "levelId": 1
+  },
+  {
+    "charaExp": 901500,
+    "charaReleaseDatetime": 971175600000,
+    "level": 62,
+    "levelId": 1
+  },
+  {
+    "charaExp": 945600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 63,
+    "levelId": 1
+  },
+  {
+    "charaExp": 990400,
+    "charaReleaseDatetime": 971175600000,
+    "level": 64,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1035900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 65,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1082100,
+    "charaReleaseDatetime": 971175600000,
+    "level": 66,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1129000,
+    "charaReleaseDatetime": 971175600000,
+    "level": 67,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1176600,
+    "charaReleaseDatetime": 971175600000,
+    "level": 68,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1224900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 69,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1273900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 70,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1330700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 71,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1388300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 72,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1446700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 73,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1505900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 74,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1565900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 75,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1626700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 76,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1688300,
+    "charaReleaseDatetime": 971175600000,
+    "level": 77,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1750700,
+    "charaReleaseDatetime": 971175600000,
+    "level": 78,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1813900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 79,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1877900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 80,
+    "levelId": 1
+  },
+  {
+    "charaExp": 1958900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 81,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2040900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 82,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2123900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 83,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2207900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 84,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2292900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 85,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2378900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 86,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2465900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 87,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2553900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 88,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2642900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 89,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2732900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 90,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2823900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 91,
+    "levelId": 1
+  },
+  {
+    "charaExp": 2915900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 92,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3008900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 93,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3102900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 94,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3197900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 95,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3293900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 96,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3390900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 97,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3488900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 98,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3587900,
+    "charaReleaseDatetime": 971175600000,
+    "level": 99,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3687900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 100,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3788900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 101,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3890900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 102,
+    "levelId": 1
+  },
+  {
+    "charaExp": 3993900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 103,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4097900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 104,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4202900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 105,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4308900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 106,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4415900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 107,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4523900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 108,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4632900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 109,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4742900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 110,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4853900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 111,
+    "levelId": 1
+  },
+  {
+    "charaExp": 4965900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 112,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5078900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 113,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5192900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 114,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5307900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 115,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5423900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 116,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5540900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 117,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5658900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 118,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5777900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 119,
+    "levelId": 1
+  },
+  {
+    "charaExp": 5897900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 120,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6018900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 121,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6140900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 122,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6263900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 123,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6387900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 124,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6512900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 125,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6638900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 126,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6765900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 127,
+    "levelId": 1
+  },
+  {
+    "charaExp": 6893900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 128,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7022900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 129,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7152900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 130,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7283900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 131,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7415900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 132,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7548900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 133,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7682900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 134,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7817900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 135,
+    "levelId": 1
+  },
+  {
+    "charaExp": 7953900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 136,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8090900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 137,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8228900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 138,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8367900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 139,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8507900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 140,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8648900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 141,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8790900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 142,
+    "levelId": 1
+  },
+  {
+    "charaExp": 8933900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 143,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9077900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 144,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9222900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 145,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9368900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 146,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9515900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 147,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9663900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 148,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9812900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 149,
+    "levelId": 1
+  },
+  {
+    "charaExp": 9962900,
+    "charaReleaseDatetime": 1677128400000,
+    "level": 150,
+    "levelId": 1
+  },
+  {
+    "charaExp": 10189400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 151,
+    "levelId": 1
+  },
+  {
+    "charaExp": 10417400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 152,
+    "levelId": 1
+  },
+  {
+    "charaExp": 10646900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 153,
+    "levelId": 1
+  },
+  {
+    "charaExp": 10877900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 154,
+    "levelId": 1
+  },
+  {
+    "charaExp": 11110400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 155,
+    "levelId": 1
+  },
+  {
+    "charaExp": 11344400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 156,
+    "levelId": 1
+  },
+  {
+    "charaExp": 11579900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 157,
+    "levelId": 1
+  },
+  {
+    "charaExp": 11816900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 158,
+    "levelId": 1
+  },
+  {
+    "charaExp": 12055400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 159,
+    "levelId": 1
+  },
+  {
+    "charaExp": 12295400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 160,
+    "levelId": 1
+  },
+  {
+    "charaExp": 12536900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 161,
+    "levelId": 1
+  },
+  {
+    "charaExp": 12779900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 162,
+    "levelId": 1
+  },
+  {
+    "charaExp": 13024400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 163,
+    "levelId": 1
+  },
+  {
+    "charaExp": 13270400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 164,
+    "levelId": 1
+  },
+  {
+    "charaExp": 13517900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 165,
+    "levelId": 1
+  },
+  {
+    "charaExp": 13766900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 166,
+    "levelId": 1
+  },
+  {
+    "charaExp": 14017400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 167,
+    "levelId": 1
+  },
+  {
+    "charaExp": 14269400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 168,
+    "levelId": 1
+  },
+  {
+    "charaExp": 14522900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 169,
+    "levelId": 1
+  },
+  {
+    "charaExp": 14777900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 170,
+    "levelId": 1
+  },
+  {
+    "charaExp": 15077150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 171,
+    "levelId": 1
+  },
+  {
+    "charaExp": 15378150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 172,
+    "levelId": 1
+  },
+  {
+    "charaExp": 15680900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 173,
+    "levelId": 1
+  },
+  {
+    "charaExp": 15985400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 174,
+    "levelId": 1
+  },
+  {
+    "charaExp": 16291650,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 175,
+    "levelId": 1
+  },
+  {
+    "charaExp": 16599650,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 176,
+    "levelId": 1
+  },
+  {
+    "charaExp": 16909400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 177,
+    "levelId": 1
+  },
+  {
+    "charaExp": 17220900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 178,
+    "levelId": 1
+  },
+  {
+    "charaExp": 17534150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 179,
+    "levelId": 1
+  },
+  {
+    "charaExp": 17849150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 180,
+    "levelId": 1
+  },
+  {
+    "charaExp": 18165900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 181,
+    "levelId": 1
+  },
+  {
+    "charaExp": 18484400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 182,
+    "levelId": 1
+  },
+  {
+    "charaExp": 18804650,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 183,
+    "levelId": 1
+  },
+  {
+    "charaExp": 19126650,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 184,
+    "levelId": 1
+  },
+  {
+    "charaExp": 19450400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 185,
+    "levelId": 1
+  },
+  {
+    "charaExp": 19775900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 186,
+    "levelId": 1
+  },
+  {
+    "charaExp": 20103150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 187,
+    "levelId": 1
+  },
+  {
+    "charaExp": 20432150,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 188,
+    "levelId": 1
+  },
+  {
+    "charaExp": 20762900,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 189,
+    "levelId": 1
+  },
+  {
+    "charaExp": 21095400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 190,
+    "levelId": 1
+  },
+  {
+    "charaExp": 21477400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 191,
+    "levelId": 1
+  },
+  {
+    "charaExp": 21861400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 192,
+    "levelId": 1
+  },
+  {
+    "charaExp": 22247400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 193,
+    "levelId": 1
+  },
+  {
+    "charaExp": 22635400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 194,
+    "levelId": 1
+  },
+  {
+    "charaExp": 23025400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 195,
+    "levelId": 1
+  },
+  {
+    "charaExp": 23417400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 196,
+    "levelId": 1
+  },
+  {
+    "charaExp": 23811400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 197,
+    "levelId": 1
+  },
+  {
+    "charaExp": 24207400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 198,
+    "levelId": 1
+  },
+  {
+    "charaExp": 24605400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 199,
+    "levelId": 1
+  },
+  {
+    "charaExp": 25005400,
+    "charaReleaseDatetime": 1711083600000,
+    "level": 200,
+    "levelId": 1
+  }
 ]

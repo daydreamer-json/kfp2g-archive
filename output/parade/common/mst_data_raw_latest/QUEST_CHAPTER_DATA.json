@@ -5052,5 +5052,19 @@
     "retireReturnStaminaratio": 100,
     "topCharaComment": "",
     "weatherType": 0
+  },
+  {
+    "category": 5,
+    "chapterId": 7300,
+    "chapterName": "",
+    "chapterTitle": "こぉんと解放♡黒き狐の巻！？",
+    "endType": 0,
+    "hardChapterId": 0,
+    "loseReturnStaminaratio": 100,
+    "mapPath": "MainStory_01",
+    "markerType": 0,
+    "retireReturnStaminaratio": 100,
+    "topCharaComment": "",
+    "weatherType": 0
   }
 ]

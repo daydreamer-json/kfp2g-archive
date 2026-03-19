@@ -1,7 +1,22 @@
 [
-  { "friendPointId": 1, "friendPointNum": 5 },
-  { "friendPointId": 2, "friendPointNum": 10 },
-  { "friendPointId": 3, "friendPointNum": 5 },
-  { "friendPointId": 4, "friendPointNum": 20 },
-  { "friendPointId": 5, "friendPointNum": 0 }
+  {
+    "friendPointId": 1,
+    "friendPointNum": 5
+  },
+  {
+    "friendPointId": 2,
+    "friendPointNum": 10
+  },
+  {
+    "friendPointId": 3,
+    "friendPointNum": 5
+  },
+  {
+    "friendPointId": 4,
+    "friendPointNum": 20
+  },
+  {
+    "friendPointId": 5,
+    "friendPointNum": 0
+  }
 ]

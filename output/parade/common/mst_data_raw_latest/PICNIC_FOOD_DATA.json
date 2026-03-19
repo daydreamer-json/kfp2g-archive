@@ -1,7 +1,22 @@
 [
-  { "addEnergyNum": 900, "goodsId": 30151 },
-  { "addEnergyNum": 1800, "goodsId": 30152 },
-  { "addEnergyNum": 3600, "goodsId": 30153 },
-  { "addEnergyNum": 7200, "goodsId": 30154 },
-  { "addEnergyNum": 14400, "goodsId": 30155 }
+  {
+    "addEnergyNum": 900,
+    "goodsId": 30151
+  },
+  {
+    "addEnergyNum": 1800,
+    "goodsId": 30152
+  },
+  {
+    "addEnergyNum": 3600,
+    "goodsId": 30153
+  },
+  {
+    "addEnergyNum": 7200,
+    "goodsId": 30154
+  },
+  {
+    "addEnergyNum": 14400,
+    "goodsId": 30155
+  }
 ]

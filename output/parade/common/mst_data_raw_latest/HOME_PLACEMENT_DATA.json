@@ -1,13 +1,79 @@
 [
-  { "enableFurnitureCategory": 5, "locatorName": "pos_bed_a", "name": "寝具", "positionId": 1, "sortNum": 2 },
-  { "enableFurnitureCategory": 3, "locatorName": "pos_ornament_a", "name": "装飾１", "positionId": 2, "sortNum": 3 },
-  { "enableFurnitureCategory": 2, "locatorName": "pos_chair_a", "name": "椅子", "positionId": 3, "sortNum": 4 },
-  { "enableFurnitureCategory": 1, "locatorName": "pos_desk_a", "name": "机", "positionId": 4, "sortNum": 1 },
-  { "enableFurnitureCategory": 6, "locatorName": "pos_electronics_a", "name": "家電", "positionId": 5, "sortNum": 6 },
-  { "enableFurnitureCategory": 7, "locatorName": "pos_interior_a", "name": "雑貨", "positionId": 6, "sortNum": 9 },
-  { "enableFurnitureCategory": 4, "locatorName": "pos_storage_a", "name": "収納", "positionId": 7, "sortNum": 7 },
-  { "enableFurnitureCategory": 3, "locatorName": "pos_ornament_b", "name": "装飾２", "positionId": 8, "sortNum": 3 },
-  { "enableFurnitureCategory": 3, "locatorName": "pos_ornament_c", "name": "装飾３", "positionId": 9, "sortNum": 3 },
-  { "enableFurnitureCategory": 8, "locatorName": "pos_carpet_a", "name": "絨毯", "positionId": 10, "sortNum": 5 },
-  { "enableFurnitureCategory": 9, "locatorName": "pos_curtain_a", "name": "カーテン", "positionId": 11, "sortNum": 8 }
+  {
+    "enableFurnitureCategory": 5,
+    "locatorName": "pos_bed_a",
+    "name": "寝具",
+    "positionId": 1,
+    "sortNum": 2
+  },
+  {
+    "enableFurnitureCategory": 3,
+    "locatorName": "pos_ornament_a",
+    "name": "装飾１",
+    "positionId": 2,
+    "sortNum": 3
+  },
+  {
+    "enableFurnitureCategory": 2,
+    "locatorName": "pos_chair_a",
+    "name": "椅子",
+    "positionId": 3,
+    "sortNum": 4
+  },
+  {
+    "enableFurnitureCategory": 1,
+    "locatorName": "pos_desk_a",
+    "name": "机",
+    "positionId": 4,
+    "sortNum": 1
+  },
+  {
+    "enableFurnitureCategory": 6,
+    "locatorName": "pos_electronics_a",
+    "name": "家電",
+    "positionId": 5,
+    "sortNum": 6
+  },
+  {
+    "enableFurnitureCategory": 7,
+    "locatorName": "pos_interior_a",
+    "name": "雑貨",
+    "positionId": 6,
+    "sortNum": 9
+  },
+  {
+    "enableFurnitureCategory": 4,
+    "locatorName": "pos_storage_a",
+    "name": "収納",
+    "positionId": 7,
+    "sortNum": 7
+  },
+  {
+    "enableFurnitureCategory": 3,
+    "locatorName": "pos_ornament_b",
+    "name": "装飾２",
+    "positionId": 8,
+    "sortNum": 3
+  },
+  {
+    "enableFurnitureCategory": 3,
+    "locatorName": "pos_ornament_c",
+    "name": "装飾３",
+    "positionId": 9,
+    "sortNum": 3
+  },
+  {
+    "enableFurnitureCategory": 8,
+    "locatorName": "pos_carpet_a",
+    "name": "絨毯",
+    "positionId": 10,
+    "sortNum": 5
+  },
+  {
+    "enableFurnitureCategory": 9,
+    "locatorName": "pos_curtain_a",
+    "name": "カーテン",
+    "positionId": 11,
+    "sortNum": 8
+  }
 ]

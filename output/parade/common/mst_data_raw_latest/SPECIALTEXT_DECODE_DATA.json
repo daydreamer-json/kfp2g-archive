@@ -1,61 +1,356 @@
 [
-  { "id": { "columnName": "achievement_name", "tableName": "mst_achievement_data" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_achievement_data" } },
-  { "id": { "columnName": "info_gettext", "tableName": "mst_achievement_data" } },
-  { "id": { "columnName": "name", "tableName": "mst_achievement_data" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_chara_clothes_data" } },
-  { "id": { "columnName": "name", "tableName": "mst_chara_clothes_data" } },
-  { "id": { "columnName": "cast_name", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "greeting_text", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_sleep_01", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_sleep_02", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_sleep_03", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_stand_01", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_stand_02", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_stand_03", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_stand_04", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_walk_01", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_walk_02", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_walk_03", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_walk_04", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "hometouch_walk_05", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "kizunaup_text", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "login_sub_text", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "login_text", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "name_en", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "nickname", "tableName": "mst_chara_data" } },
-  { "id": { "columnName": "mission_contents", "tableName": "mst_chara_mission_data" } },
-  { "id": { "columnName": "event_name", "tableName": "mst_event_data" } },
-  { "id": { "columnName": "gacha_name", "tableName": "mst_gacha_data" } },
-  { "id": { "columnName": "bonus_item_disp_message", "tableName": "mst_gacha_type_data" } },
-  { "id": { "columnName": "name", "tableName": "mst_home_bgm_playback_data" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_item_common" } },
-  { "id": { "columnName": "name", "tableName": "mst_item_common" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_item_lottery" } },
-  { "id": { "columnName": "name", "tableName": "mst_item_lottery" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_item_preset" } },
-  { "id": { "columnName": "name", "tableName": "mst_item_preset" } },
-  { "id": { "columnName": "name", "tableName": "mst_master_room_furniture_data" } },
-  { "id": { "columnName": "reading", "tableName": "mst_master_room_furniture_data" } },
-  { "id": { "columnName": "mission_contents", "tableName": "mst_mission_data" } },
-  { "id": { "columnName": "flavor_text_after", "tableName": "mst_photo_data" } },
-  { "id": { "columnName": "flavor_text_before", "tableName": "mst_photo_data" } },
-  { "id": { "columnName": "name", "tableName": "mst_photo_data" } },
-  { "id": { "columnName": "reading", "tableName": "mst_photo_data" } },
-  { "id": { "columnName": "flavor_text", "tableName": "mst_picnic_play_item_data" } },
-  { "id": { "columnName": "name", "tableName": "mst_picnic_play_item_data" } },
-  { "id": { "columnName": "info_text", "tableName": "mst_purchase_product" } },
-  { "id": { "columnName": "product_name", "tableName": "mst_purchase_product" } },
-  { "id": { "columnName": "chapter_title", "tableName": "mst_quest_chapter_data" } },
-  { "id": { "columnName": "eval_name", "tableName": "mst_quest_eval_data" } },
-  { "id": { "columnName": "map_name", "tableName": "mst_quest_map_data" } },
-  { "id": { "columnName": "disp_chara_comment", "tableName": "mst_quest_questgroup_data" } },
-  { "id": { "columnName": "story_name", "tableName": "mst_quest_questgroup_data" } },
-  { "id": { "columnName": "memory_text_01", "tableName": "mst_quest_questone_data" } },
-  { "id": { "columnName": "memory_text_02", "tableName": "mst_quest_questone_data" } },
-  { "id": { "columnName": "memory_text01", "tableName": "mst_random_scenario_login" } },
-  { "id": { "columnName": "memory_text02", "tableName": "mst_random_scenario_login" } },
-  { "id": { "columnName": "shop_name", "tableName": "mst_shop_data" } },
-  { "id": { "columnName": "open_quest_one_text", "tableName": "mst_shop_item_data" } }
+  {
+    "id": {
+      "columnName": "achievement_name",
+      "tableName": "mst_achievement_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_achievement_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "info_gettext",
+      "tableName": "mst_achievement_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_achievement_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_chara_clothes_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_chara_clothes_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "cast_name",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "greeting_text",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_sleep_01",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_sleep_02",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_sleep_03",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_stand_01",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_stand_02",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_stand_03",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_stand_04",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_walk_01",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_walk_02",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_walk_03",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_walk_04",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "hometouch_walk_05",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "kizunaup_text",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "login_sub_text",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "login_text",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name_en",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "nickname",
+      "tableName": "mst_chara_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "mission_contents",
+      "tableName": "mst_chara_mission_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "event_name",
+      "tableName": "mst_event_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "gacha_name",
+      "tableName": "mst_gacha_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "bonus_item_disp_message",
+      "tableName": "mst_gacha_type_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_home_bgm_playback_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_item_common"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_item_common"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_item_lottery"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_item_lottery"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_item_preset"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_item_preset"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_master_room_furniture_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "reading",
+      "tableName": "mst_master_room_furniture_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "mission_contents",
+      "tableName": "mst_mission_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text_after",
+      "tableName": "mst_photo_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text_before",
+      "tableName": "mst_photo_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_photo_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "reading",
+      "tableName": "mst_photo_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "flavor_text",
+      "tableName": "mst_picnic_play_item_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "name",
+      "tableName": "mst_picnic_play_item_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "info_text",
+      "tableName": "mst_purchase_product"
+    }
+  },
+  {
+    "id": {
+      "columnName": "product_name",
+      "tableName": "mst_purchase_product"
+    }
+  },
+  {
+    "id": {
+      "columnName": "chapter_title",
+      "tableName": "mst_quest_chapter_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "eval_name",
+      "tableName": "mst_quest_eval_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "map_name",
+      "tableName": "mst_quest_map_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "disp_chara_comment",
+      "tableName": "mst_quest_questgroup_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "story_name",
+      "tableName": "mst_quest_questgroup_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "memory_text_01",
+      "tableName": "mst_quest_questone_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "memory_text_02",
+      "tableName": "mst_quest_questone_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "memory_text01",
+      "tableName": "mst_random_scenario_login"
+    }
+  },
+  {
+    "id": {
+      "columnName": "memory_text02",
+      "tableName": "mst_random_scenario_login"
+    }
+  },
+  {
+    "id": {
+      "columnName": "shop_name",
+      "tableName": "mst_shop_data"
+    }
+  },
+  {
+    "id": {
+      "columnName": "open_quest_one_text",
+      "tableName": "mst_shop_item_data"
+    }
+  }
 ]

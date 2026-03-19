@@ -1,1 +1,7 @@
-[{ "actionIdAndroid": "OFF_1234567890abcdef", "actionIdIos": "OFF_1234567890abcdef", "cpeId": 1 }]
+[
+  {
+    "actionIdAndroid": "OFF_1234567890abcdef",
+    "actionIdIos": "OFF_1234567890abcdef",
+    "cpeId": 1
+  }
+]

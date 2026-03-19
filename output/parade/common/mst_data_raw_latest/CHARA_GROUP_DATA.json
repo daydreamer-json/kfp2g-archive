@@ -1,9 +1,30 @@
 [
-  { "charaId": 16, "groupcharaId": 436 },
-  { "charaId": 102, "groupcharaId": 223 },
-  { "charaId": 103, "groupcharaId": 222 },
-  { "charaId": 322, "groupcharaId": 380 },
-  { "charaId": 327, "groupcharaId": 381 },
-  { "charaId": 518, "groupcharaId": 381 },
-  { "charaId": 531, "groupcharaId": 380 }
+  {
+    "charaId": 16,
+    "groupcharaId": 436
+  },
+  {
+    "charaId": 102,
+    "groupcharaId": 223
+  },
+  {
+    "charaId": 103,
+    "groupcharaId": 222
+  },
+  {
+    "charaId": 322,
+    "groupcharaId": 380
+  },
+  {
+    "charaId": 327,
+    "groupcharaId": 381
+  },
+  {
+    "charaId": 518,
+    "groupcharaId": 381
+  },
+  {
+    "charaId": 531,
+    "groupcharaId": 380
+  }
 ]

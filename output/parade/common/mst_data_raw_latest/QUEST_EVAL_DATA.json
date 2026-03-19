@@ -8176,6 +8176,20 @@
     "evalValue04": 0
   },
   {
+    "evalId": 3559,
+    "evalKey00": 7,
+    "evalKey01": 0,
+    "evalKey02": 0,
+    "evalKey03": 0,
+    "evalKey04": 0,
+    "evalName": "クロイナリサマを編成してクリア",
+    "evalValue00": 559,
+    "evalValue01": 0,
+    "evalValue02": 0,
+    "evalValue03": 0,
+    "evalValue04": 0
+  },
+  {
     "evalId": 3560,
     "evalKey00": 7,
     "evalKey01": 0,
@@ -8240,6 +8254,20 @@
     "evalKey04": 0,
     "evalName": "アンゴル＝モアを編成してクリア",
     "evalValue00": 564,
+    "evalValue01": 0,
+    "evalValue02": 0,
+    "evalValue03": 0,
+    "evalValue04": 0
+  },
+  {
+    "evalId": 3565,
+    "evalKey00": 7,
+    "evalKey01": 0,
+    "evalKey02": 0,
+    "evalKey03": 0,
+    "evalKey04": 0,
+    "evalName": "【神代の白き翼】ヤタガラスを編成してクリア",
+    "evalValue00": 565,
     "evalValue01": 0,
     "evalValue02": 0,
     "evalValue03": 0,

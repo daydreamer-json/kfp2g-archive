@@ -1037,7 +1037,7 @@
   },
   {
     "bannerName": "XXf2yyPZnUx_3u",
-    "bannerText": "「その他」\u003E「思い出」\u003E「ムービー」",
+    "bannerText": "「その他」>「思い出」>「ムービー」",
     "endQuestId": 0,
     "endTime": 1600837200000,
     "id": 75,
@@ -1065,7 +1065,7 @@
   },
   {
     "bannerName": "XX2fp4aRkLoVdq",
-    "bannerText": "「その他」\u003E「思い出」\u003E「ムービー」",
+    "bannerText": "「その他」>「思い出」>「ムービー」",
     "endQuestId": 0,
     "endTime": 1598590800000,
     "id": 77,
@@ -1205,7 +1205,7 @@
   },
   {
     "bannerName": "XX2Z5R96psRM_c",
-    "bannerText": "「その他」\u003E「思い出」\u003E「ムービー」",
+    "bannerText": "「その他」>「思い出」>「ムービー」",
     "endQuestId": 0,
     "endTime": 1595307599000,
     "id": 87,
@@ -3372,6 +3372,34 @@
     "priority": 1,
     "startQuestId": 0,
     "startTime": 1773291600000
+  },
+  {
+    "bannerName": "20XXIh5t4P315x",
+    "bannerText": "4/2(木)14:00まで",
+    "endQuestId": 0,
+    "endTime": 1775106000000,
+    "id": 246,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013819urMMKd7K.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startQuestId": 0,
+    "startTime": 1774328400000
+  },
+  {
+    "bannerName": "XYZw-RY7k-DVjF",
+    "bannerText": "4/2(木)14:00まで",
+    "endQuestId": 0,
+    "endTime": 1775106000000,
+    "id": 247,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013844rtcWK795.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startQuestId": 0,
+    "startTime": 1773896400000
   },
   {
     "bannerName": "2XXfI0UgCoHpQd",

@@ -1,8 +1,38 @@
 [
-  { "effectName": "Ef_info_ozakiserval_sandstar", "effectType": 1, "id": 1, "searchTarget": "_0241_" },
-  { "effectName": "Ef_info_kirin_kira", "effectType": 2, "id": 2, "searchTarget": "_0306_" },
-  { "effectName": "Ef_info_yaba_aura", "effectType": 3, "id": 3, "searchTarget": "_2021" },
-  { "effectName": "Ef_info_490_wing", "effectType": 4, "id": 4, "searchTarget": "_0490_b" },
-  { "effectName": "Ef_info_994_wing", "effectType": 4, "id": 5, "searchTarget": "_0994_a" },
-  { "effectName": "Ef_info_516_tail", "effectType": 4, "id": 6, "searchTarget": "_0516_a" }
+  {
+    "effectName": "Ef_info_ozakiserval_sandstar",
+    "effectType": 1,
+    "id": 1,
+    "searchTarget": "_0241_"
+  },
+  {
+    "effectName": "Ef_info_kirin_kira",
+    "effectType": 2,
+    "id": 2,
+    "searchTarget": "_0306_"
+  },
+  {
+    "effectName": "Ef_info_yaba_aura",
+    "effectType": 3,
+    "id": 3,
+    "searchTarget": "_2021"
+  },
+  {
+    "effectName": "Ef_info_490_wing",
+    "effectType": 4,
+    "id": 4,
+    "searchTarget": "_0490_b"
+  },
+  {
+    "effectName": "Ef_info_994_wing",
+    "effectType": 4,
+    "id": 5,
+    "searchTarget": "_0994_a"
+  },
+  {
+    "effectName": "Ef_info_516_tail",
+    "effectType": 4,
+    "id": 6,
+    "searchTarget": "_0516_a"
+  }
 ]

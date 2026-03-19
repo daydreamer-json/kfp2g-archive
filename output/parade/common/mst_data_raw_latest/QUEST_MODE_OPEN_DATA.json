@@ -71,8 +71,22 @@
     "text": "「シーサーバル道場」が解放されました！",
     "title": "シーサーバル道場解放"
   },
-  { "id": 10, "originQuestoneId": 0, "questoneId": 10081102, "releaseMode": 10, "text": "", "title": "" },
-  { "id": 11, "originQuestoneId": 0, "questoneId": 10091102, "releaseMode": 11, "text": "", "title": "" },
+  {
+    "id": 10,
+    "originQuestoneId": 0,
+    "questoneId": 10081102,
+    "releaseMode": 10,
+    "text": "",
+    "title": ""
+  },
+  {
+    "id": 11,
+    "originQuestoneId": 0,
+    "questoneId": 10091102,
+    "releaseMode": 11,
+    "text": "",
+    "title": ""
+  },
   {
     "id": 12,
     "originQuestoneId": 0,

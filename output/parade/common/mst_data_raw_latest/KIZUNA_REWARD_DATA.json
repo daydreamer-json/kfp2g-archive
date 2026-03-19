@@ -1,12 +1,72 @@
 [
-  { "artsMax": 1, "charaquest": 1, "itemId": 0, "itemNum": 0, "level": 1 },
-  { "artsMax": 2, "charaquest": 2, "itemId": 0, "itemNum": 0, "level": 2 },
-  { "artsMax": 3, "charaquest": 3, "itemId": 0, "itemNum": 0, "level": 3 },
-  { "artsMax": 4, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 4 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 5 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 6 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 7 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 8 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 9 },
-  { "artsMax": 5, "charaquest": 0, "itemId": 0, "itemNum": 0, "level": 10 }
+  {
+    "artsMax": 1,
+    "charaquest": 1,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 1
+  },
+  {
+    "artsMax": 2,
+    "charaquest": 2,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 2
+  },
+  {
+    "artsMax": 3,
+    "charaquest": 3,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 3
+  },
+  {
+    "artsMax": 4,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 4
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 5
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 6
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 7
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 8
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 9
+  },
+  {
+    "artsMax": 5,
+    "charaquest": 0,
+    "itemId": 0,
+    "itemNum": 0,
+    "level": 10
+  }
 ]

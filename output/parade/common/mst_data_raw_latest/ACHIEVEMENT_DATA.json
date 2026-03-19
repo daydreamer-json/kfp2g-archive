@@ -7812,6 +7812,24 @@
     "startTime": 1764824400000
   },
   {
+    "achievementBg": "achievement_bg_05",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0559",
+    "achievementName": "クロイナリサマ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "クロイナリサマ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700559,
+    "infoGettext": "クロイナリサマを\nしょうたいすると入手可能",
+    "name": "クロイナリサマ入隊！",
+    "rarity": 1,
+    "sortId": 1117,
+    "stackMax": 1,
+    "startTime": 1774328400000
+  },
+  {
     "achievementBg": "achievement_bg_06",
     "achievementFrame": "achievement_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0560",
@@ -7900,6 +7918,24 @@
     "sortId": 1127,
     "stackMax": 1,
     "startTime": 1768453200000
+  },
+  {
+    "achievementBg": "achievement_bg_v2_lovely",
+    "achievementFrame": "achievement_v2_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0565",
+    "achievementName": "ヤタガラス",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【神代の白き翼】ヤタガラス入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700565,
+    "infoGettext": "【神代の白き翼】ヤタガラスを\nしょうたいすると入手可能",
+    "name": "【神代の白き翼】ヤタガラス入隊！",
+    "rarity": 1,
+    "sortId": 1129,
+    "stackMax": 1,
+    "startTime": 1773896400000
   },
   {
     "achievementBg": "achievement_bg_kizuna_03",
@@ -15714,6 +15750,24 @@
     "startTime": 1764824400000
   },
   {
+    "achievementBg": "achievement_bg_kizuna_04",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0559",
+    "achievementName": "あなたの行く末に幸あらんことを",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "クロイナリサマのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710559,
+    "infoGettext": "クロイナリサマの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "あなたの行く末に幸あらんことを",
+    "rarity": 1,
+    "sortId": 1118,
+    "stackMax": 1,
+    "startTime": 1774328400000
+  },
+  {
     "achievementBg": "achievement_bg_kizuna_06",
     "achievementFrame": "",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0560",
@@ -15802,6 +15856,24 @@
     "sortId": 1128,
     "stackMax": 1,
     "startTime": 1768453200000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_06",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0565",
+    "achievementName": "白き翼で勝利へ導かん",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【神代の白き翼】ヤタガラスのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710565,
+    "infoGettext": "【神代の白き翼】ヤタガラスの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "白き翼で勝利へ導かん",
+    "rarity": 1,
+    "sortId": 1130,
+    "stackMax": 1,
+    "startTime": 1773896400000
   },
   {
     "achievementBg": "achievement_bg_event_06",
@@ -16360,6 +16432,24 @@
     "sortId": 50013,
     "stackMax": 1,
     "startTime": 1769662800000
+  },
+  {
+    "achievementBg": "achievement_bg_event_31",
+    "achievementFrame": "",
+    "achievementIcon": "",
+    "achievementName": "6.5周年記念「夜明けに飛ぶ」",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "6.5周年を記念した称号です",
+    "hideFlag": 1,
+    "iconName": "icon_item_700001",
+    "id": 750014,
+    "infoGettext": "6.5周年記念プレゼントにて配布（期間限定）",
+    "name": "6.5周年記念「夜明けに飛ぶ」",
+    "rarity": 1,
+    "sortId": 50014,
+    "stackMax": 1,
+    "startTime": 1774278000000
   },
   {
     "achievementBg": "achievement_bg_07",

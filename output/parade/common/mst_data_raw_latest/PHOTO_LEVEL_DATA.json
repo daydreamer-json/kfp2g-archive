@@ -1,222 +1,1322 @@
 [
-  { "level": 1, "levelId": 1, "photoExp": 0, "photoReleaseDatetime": 1263016800000 },
-  { "level": 2, "levelId": 1, "photoExp": 30, "photoReleaseDatetime": 1263016800000 },
-  { "level": 3, "levelId": 1, "photoExp": 60, "photoReleaseDatetime": 1263016800000 },
-  { "level": 4, "levelId": 1, "photoExp": 90, "photoReleaseDatetime": 1263016800000 },
-  { "level": 5, "levelId": 1, "photoExp": 180, "photoReleaseDatetime": 1263016800000 },
-  { "level": 6, "levelId": 1, "photoExp": 270, "photoReleaseDatetime": 1263016800000 },
-  { "level": 7, "levelId": 1, "photoExp": 360, "photoReleaseDatetime": 1263016800000 },
-  { "level": 8, "levelId": 1, "photoExp": 480, "photoReleaseDatetime": 1263016800000 },
-  { "level": 9, "levelId": 1, "photoExp": 600, "photoReleaseDatetime": 1263016800000 },
-  { "level": 10, "levelId": 1, "photoExp": 720, "photoReleaseDatetime": 1263016800000 },
-  { "level": 11, "levelId": 1, "photoExp": 900, "photoReleaseDatetime": 1263016800000 },
-  { "level": 12, "levelId": 1, "photoExp": 1080, "photoReleaseDatetime": 1263016800000 },
-  { "level": 13, "levelId": 1, "photoExp": 1260, "photoReleaseDatetime": 1263016800000 },
-  { "level": 14, "levelId": 1, "photoExp": 1500, "photoReleaseDatetime": 1263016800000 },
-  { "level": 15, "levelId": 1, "photoExp": 1740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 16, "levelId": 1, "photoExp": 1980, "photoReleaseDatetime": 1263016800000 },
-  { "level": 17, "levelId": 1, "photoExp": 2280, "photoReleaseDatetime": 1263016800000 },
-  { "level": 18, "levelId": 1, "photoExp": 2580, "photoReleaseDatetime": 1263016800000 },
-  { "level": 19, "levelId": 1, "photoExp": 2880, "photoReleaseDatetime": 1263016800000 },
-  { "level": 20, "levelId": 1, "photoExp": 3240, "photoReleaseDatetime": 1263016800000 },
-  { "level": 21, "levelId": 1, "photoExp": 3600, "photoReleaseDatetime": 1263016800000 },
-  { "level": 22, "levelId": 1, "photoExp": 3960, "photoReleaseDatetime": 1263016800000 },
-  { "level": 23, "levelId": 1, "photoExp": 4380, "photoReleaseDatetime": 1263016800000 },
-  { "level": 24, "levelId": 1, "photoExp": 4800, "photoReleaseDatetime": 1263016800000 },
-  { "level": 25, "levelId": 1, "photoExp": 5220, "photoReleaseDatetime": 1263016800000 },
-  { "level": 26, "levelId": 1, "photoExp": 5700, "photoReleaseDatetime": 1263016800000 },
-  { "level": 27, "levelId": 1, "photoExp": 6180, "photoReleaseDatetime": 1263016800000 },
-  { "level": 28, "levelId": 1, "photoExp": 6660, "photoReleaseDatetime": 1263016800000 },
-  { "level": 29, "levelId": 1, "photoExp": 7200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 30, "levelId": 1, "photoExp": 7740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 31, "levelId": 1, "photoExp": 8280, "photoReleaseDatetime": 1263016800000 },
-  { "level": 32, "levelId": 1, "photoExp": 8880, "photoReleaseDatetime": 1263016800000 },
-  { "level": 33, "levelId": 1, "photoExp": 9480, "photoReleaseDatetime": 1263016800000 },
-  { "level": 34, "levelId": 1, "photoExp": 10080, "photoReleaseDatetime": 1263016800000 },
-  { "level": 35, "levelId": 1, "photoExp": 10740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 36, "levelId": 1, "photoExp": 11400, "photoReleaseDatetime": 1263016800000 },
-  { "level": 37, "levelId": 1, "photoExp": 12060, "photoReleaseDatetime": 1263016800000 },
-  { "level": 38, "levelId": 1, "photoExp": 12780, "photoReleaseDatetime": 1263016800000 },
-  { "level": 39, "levelId": 1, "photoExp": 13500, "photoReleaseDatetime": 1263016800000 },
-  { "level": 40, "levelId": 1, "photoExp": 14220, "photoReleaseDatetime": 1263016800000 },
-  { "level": 1, "levelId": 2, "photoExp": 0, "photoReleaseDatetime": 1263016800000 },
-  { "level": 2, "levelId": 2, "photoExp": 36, "photoReleaseDatetime": 1263016800000 },
-  { "level": 3, "levelId": 2, "photoExp": 72, "photoReleaseDatetime": 1263016800000 },
-  { "level": 4, "levelId": 2, "photoExp": 108, "photoReleaseDatetime": 1263016800000 },
-  { "level": 5, "levelId": 2, "photoExp": 216, "photoReleaseDatetime": 1263016800000 },
-  { "level": 6, "levelId": 2, "photoExp": 324, "photoReleaseDatetime": 1263016800000 },
-  { "level": 7, "levelId": 2, "photoExp": 432, "photoReleaseDatetime": 1263016800000 },
-  { "level": 8, "levelId": 2, "photoExp": 576, "photoReleaseDatetime": 1263016800000 },
-  { "level": 9, "levelId": 2, "photoExp": 720, "photoReleaseDatetime": 1263016800000 },
-  { "level": 10, "levelId": 2, "photoExp": 864, "photoReleaseDatetime": 1263016800000 },
-  { "level": 11, "levelId": 2, "photoExp": 1134, "photoReleaseDatetime": 1263016800000 },
-  { "level": 12, "levelId": 2, "photoExp": 1404, "photoReleaseDatetime": 1263016800000 },
-  { "level": 13, "levelId": 2, "photoExp": 1674, "photoReleaseDatetime": 1263016800000 },
-  { "level": 14, "levelId": 2, "photoExp": 2034, "photoReleaseDatetime": 1263016800000 },
-  { "level": 15, "levelId": 2, "photoExp": 2394, "photoReleaseDatetime": 1263016800000 },
-  { "level": 16, "levelId": 2, "photoExp": 2754, "photoReleaseDatetime": 1263016800000 },
-  { "level": 17, "levelId": 2, "photoExp": 3204, "photoReleaseDatetime": 1263016800000 },
-  { "level": 18, "levelId": 2, "photoExp": 3654, "photoReleaseDatetime": 1263016800000 },
-  { "level": 19, "levelId": 2, "photoExp": 4104, "photoReleaseDatetime": 1263016800000 },
-  { "level": 20, "levelId": 2, "photoExp": 4644, "photoReleaseDatetime": 1263016800000 },
-  { "level": 21, "levelId": 2, "photoExp": 5184, "photoReleaseDatetime": 1263016800000 },
-  { "level": 22, "levelId": 2, "photoExp": 5724, "photoReleaseDatetime": 1263016800000 },
-  { "level": 23, "levelId": 2, "photoExp": 6354, "photoReleaseDatetime": 1263016800000 },
-  { "level": 24, "levelId": 2, "photoExp": 6984, "photoReleaseDatetime": 1263016800000 },
-  { "level": 25, "levelId": 2, "photoExp": 7614, "photoReleaseDatetime": 1263016800000 },
-  { "level": 26, "levelId": 2, "photoExp": 8334, "photoReleaseDatetime": 1263016800000 },
-  { "level": 27, "levelId": 2, "photoExp": 9054, "photoReleaseDatetime": 1263016800000 },
-  { "level": 28, "levelId": 2, "photoExp": 9774, "photoReleaseDatetime": 1263016800000 },
-  { "level": 29, "levelId": 2, "photoExp": 10584, "photoReleaseDatetime": 1263016800000 },
-  { "level": 30, "levelId": 2, "photoExp": 11394, "photoReleaseDatetime": 1263016800000 },
-  { "level": 31, "levelId": 2, "photoExp": 12204, "photoReleaseDatetime": 1263016800000 },
-  { "level": 32, "levelId": 2, "photoExp": 13104, "photoReleaseDatetime": 1263016800000 },
-  { "level": 33, "levelId": 2, "photoExp": 14004, "photoReleaseDatetime": 1263016800000 },
-  { "level": 34, "levelId": 2, "photoExp": 14904, "photoReleaseDatetime": 1263016800000 },
-  { "level": 35, "levelId": 2, "photoExp": 15894, "photoReleaseDatetime": 1263016800000 },
-  { "level": 36, "levelId": 2, "photoExp": 16884, "photoReleaseDatetime": 1263016800000 },
-  { "level": 37, "levelId": 2, "photoExp": 17874, "photoReleaseDatetime": 1263016800000 },
-  { "level": 38, "levelId": 2, "photoExp": 18954, "photoReleaseDatetime": 1263016800000 },
-  { "level": 39, "levelId": 2, "photoExp": 20034, "photoReleaseDatetime": 1263016800000 },
-  { "level": 40, "levelId": 2, "photoExp": 21114, "photoReleaseDatetime": 1263016800000 },
-  { "level": 41, "levelId": 2, "photoExp": 22518, "photoReleaseDatetime": 1263016800000 },
-  { "level": 42, "levelId": 2, "photoExp": 23922, "photoReleaseDatetime": 1263016800000 },
-  { "level": 43, "levelId": 2, "photoExp": 25326, "photoReleaseDatetime": 1263016800000 },
-  { "level": 44, "levelId": 2, "photoExp": 26838, "photoReleaseDatetime": 1263016800000 },
-  { "level": 45, "levelId": 2, "photoExp": 28350, "photoReleaseDatetime": 1263016800000 },
-  { "level": 46, "levelId": 2, "photoExp": 29862, "photoReleaseDatetime": 1263016800000 },
-  { "level": 47, "levelId": 2, "photoExp": 31482, "photoReleaseDatetime": 1263016800000 },
-  { "level": 48, "levelId": 2, "photoExp": 33102, "photoReleaseDatetime": 1263016800000 },
-  { "level": 49, "levelId": 2, "photoExp": 34722, "photoReleaseDatetime": 1263016800000 },
-  { "level": 50, "levelId": 2, "photoExp": 36450, "photoReleaseDatetime": 1263016800000 },
-  { "level": 1, "levelId": 3, "photoExp": 0, "photoReleaseDatetime": 1263016800000 },
-  { "level": 2, "levelId": 3, "photoExp": 45, "photoReleaseDatetime": 1263016800000 },
-  { "level": 3, "levelId": 3, "photoExp": 90, "photoReleaseDatetime": 1263016800000 },
-  { "level": 4, "levelId": 3, "photoExp": 135, "photoReleaseDatetime": 1263016800000 },
-  { "level": 5, "levelId": 3, "photoExp": 270, "photoReleaseDatetime": 1263016800000 },
-  { "level": 6, "levelId": 3, "photoExp": 405, "photoReleaseDatetime": 1263016800000 },
-  { "level": 7, "levelId": 3, "photoExp": 540, "photoReleaseDatetime": 1263016800000 },
-  { "level": 8, "levelId": 3, "photoExp": 720, "photoReleaseDatetime": 1263016800000 },
-  { "level": 9, "levelId": 3, "photoExp": 900, "photoReleaseDatetime": 1263016800000 },
-  { "level": 10, "levelId": 3, "photoExp": 1080, "photoReleaseDatetime": 1263016800000 },
-  { "level": 11, "levelId": 3, "photoExp": 1440, "photoReleaseDatetime": 1263016800000 },
-  { "level": 12, "levelId": 3, "photoExp": 1800, "photoReleaseDatetime": 1263016800000 },
-  { "level": 13, "levelId": 3, "photoExp": 2160, "photoReleaseDatetime": 1263016800000 },
-  { "level": 14, "levelId": 3, "photoExp": 2640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 15, "levelId": 3, "photoExp": 3120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 16, "levelId": 3, "photoExp": 3600, "photoReleaseDatetime": 1263016800000 },
-  { "level": 17, "levelId": 3, "photoExp": 4200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 18, "levelId": 3, "photoExp": 4800, "photoReleaseDatetime": 1263016800000 },
-  { "level": 19, "levelId": 3, "photoExp": 5400, "photoReleaseDatetime": 1263016800000 },
-  { "level": 20, "levelId": 3, "photoExp": 6120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 21, "levelId": 3, "photoExp": 6840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 22, "levelId": 3, "photoExp": 7560, "photoReleaseDatetime": 1263016800000 },
-  { "level": 23, "levelId": 3, "photoExp": 8400, "photoReleaseDatetime": 1263016800000 },
-  { "level": 24, "levelId": 3, "photoExp": 9240, "photoReleaseDatetime": 1263016800000 },
-  { "level": 25, "levelId": 3, "photoExp": 10080, "photoReleaseDatetime": 1263016800000 },
-  { "level": 26, "levelId": 3, "photoExp": 11040, "photoReleaseDatetime": 1263016800000 },
-  { "level": 27, "levelId": 3, "photoExp": 12000, "photoReleaseDatetime": 1263016800000 },
-  { "level": 28, "levelId": 3, "photoExp": 12960, "photoReleaseDatetime": 1263016800000 },
-  { "level": 29, "levelId": 3, "photoExp": 14040, "photoReleaseDatetime": 1263016800000 },
-  { "level": 30, "levelId": 3, "photoExp": 15120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 31, "levelId": 3, "photoExp": 16200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 32, "levelId": 3, "photoExp": 17400, "photoReleaseDatetime": 1263016800000 },
-  { "level": 33, "levelId": 3, "photoExp": 18600, "photoReleaseDatetime": 1263016800000 },
-  { "level": 34, "levelId": 3, "photoExp": 19800, "photoReleaseDatetime": 1263016800000 },
-  { "level": 35, "levelId": 3, "photoExp": 21120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 36, "levelId": 3, "photoExp": 22440, "photoReleaseDatetime": 1263016800000 },
-  { "level": 37, "levelId": 3, "photoExp": 23760, "photoReleaseDatetime": 1263016800000 },
-  { "level": 38, "levelId": 3, "photoExp": 25200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 39, "levelId": 3, "photoExp": 26640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 40, "levelId": 3, "photoExp": 28080, "photoReleaseDatetime": 1263016800000 },
-  { "level": 41, "levelId": 3, "photoExp": 29640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 42, "levelId": 3, "photoExp": 31200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 43, "levelId": 3, "photoExp": 32760, "photoReleaseDatetime": 1263016800000 },
-  { "level": 44, "levelId": 3, "photoExp": 34440, "photoReleaseDatetime": 1263016800000 },
-  { "level": 45, "levelId": 3, "photoExp": 36120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 46, "levelId": 3, "photoExp": 37800, "photoReleaseDatetime": 1263016800000 },
-  { "level": 47, "levelId": 3, "photoExp": 39600, "photoReleaseDatetime": 1263016800000 },
-  { "level": 48, "levelId": 3, "photoExp": 41400, "photoReleaseDatetime": 1263016800000 },
-  { "level": 49, "levelId": 3, "photoExp": 43200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 50, "levelId": 3, "photoExp": 45120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 51, "levelId": 3, "photoExp": 47520, "photoReleaseDatetime": 1263016800000 },
-  { "level": 52, "levelId": 3, "photoExp": 49920, "photoReleaseDatetime": 1263016800000 },
-  { "level": 53, "levelId": 3, "photoExp": 52470, "photoReleaseDatetime": 1263016800000 },
-  { "level": 54, "levelId": 3, "photoExp": 55020, "photoReleaseDatetime": 1263016800000 },
-  { "level": 55, "levelId": 3, "photoExp": 57570, "photoReleaseDatetime": 1263016800000 },
-  { "level": 56, "levelId": 3, "photoExp": 60270, "photoReleaseDatetime": 1263016800000 },
-  { "level": 57, "levelId": 3, "photoExp": 62970, "photoReleaseDatetime": 1263016800000 },
-  { "level": 58, "levelId": 3, "photoExp": 65670, "photoReleaseDatetime": 1263016800000 },
-  { "level": 59, "levelId": 3, "photoExp": 68520, "photoReleaseDatetime": 1263016800000 },
-  { "level": 60, "levelId": 3, "photoExp": 71370, "photoReleaseDatetime": 1263016800000 },
-  { "level": 1, "levelId": 4, "photoExp": 0, "photoReleaseDatetime": 1263016800000 },
-  { "level": 2, "levelId": 4, "photoExp": 60, "photoReleaseDatetime": 1263016800000 },
-  { "level": 3, "levelId": 4, "photoExp": 120, "photoReleaseDatetime": 1263016800000 },
-  { "level": 4, "levelId": 4, "photoExp": 180, "photoReleaseDatetime": 1263016800000 },
-  { "level": 5, "levelId": 4, "photoExp": 360, "photoReleaseDatetime": 1263016800000 },
-  { "level": 6, "levelId": 4, "photoExp": 540, "photoReleaseDatetime": 1263016800000 },
-  { "level": 7, "levelId": 4, "photoExp": 720, "photoReleaseDatetime": 1263016800000 },
-  { "level": 8, "levelId": 4, "photoExp": 960, "photoReleaseDatetime": 1263016800000 },
-  { "level": 9, "levelId": 4, "photoExp": 1200, "photoReleaseDatetime": 1263016800000 },
-  { "level": 10, "levelId": 4, "photoExp": 1440, "photoReleaseDatetime": 1263016800000 },
-  { "level": 11, "levelId": 4, "photoExp": 1890, "photoReleaseDatetime": 1263016800000 },
-  { "level": 12, "levelId": 4, "photoExp": 2340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 13, "levelId": 4, "photoExp": 2790, "photoReleaseDatetime": 1263016800000 },
-  { "level": 14, "levelId": 4, "photoExp": 3390, "photoReleaseDatetime": 1263016800000 },
-  { "level": 15, "levelId": 4, "photoExp": 3990, "photoReleaseDatetime": 1263016800000 },
-  { "level": 16, "levelId": 4, "photoExp": 4590, "photoReleaseDatetime": 1263016800000 },
-  { "level": 17, "levelId": 4, "photoExp": 5340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 18, "levelId": 4, "photoExp": 6090, "photoReleaseDatetime": 1263016800000 },
-  { "level": 19, "levelId": 4, "photoExp": 6840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 20, "levelId": 4, "photoExp": 7740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 21, "levelId": 4, "photoExp": 8640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 22, "levelId": 4, "photoExp": 9540, "photoReleaseDatetime": 1263016800000 },
-  { "level": 23, "levelId": 4, "photoExp": 10590, "photoReleaseDatetime": 1263016800000 },
-  { "level": 24, "levelId": 4, "photoExp": 11640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 25, "levelId": 4, "photoExp": 12690, "photoReleaseDatetime": 1263016800000 },
-  { "level": 26, "levelId": 4, "photoExp": 13890, "photoReleaseDatetime": 1263016800000 },
-  { "level": 27, "levelId": 4, "photoExp": 15090, "photoReleaseDatetime": 1263016800000 },
-  { "level": 28, "levelId": 4, "photoExp": 16290, "photoReleaseDatetime": 1263016800000 },
-  { "level": 29, "levelId": 4, "photoExp": 17640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 30, "levelId": 4, "photoExp": 18990, "photoReleaseDatetime": 1263016800000 },
-  { "level": 31, "levelId": 4, "photoExp": 20340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 32, "levelId": 4, "photoExp": 21840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 33, "levelId": 4, "photoExp": 23340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 34, "levelId": 4, "photoExp": 24840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 35, "levelId": 4, "photoExp": 26490, "photoReleaseDatetime": 1263016800000 },
-  { "level": 36, "levelId": 4, "photoExp": 28140, "photoReleaseDatetime": 1263016800000 },
-  { "level": 37, "levelId": 4, "photoExp": 29790, "photoReleaseDatetime": 1263016800000 },
-  { "level": 38, "levelId": 4, "photoExp": 31590, "photoReleaseDatetime": 1263016800000 },
-  { "level": 39, "levelId": 4, "photoExp": 33390, "photoReleaseDatetime": 1263016800000 },
-  { "level": 40, "levelId": 4, "photoExp": 35190, "photoReleaseDatetime": 1263016800000 },
-  { "level": 41, "levelId": 4, "photoExp": 37140, "photoReleaseDatetime": 1263016800000 },
-  { "level": 42, "levelId": 4, "photoExp": 39090, "photoReleaseDatetime": 1263016800000 },
-  { "level": 43, "levelId": 4, "photoExp": 41040, "photoReleaseDatetime": 1263016800000 },
-  { "level": 44, "levelId": 4, "photoExp": 43140, "photoReleaseDatetime": 1263016800000 },
-  { "level": 45, "levelId": 4, "photoExp": 45240, "photoReleaseDatetime": 1263016800000 },
-  { "level": 46, "levelId": 4, "photoExp": 47340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 47, "levelId": 4, "photoExp": 49590, "photoReleaseDatetime": 1263016800000 },
-  { "level": 48, "levelId": 4, "photoExp": 51840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 49, "levelId": 4, "photoExp": 54090, "photoReleaseDatetime": 1263016800000 },
-  { "level": 50, "levelId": 4, "photoExp": 56490, "photoReleaseDatetime": 1263016800000 },
-  { "level": 51, "levelId": 4, "photoExp": 58890, "photoReleaseDatetime": 1263016800000 },
-  { "level": 52, "levelId": 4, "photoExp": 61290, "photoReleaseDatetime": 1263016800000 },
-  { "level": 53, "levelId": 4, "photoExp": 63840, "photoReleaseDatetime": 1263016800000 },
-  { "level": 54, "levelId": 4, "photoExp": 66390, "photoReleaseDatetime": 1263016800000 },
-  { "level": 55, "levelId": 4, "photoExp": 68940, "photoReleaseDatetime": 1263016800000 },
-  { "level": 56, "levelId": 4, "photoExp": 71640, "photoReleaseDatetime": 1263016800000 },
-  { "level": 57, "levelId": 4, "photoExp": 74340, "photoReleaseDatetime": 1263016800000 },
-  { "level": 58, "levelId": 4, "photoExp": 77040, "photoReleaseDatetime": 1263016800000 },
-  { "level": 59, "levelId": 4, "photoExp": 79890, "photoReleaseDatetime": 1263016800000 },
-  { "level": 60, "levelId": 4, "photoExp": 82740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 61, "levelId": 4, "photoExp": 86160, "photoReleaseDatetime": 1263016800000 },
-  { "level": 62, "levelId": 4, "photoExp": 89760, "photoReleaseDatetime": 1263016800000 },
-  { "level": 63, "levelId": 4, "photoExp": 93360, "photoReleaseDatetime": 1263016800000 },
-  { "level": 64, "levelId": 4, "photoExp": 96960, "photoReleaseDatetime": 1263016800000 },
-  { "level": 65, "levelId": 4, "photoExp": 100740, "photoReleaseDatetime": 1263016800000 },
-  { "level": 66, "levelId": 4, "photoExp": 104520, "photoReleaseDatetime": 1263016800000 },
-  { "level": 67, "levelId": 4, "photoExp": 108300, "photoReleaseDatetime": 1263016800000 },
-  { "level": 68, "levelId": 4, "photoExp": 112260, "photoReleaseDatetime": 1263016800000 },
-  { "level": 69, "levelId": 4, "photoExp": 116220, "photoReleaseDatetime": 1263016800000 },
-  { "level": 70, "levelId": 4, "photoExp": 120180, "photoReleaseDatetime": 1263016800000 }
+  {
+    "level": 1,
+    "levelId": 1,
+    "photoExp": 0,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 2,
+    "levelId": 1,
+    "photoExp": 30,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 3,
+    "levelId": 1,
+    "photoExp": 60,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 4,
+    "levelId": 1,
+    "photoExp": 90,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 5,
+    "levelId": 1,
+    "photoExp": 180,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 6,
+    "levelId": 1,
+    "photoExp": 270,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 7,
+    "levelId": 1,
+    "photoExp": 360,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 8,
+    "levelId": 1,
+    "photoExp": 480,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 9,
+    "levelId": 1,
+    "photoExp": 600,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 10,
+    "levelId": 1,
+    "photoExp": 720,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 11,
+    "levelId": 1,
+    "photoExp": 900,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 12,
+    "levelId": 1,
+    "photoExp": 1080,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 13,
+    "levelId": 1,
+    "photoExp": 1260,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 14,
+    "levelId": 1,
+    "photoExp": 1500,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 15,
+    "levelId": 1,
+    "photoExp": 1740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 16,
+    "levelId": 1,
+    "photoExp": 1980,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 17,
+    "levelId": 1,
+    "photoExp": 2280,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 18,
+    "levelId": 1,
+    "photoExp": 2580,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 19,
+    "levelId": 1,
+    "photoExp": 2880,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 20,
+    "levelId": 1,
+    "photoExp": 3240,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 21,
+    "levelId": 1,
+    "photoExp": 3600,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 22,
+    "levelId": 1,
+    "photoExp": 3960,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 23,
+    "levelId": 1,
+    "photoExp": 4380,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 24,
+    "levelId": 1,
+    "photoExp": 4800,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 25,
+    "levelId": 1,
+    "photoExp": 5220,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 26,
+    "levelId": 1,
+    "photoExp": 5700,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 27,
+    "levelId": 1,
+    "photoExp": 6180,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 28,
+    "levelId": 1,
+    "photoExp": 6660,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 29,
+    "levelId": 1,
+    "photoExp": 7200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 30,
+    "levelId": 1,
+    "photoExp": 7740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 31,
+    "levelId": 1,
+    "photoExp": 8280,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 32,
+    "levelId": 1,
+    "photoExp": 8880,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 33,
+    "levelId": 1,
+    "photoExp": 9480,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 34,
+    "levelId": 1,
+    "photoExp": 10080,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 35,
+    "levelId": 1,
+    "photoExp": 10740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 36,
+    "levelId": 1,
+    "photoExp": 11400,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 37,
+    "levelId": 1,
+    "photoExp": 12060,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 38,
+    "levelId": 1,
+    "photoExp": 12780,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 39,
+    "levelId": 1,
+    "photoExp": 13500,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 40,
+    "levelId": 1,
+    "photoExp": 14220,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 1,
+    "levelId": 2,
+    "photoExp": 0,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 2,
+    "levelId": 2,
+    "photoExp": 36,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 3,
+    "levelId": 2,
+    "photoExp": 72,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 4,
+    "levelId": 2,
+    "photoExp": 108,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 5,
+    "levelId": 2,
+    "photoExp": 216,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 6,
+    "levelId": 2,
+    "photoExp": 324,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 7,
+    "levelId": 2,
+    "photoExp": 432,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 8,
+    "levelId": 2,
+    "photoExp": 576,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 9,
+    "levelId": 2,
+    "photoExp": 720,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 10,
+    "levelId": 2,
+    "photoExp": 864,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 11,
+    "levelId": 2,
+    "photoExp": 1134,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 12,
+    "levelId": 2,
+    "photoExp": 1404,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 13,
+    "levelId": 2,
+    "photoExp": 1674,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 14,
+    "levelId": 2,
+    "photoExp": 2034,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 15,
+    "levelId": 2,
+    "photoExp": 2394,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 16,
+    "levelId": 2,
+    "photoExp": 2754,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 17,
+    "levelId": 2,
+    "photoExp": 3204,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 18,
+    "levelId": 2,
+    "photoExp": 3654,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 19,
+    "levelId": 2,
+    "photoExp": 4104,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 20,
+    "levelId": 2,
+    "photoExp": 4644,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 21,
+    "levelId": 2,
+    "photoExp": 5184,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 22,
+    "levelId": 2,
+    "photoExp": 5724,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 23,
+    "levelId": 2,
+    "photoExp": 6354,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 24,
+    "levelId": 2,
+    "photoExp": 6984,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 25,
+    "levelId": 2,
+    "photoExp": 7614,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 26,
+    "levelId": 2,
+    "photoExp": 8334,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 27,
+    "levelId": 2,
+    "photoExp": 9054,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 28,
+    "levelId": 2,
+    "photoExp": 9774,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 29,
+    "levelId": 2,
+    "photoExp": 10584,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 30,
+    "levelId": 2,
+    "photoExp": 11394,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 31,
+    "levelId": 2,
+    "photoExp": 12204,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 32,
+    "levelId": 2,
+    "photoExp": 13104,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 33,
+    "levelId": 2,
+    "photoExp": 14004,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 34,
+    "levelId": 2,
+    "photoExp": 14904,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 35,
+    "levelId": 2,
+    "photoExp": 15894,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 36,
+    "levelId": 2,
+    "photoExp": 16884,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 37,
+    "levelId": 2,
+    "photoExp": 17874,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 38,
+    "levelId": 2,
+    "photoExp": 18954,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 39,
+    "levelId": 2,
+    "photoExp": 20034,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 40,
+    "levelId": 2,
+    "photoExp": 21114,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 41,
+    "levelId": 2,
+    "photoExp": 22518,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 42,
+    "levelId": 2,
+    "photoExp": 23922,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 43,
+    "levelId": 2,
+    "photoExp": 25326,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 44,
+    "levelId": 2,
+    "photoExp": 26838,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 45,
+    "levelId": 2,
+    "photoExp": 28350,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 46,
+    "levelId": 2,
+    "photoExp": 29862,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 47,
+    "levelId": 2,
+    "photoExp": 31482,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 48,
+    "levelId": 2,
+    "photoExp": 33102,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 49,
+    "levelId": 2,
+    "photoExp": 34722,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 50,
+    "levelId": 2,
+    "photoExp": 36450,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 1,
+    "levelId": 3,
+    "photoExp": 0,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 2,
+    "levelId": 3,
+    "photoExp": 45,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 3,
+    "levelId": 3,
+    "photoExp": 90,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 4,
+    "levelId": 3,
+    "photoExp": 135,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 5,
+    "levelId": 3,
+    "photoExp": 270,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 6,
+    "levelId": 3,
+    "photoExp": 405,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 7,
+    "levelId": 3,
+    "photoExp": 540,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 8,
+    "levelId": 3,
+    "photoExp": 720,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 9,
+    "levelId": 3,
+    "photoExp": 900,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 10,
+    "levelId": 3,
+    "photoExp": 1080,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 11,
+    "levelId": 3,
+    "photoExp": 1440,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 12,
+    "levelId": 3,
+    "photoExp": 1800,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 13,
+    "levelId": 3,
+    "photoExp": 2160,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 14,
+    "levelId": 3,
+    "photoExp": 2640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 15,
+    "levelId": 3,
+    "photoExp": 3120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 16,
+    "levelId": 3,
+    "photoExp": 3600,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 17,
+    "levelId": 3,
+    "photoExp": 4200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 18,
+    "levelId": 3,
+    "photoExp": 4800,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 19,
+    "levelId": 3,
+    "photoExp": 5400,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 20,
+    "levelId": 3,
+    "photoExp": 6120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 21,
+    "levelId": 3,
+    "photoExp": 6840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 22,
+    "levelId": 3,
+    "photoExp": 7560,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 23,
+    "levelId": 3,
+    "photoExp": 8400,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 24,
+    "levelId": 3,
+    "photoExp": 9240,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 25,
+    "levelId": 3,
+    "photoExp": 10080,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 26,
+    "levelId": 3,
+    "photoExp": 11040,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 27,
+    "levelId": 3,
+    "photoExp": 12000,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 28,
+    "levelId": 3,
+    "photoExp": 12960,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 29,
+    "levelId": 3,
+    "photoExp": 14040,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 30,
+    "levelId": 3,
+    "photoExp": 15120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 31,
+    "levelId": 3,
+    "photoExp": 16200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 32,
+    "levelId": 3,
+    "photoExp": 17400,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 33,
+    "levelId": 3,
+    "photoExp": 18600,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 34,
+    "levelId": 3,
+    "photoExp": 19800,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 35,
+    "levelId": 3,
+    "photoExp": 21120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 36,
+    "levelId": 3,
+    "photoExp": 22440,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 37,
+    "levelId": 3,
+    "photoExp": 23760,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 38,
+    "levelId": 3,
+    "photoExp": 25200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 39,
+    "levelId": 3,
+    "photoExp": 26640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 40,
+    "levelId": 3,
+    "photoExp": 28080,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 41,
+    "levelId": 3,
+    "photoExp": 29640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 42,
+    "levelId": 3,
+    "photoExp": 31200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 43,
+    "levelId": 3,
+    "photoExp": 32760,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 44,
+    "levelId": 3,
+    "photoExp": 34440,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 45,
+    "levelId": 3,
+    "photoExp": 36120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 46,
+    "levelId": 3,
+    "photoExp": 37800,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 47,
+    "levelId": 3,
+    "photoExp": 39600,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 48,
+    "levelId": 3,
+    "photoExp": 41400,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 49,
+    "levelId": 3,
+    "photoExp": 43200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 50,
+    "levelId": 3,
+    "photoExp": 45120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 51,
+    "levelId": 3,
+    "photoExp": 47520,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 52,
+    "levelId": 3,
+    "photoExp": 49920,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 53,
+    "levelId": 3,
+    "photoExp": 52470,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 54,
+    "levelId": 3,
+    "photoExp": 55020,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 55,
+    "levelId": 3,
+    "photoExp": 57570,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 56,
+    "levelId": 3,
+    "photoExp": 60270,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 57,
+    "levelId": 3,
+    "photoExp": 62970,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 58,
+    "levelId": 3,
+    "photoExp": 65670,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 59,
+    "levelId": 3,
+    "photoExp": 68520,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 60,
+    "levelId": 3,
+    "photoExp": 71370,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 1,
+    "levelId": 4,
+    "photoExp": 0,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 2,
+    "levelId": 4,
+    "photoExp": 60,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 3,
+    "levelId": 4,
+    "photoExp": 120,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 4,
+    "levelId": 4,
+    "photoExp": 180,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 5,
+    "levelId": 4,
+    "photoExp": 360,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 6,
+    "levelId": 4,
+    "photoExp": 540,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 7,
+    "levelId": 4,
+    "photoExp": 720,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 8,
+    "levelId": 4,
+    "photoExp": 960,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 9,
+    "levelId": 4,
+    "photoExp": 1200,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 10,
+    "levelId": 4,
+    "photoExp": 1440,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 11,
+    "levelId": 4,
+    "photoExp": 1890,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 12,
+    "levelId": 4,
+    "photoExp": 2340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 13,
+    "levelId": 4,
+    "photoExp": 2790,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 14,
+    "levelId": 4,
+    "photoExp": 3390,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 15,
+    "levelId": 4,
+    "photoExp": 3990,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 16,
+    "levelId": 4,
+    "photoExp": 4590,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 17,
+    "levelId": 4,
+    "photoExp": 5340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 18,
+    "levelId": 4,
+    "photoExp": 6090,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 19,
+    "levelId": 4,
+    "photoExp": 6840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 20,
+    "levelId": 4,
+    "photoExp": 7740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 21,
+    "levelId": 4,
+    "photoExp": 8640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 22,
+    "levelId": 4,
+    "photoExp": 9540,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 23,
+    "levelId": 4,
+    "photoExp": 10590,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 24,
+    "levelId": 4,
+    "photoExp": 11640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 25,
+    "levelId": 4,
+    "photoExp": 12690,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 26,
+    "levelId": 4,
+    "photoExp": 13890,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 27,
+    "levelId": 4,
+    "photoExp": 15090,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 28,
+    "levelId": 4,
+    "photoExp": 16290,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 29,
+    "levelId": 4,
+    "photoExp": 17640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 30,
+    "levelId": 4,
+    "photoExp": 18990,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 31,
+    "levelId": 4,
+    "photoExp": 20340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 32,
+    "levelId": 4,
+    "photoExp": 21840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 33,
+    "levelId": 4,
+    "photoExp": 23340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 34,
+    "levelId": 4,
+    "photoExp": 24840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 35,
+    "levelId": 4,
+    "photoExp": 26490,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 36,
+    "levelId": 4,
+    "photoExp": 28140,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 37,
+    "levelId": 4,
+    "photoExp": 29790,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 38,
+    "levelId": 4,
+    "photoExp": 31590,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 39,
+    "levelId": 4,
+    "photoExp": 33390,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 40,
+    "levelId": 4,
+    "photoExp": 35190,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 41,
+    "levelId": 4,
+    "photoExp": 37140,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 42,
+    "levelId": 4,
+    "photoExp": 39090,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 43,
+    "levelId": 4,
+    "photoExp": 41040,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 44,
+    "levelId": 4,
+    "photoExp": 43140,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 45,
+    "levelId": 4,
+    "photoExp": 45240,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 46,
+    "levelId": 4,
+    "photoExp": 47340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 47,
+    "levelId": 4,
+    "photoExp": 49590,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 48,
+    "levelId": 4,
+    "photoExp": 51840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 49,
+    "levelId": 4,
+    "photoExp": 54090,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 50,
+    "levelId": 4,
+    "photoExp": 56490,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 51,
+    "levelId": 4,
+    "photoExp": 58890,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 52,
+    "levelId": 4,
+    "photoExp": 61290,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 53,
+    "levelId": 4,
+    "photoExp": 63840,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 54,
+    "levelId": 4,
+    "photoExp": 66390,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 55,
+    "levelId": 4,
+    "photoExp": 68940,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 56,
+    "levelId": 4,
+    "photoExp": 71640,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 57,
+    "levelId": 4,
+    "photoExp": 74340,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 58,
+    "levelId": 4,
+    "photoExp": 77040,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 59,
+    "levelId": 4,
+    "photoExp": 79890,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 60,
+    "levelId": 4,
+    "photoExp": 82740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 61,
+    "levelId": 4,
+    "photoExp": 86160,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 62,
+    "levelId": 4,
+    "photoExp": 89760,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 63,
+    "levelId": 4,
+    "photoExp": 93360,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 64,
+    "levelId": 4,
+    "photoExp": 96960,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 65,
+    "levelId": 4,
+    "photoExp": 100740,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 66,
+    "levelId": 4,
+    "photoExp": 104520,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 67,
+    "levelId": 4,
+    "photoExp": 108300,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 68,
+    "levelId": 4,
+    "photoExp": 112260,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 69,
+    "levelId": 4,
+    "photoExp": 116220,
+    "photoReleaseDatetime": 1263016800000
+  },
+  {
+    "level": 70,
+    "levelId": 4,
+    "photoExp": 120180,
+    "photoReleaseDatetime": 1263016800000
+  }
 ]

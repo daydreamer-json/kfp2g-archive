@@ -6492,6 +6492,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "想いから生まれた不思議な鉱物\nクロイナリサマのけも級アップに使用します",
+    "iconName": "icon_item_10559",
+    "id": 10559,
+    "name": "小さなクロイナリサマの輝石",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "フレンズの想いから生まれた不思議な鉱物\nレオのけも級アップに使用します",
     "iconName": "icon_item_10560",
     "id": 10560,
@@ -6544,6 +6556,18 @@
     "iconName": "icon_item_10564",
     "id": 10564,
     "name": "小さなアンゴル＝モアの輝石",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "想いから生まれた不思議な鉱物\n【神代の白き翼】ヤタガラスのけも級アップに使用します",
+    "iconName": "icon_item_10565",
+    "id": 10565,
+    "name": "小さな【神代の白き翼】ヤタガラスの輝石",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
@@ -13044,6 +13068,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nクロイナリサマのフォトポケット解放に使用します",
+    "iconName": "icon_item_11559",
+    "id": 11559,
+    "name": "クロイナリサマの輝石",
+    "noSaleFlg": 1,
+    "rarity": 5,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nレオのフォトポケット解放に使用します",
     "iconName": "icon_item_11560",
     "id": 11560,
@@ -13096,6 +13132,18 @@
     "iconName": "icon_item_11564",
     "id": 11564,
     "name": "アンゴル＝モアの輝石",
+    "noSaleFlg": 1,
+    "rarity": 5,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\n【神代の白き翼】ヤタガラスのフォトポケット解放に使用します",
+    "iconName": "icon_item_11565",
+    "id": 11565,
+    "name": "【神代の白き翼】ヤタガラスの輝石",
     "noSaleFlg": 1,
     "rarity": 5,
     "salePrice": 0,
@@ -21456,6 +21504,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "秘めた野性を解き放つ秘密の小瓶\nクロイナリサマの野生解放の強化に使用します",
+    "iconName": "icon_item_16559",
+    "id": 16559,
+    "name": "クロイナリサマの小瓶",
+    "noSaleFlg": 0,
+    "rarity": 5,
+    "salePrice": 10,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "秘めた野性を解き放つ秘密の小瓶\nレオの野生解放の強化に使用します",
     "iconName": "icon_item_16560",
     "id": 16560,
@@ -21508,6 +21568,18 @@
     "iconName": "icon_item_16564",
     "id": 16564,
     "name": "アンゴル＝モアの小瓶",
+    "noSaleFlg": 0,
+    "rarity": 5,
+    "salePrice": 10,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "秘めた野性を解き放つ秘密の小瓶\n【神代の白き翼】ヤタガラスの野生解放の強化に使用します",
+    "iconName": "icon_item_16565",
+    "id": 16565,
+    "name": "【神代の白き翼】ヤタガラスの小瓶",
     "noSaleFlg": 0,
     "rarity": 5,
     "salePrice": 10,
@@ -26712,6 +26784,18 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "4月中に集められるしょうたい券\nショップで使用できます",
+    "iconName": "icon_item_30162",
+    "id": 30562,
+    "name": "4月ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 3,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "対応するしょうたい（ガチャ）で使用できます",
     "iconName": "icon_item_100014",
     "id": 30601,
@@ -29496,6 +29580,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_33169",
+    "id": 33169,
+    "name": "いつかどこかの稲荷寿司",
+    "noSaleFlg": 1,
+    "rarity": 2,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "特定のクエストをスキップできます",
     "iconName": "icon_item_17010",
     "id": 39000,
@@ -29512,6 +29608,30 @@
     "iconName": "icon_item_39001",
     "id": 39001,
     "name": "フレンズおてつだい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "隊長の帽子をイメージした、フレンズに大人気のシール\n対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_39002",
+    "id": 39002,
+    "name": "隊長シール",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "いろいろなシールをたくさん集めよう！\nショップで使用できます",
+    "iconName": "icon_item_39003",
+    "id": 39003,
+    "name": "シールこうかん券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
@@ -48144,10 +48264,82 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101550",
+    "id": 101550,
+    "name": "【神代の白き翼】ヤタガラスSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101551",
+    "id": 101551,
+    "name": "クロイナリサマSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100274",
     "id": 101554,
     "name": "6.5周年記念☆4フォト交換券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_30178",
+    "id": 101555,
+    "name": "6.5周年記念復刻ぬいぐるみ交換券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100049",
+    "id": 101556,
+    "name": "6.5周年記念！SSRインテリア交換券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100317",
+    "id": 101557,
+    "name": "6.5周年記念！SRインテリア交換券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100273",
+    "id": 101560,
+    "name": "すぺしゃるアクセサリー交換券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
