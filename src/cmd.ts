@@ -74,6 +74,34 @@ async function parseCommand() {
       },
       wrapHandler(cmds.abArchive),
     )
+    .command(
+      ['abDownload [regex...]'],
+      'Download assetbundles from mirror',
+      (yargs) => {
+        yargs
+          .positional('regex', {
+            describe: 'Regular expressions to filter assetbundles',
+            type: 'string',
+          })
+          .options({
+            'output-dir': {
+              alias: ['o'],
+              desc: 'Output root directory',
+              default: path.resolve('output'),
+              normalize: true,
+              type: 'string',
+            },
+            'output-dir-ab': {
+              alias: ['oab'],
+              desc: 'Output root directory (assetbundle)',
+              default: path.resolve('output'),
+              normalize: true,
+              type: 'string',
+            },
+          });
+      },
+      wrapHandler(cmds.abDownload),
+    )
     .options({
       'log-level': {
         desc: 'Set log level (' + TypesLogLevels.LOG_LEVELS_NUM.join(', ') + ')',

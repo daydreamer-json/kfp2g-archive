@@ -175,7 +175,7 @@ async function fetchAndSaveMst() {
     for (const entry of apiLatestData.rsp) {
       const outPath = path.join(rootPath, entry.type + '.json');
       const data = new TextDecoder().decode(Bun.gunzipSync(Buffer.from(entry.data, 'base64')));
-      await Bun.write(outPath, data);
+      await Bun.write(outPath, JSON.stringify(JSON.parse(data), null, 2));
       logger.trace('Decoded MstData: ' + entry.version + ', ' + entry.type);
     }
   }
