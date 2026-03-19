@@ -115,7 +115,8 @@ async function fetchAndSaveGetUrlCmd() {
   logger.debug('Fetching GetUrl.do ...');
   const dgpGameInfoAllPath = path.join(argvUtils.getArgv()['outputDir'], 'parade', 'dmm_game_info', 'all.json');
   const dgpGameInfoAll: StoredData<TypesApiDgp.InfoRspSanitized>[] = await Bun.file(dgpGameInfoAllPath).json();
-  for (const dgpEntry of dgpGameInfoAll) {
+  let isLatestWrote = false;
+  for (const dgpEntry of dgpGameInfoAll.toReversed()) {
     const ver = semver.coerce(dgpEntry.rsp.info.latest_version);
     if (!ver) {
       logger.warn('Failed to parse DGP game version as semver: ' + dgpEntry.rsp.info.latest_version);
@@ -127,14 +128,19 @@ async function fetchAndSaveGetUrlCmd() {
       ['parade', 'common', 'get_url'],
       ver.version,
       { req: { version: ver.version, platform: 4 }, rsp },
-      { saveLatest: true, ignoreRules: diffIgnoreRules },
+      { saveLatest: Boolean(!isLatestWrote), ignoreRules: diffIgnoreRules },
     );
+    isLatestWrote = true;
   }
 }
 
 async function fetchAndSaveMst() {
   logger.debug('Fetching MstVersion.do ...');
   const verRsp = await api.parade.common.mstVersion();
+  if (!verRsp.mst_ver && verRsp.error_code && verRsp.error_code.id === 11) {
+    logger.warn('Game server is currently undergoing maintenance. Skipped');
+    return;
+  }
   if (!verRsp.mst_ver || verRsp.mst_ver.length === 0) {
     logger.warn('mst_ver is falsy. Skipped');
     return;
