@@ -11324,6 +11324,23 @@
   {
     "comebackDay": 0,
     "comebackFlag": 0,
+    "endDatetime": 1775142000000,
+    "exclusionUsersetId": 0,
+    "id": 669,
+    "itemId": 31002,
+    "itemNum": 1,
+    "kind": 0,
+    "playEventId": 0,
+    "presentText": "イベント「かがやけリクホク☆ひだまりの段！」の「9話 バトル3」におけるドロップの不具合のお詫び",
+    "recvBorderTime": 1775142000000,
+    "startDatetime": 1774328400000,
+    "tutorialEndDatetime": 946652400000,
+    "tutorialFlag": 0,
+    "tutorialStartDatetime": 946652400000
+  },
+  {
+    "comebackDay": 0,
+    "comebackFlag": 0,
     "endDatetime": 1593529200000,
     "exclusionUsersetId": 0,
     "id": 99997,
