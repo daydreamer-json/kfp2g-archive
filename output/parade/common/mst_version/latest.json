@@ -35,7 +35,7 @@
       },
       {
         "type": "MAINTENANCE_DATA",
-        "version": "b7f99ddd404be9372387184f714ef6f6"
+        "version": "0699d7caebb8c1d8bbf75bb856ddb76e"
       },
       {
         "type": "CHARA_KIZUNA_LEVEL_DATA",
@@ -379,7 +379,7 @@
       },
       {
         "type": "ITEM_PRESET",
-        "version": "a0eb438044471c77ff0fafb8c8398a1d"
+        "version": "6a73b1bd4a80a71ffcfd04214f06ff0e"
       },
       {
         "type": "PVP_TURN_BONUS_DATA",
@@ -643,8 +643,8 @@
       }
     ],
     "res_code": 0,
-    "server_time": 1774328437571,
+    "server_time": 1774407644119,
     "target_server_type": null,
-    "transaction_id": "8C-001-000234"
+    "transaction_id": "FE-002-0005BE"
   }
 }
