@@ -1054,6 +1054,33 @@
   },
   {
     "coefficient": 120,
+    "pvpId": 40,
+    "rankHigh": 2,
+    "rankRow": 0,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 1
+  },
+  {
+    "coefficient": 100,
+    "pvpId": 40,
+    "rankHigh": -1,
+    "rankRow": -3,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 2
+  },
+  {
+    "coefficient": 80,
+    "pvpId": 40,
+    "rankHigh": -6,
+    "rankRow": -10,
+    "selectActiveDays": 0,
+    "selectPerson": 2,
+    "strength": 3
+  },
+  {
+    "coefficient": 120,
     "pvpId": 101,
     "rankHigh": 4,
     "rankRow": 2,

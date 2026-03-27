@@ -1170,6 +1170,36 @@
     "turnNum": 6
   },
   {
+    "pointOdds": 150,
+    "pvpId": 40,
+    "turnNum": 1
+  },
+  {
+    "pointOdds": 140,
+    "pvpId": 40,
+    "turnNum": 2
+  },
+  {
+    "pointOdds": 130,
+    "pvpId": 40,
+    "turnNum": 3
+  },
+  {
+    "pointOdds": 120,
+    "pvpId": 40,
+    "turnNum": 4
+  },
+  {
+    "pointOdds": 110,
+    "pvpId": 40,
+    "turnNum": 5
+  },
+  {
+    "pointOdds": 100,
+    "pvpId": 40,
+    "turnNum": 6
+  },
+  {
     "pointOdds": 120,
     "pvpId": 101,
     "turnNum": 1

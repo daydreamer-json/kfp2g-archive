@@ -3648,6 +3648,10 @@
     "enemyCharaId": 21868
   },
   {
+    "attribute": 5,
+    "enemyCharaId": 21869
+  },
+  {
     "attribute": 1,
     "enemyCharaId": 21870
   },
@@ -3708,6 +3712,10 @@
     "enemyCharaId": 21887
   },
   {
+    "attribute": 3,
+    "enemyCharaId": 21888
+  },
+  {
     "attribute": 4,
     "enemyCharaId": 21890
   },
@@ -3744,6 +3752,10 @@
     "enemyCharaId": 21915
   },
   {
+    "attribute": 6,
+    "enemyCharaId": 21916
+  },
+  {
     "attribute": 3,
     "enemyCharaId": 21920
   },
@@ -3772,6 +3784,10 @@
     "enemyCharaId": 21926
   },
   {
+    "attribute": 4,
+    "enemyCharaId": 21927
+  },
+  {
     "attribute": 2,
     "enemyCharaId": 21930
   },
@@ -3789,6 +3805,10 @@
   },
   {
     "attribute": 1,
+    "enemyCharaId": 21934
+  },
+  {
+    "attribute": 1,
     "enemyCharaId": 21940
   },
   {
@@ -3802,6 +3822,10 @@
   {
     "attribute": 2,
     "enemyCharaId": 21943
+  },
+  {
+    "attribute": 4,
+    "enemyCharaId": 21944
   },
   {
     "attribute": 1,
@@ -3838,5 +3862,9 @@
   {
     "attribute": 6,
     "enemyCharaId": 21970
+  },
+  {
+    "attribute": 2,
+    "enemyCharaId": 21971
   }
 ]

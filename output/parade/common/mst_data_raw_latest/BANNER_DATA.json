@@ -19208,7 +19208,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 11,
+    "priority": 9,
     "startTime": 1772290800000
   },
   {
@@ -19328,7 +19328,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 13,
+    "priority": 11,
     "startTime": 1773896400000
   },
   {
@@ -19340,7 +19340,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 10,
+    "priority": 8,
     "startTime": 1773896400000
   },
   {
@@ -19364,8 +19364,44 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 15,
+    "priority": 12,
     "startTime": 1773896400000
+  },
+  {
+    "bannerName": "wwY1XYxk-aqLQnel",
+    "bannerText": "4/10(金)14:00まで",
+    "endTime": 1775797200000,
+    "id": 1654,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013878jVSzsTun.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startTime": 1774587600000
+  },
+  {
+    "bannerName": "hXY2ZYNXj_izllH",
+    "bannerText": "4/30(木)23:59まで",
+    "endTime": 1777561199000,
+    "id": 1655,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013879img6HeJ6.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 10,
+    "startTime": 1774969200000
+  },
+  {
+    "bannerName": "XZ0ZSfP5RYrmKP",
+    "bannerText": "",
+    "endTime": 1775106000000,
+    "id": 1656,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013880zdGEM4w6.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 13,
+    "startTime": 1774587600000
   },
   {
     "bannerName": "2XXYEJxCF4kDHt",
@@ -22784,7 +22820,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 9,
+    "priority": 7,
     "startTime": 1773291600000
   },
   {
@@ -22796,7 +22832,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 8,
+    "priority": 6,
     "startTime": 1774328400000
   },
   {

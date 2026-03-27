@@ -112,5 +112,11 @@
     "endTime": 1770267600000,
     "staminaRecoveryTime": 150,
     "startTime": 1769662800000
+  },
+  {
+    "campaignId": 20,
+    "endTime": 1775106000000,
+    "staminaRecoveryTime": 150,
+    "startTime": 1774587600000
   }
 ]

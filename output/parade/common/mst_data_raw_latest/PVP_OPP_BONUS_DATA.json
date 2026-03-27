@@ -731,6 +731,26 @@
   },
   {
     "pointOdds": 120,
+    "pvpId": 40,
+    "strength": 1
+  },
+  {
+    "pointOdds": 100,
+    "pvpId": 40,
+    "strength": 2
+  },
+  {
+    "pointOdds": 80,
+    "pvpId": 40,
+    "strength": 3
+  },
+  {
+    "pointOdds": 300,
+    "pvpId": 40,
+    "strength": 4
+  },
+  {
+    "pointOdds": 120,
     "pvpId": 101,
     "strength": 1
   },

@@ -495,5 +495,19 @@
     "seasonEndDatetime": 1774969199000,
     "seasonId": 71,
     "seasonStartDatetime": 1772290800000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1777561199000,
+    "seasonId": 72,
+    "seasonStartDatetime": 1774969200000
+  },
+  {
+    "recoveryItemNum": 20,
+    "recoveryMax": 1,
+    "seasonEndDatetime": 1780239599000,
+    "seasonId": 73,
+    "seasonStartDatetime": 1777561200000
   }
 ]

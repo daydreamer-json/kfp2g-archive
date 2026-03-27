@@ -196,6 +196,11 @@
   },
   {
     "listUpdateType": 1,
+    "pvpId": 40,
+    "selectActiveDays": 1
+  },
+  {
+    "listUpdateType": 1,
     "pvpId": 101,
     "selectActiveDays": 1
   },
