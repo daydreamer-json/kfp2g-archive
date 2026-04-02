@@ -36,13 +36,19 @@ jobs:
         run: bun x oxfmt output
       - name: Git pull
         run: git pull
-      - name: Git commit and push
-        uses: iarekylew00t/verified-bot-commit@v2
-        with:
-          message: "[Auto] API update"
-          files: |
-            output/**
-          if-no-commit: info
+      # - name: Git commit and push
+      #   uses: iarekylew00t/verified-bot-commit@v2
+      #   with:
+      #     message: "[Auto] API update"
+      #     files: |
+      #       output/**
+      #     if-no-commit: info
+      - name: Git staging, commit, push
+        continue-on-error: true
+        run: |
+          git add output
+          git commit -m '[Auto] API update'
+          git push
       - name: Run assetbundle archive script
         run: bun run src/main.ts abArchive
         continue-on-error: false
@@ -50,10 +56,16 @@ jobs:
         run: bun x oxfmt output
       - name: Git pull
         run: git pull
-      - name: Git commit and push
-        uses: iarekylew00t/verified-bot-commit@v2
-        with:
-          message: "[Auto] API update"
-          files: |
-            output/**
-          if-no-commit: info
+      # - name: Git commit and push
+      #   uses: iarekylew00t/verified-bot-commit@v2
+      #   with:
+      #     message: "[Auto] API update"
+      #     files: |
+      #       output/**
+      #     if-no-commit: info
+      - name: Git staging, commit, push
+        continue-on-error: true
+        run: |
+          git add output
+          git commit -m '[Auto] API update'
+          git push
