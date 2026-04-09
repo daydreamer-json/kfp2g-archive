@@ -1362,5 +1362,49 @@
     "startDatetime": 1767848400000,
     "targetHelperFlg": 0,
     "targetId": 729410104
+  },
+  {
+    "bonusDrawId": 81561,
+    "bonusDrawNum": 1,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "photoId": 5003,
+    "photoLimitOverNum": 4,
+    "startDatetime": 1775710800000,
+    "targetHelperFlg": 0,
+    "targetId": 730310101
+  },
+  {
+    "bonusDrawId": 81562,
+    "bonusDrawNum": 1,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "photoId": 5003,
+    "photoLimitOverNum": 4,
+    "startDatetime": 1775710800000,
+    "targetHelperFlg": 0,
+    "targetId": 730310102
+  },
+  {
+    "bonusDrawId": 81563,
+    "bonusDrawNum": 1,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "photoId": 5003,
+    "photoLimitOverNum": 4,
+    "startDatetime": 1775710800000,
+    "targetHelperFlg": 0,
+    "targetId": 730310103
+  },
+  {
+    "bonusDrawId": 81564,
+    "bonusDrawNum": 1,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "photoId": 5003,
+    "photoLimitOverNum": 4,
+    "startDatetime": 1775710800000,
+    "targetHelperFlg": 0,
+    "targetId": 730310104
   }
 ]

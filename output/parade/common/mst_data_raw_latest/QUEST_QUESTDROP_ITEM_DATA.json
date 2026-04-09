@@ -1708,6 +1708,34 @@
     "targetId": 729410104
   },
   {
+    "bonusDrawId": 75010,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "startDatetime": 1775710800000,
+    "targetId": 730310101
+  },
+  {
+    "bonusDrawId": 75020,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "startDatetime": 1775710800000,
+    "targetId": 730310102
+  },
+  {
+    "bonusDrawId": 75030,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "startDatetime": 1775710800000,
+    "targetId": 730310103
+  },
+  {
+    "bonusDrawId": 75050,
+    "category": 4,
+    "endDatetime": 1776265199000,
+    "startDatetime": 1775710800000,
+    "targetId": 730310104
+  },
+  {
     "bonusDrawId": 79995,
     "category": 1,
     "endDatetime": 1903842000000,

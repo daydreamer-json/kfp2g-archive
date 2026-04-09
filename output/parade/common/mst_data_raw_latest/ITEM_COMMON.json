@@ -23653,6 +23653,18 @@
   },
   {
     "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_30106",
+    "id": 30270,
+    "name": "体力測定記録",
+    "noSaleFlg": 1,
+    "rarity": 1,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_30142",
     "id": 30301,
     "name": "ブラックひしもち",
@@ -28632,6 +28644,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_30321",
+    "id": 30932,
+    "name": "スタースタンプ",
+    "noSaleFlg": 1,
+    "rarity": 1,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "疲れたときにはこちらをどうぞ\nグッと飲み干して、もうひと頑張りです！",
     "iconName": "icon_item_31001",
     "id": 31001,
@@ -29590,6 +29614,18 @@
     "stackMax": 9999999,
     "tabCategory": 0,
     "unitName": "個"
+  },
+  {
+    "flavorText": "パッションな気持ちがあふれたチケット\n特定クエストで使用します",
+    "iconName": "icon_item_30109",
+    "id": 33172,
+    "name": "ルビーチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
   },
   {
     "flavorText": "特定のクエストをスキップできます",
@@ -48360,6 +48396,30 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100012",
+    "id": 101558,
+    "name": "4月体力測定SPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100040",
+    "id": 101559,
+    "name": "隊長さん応援すぺしゃるショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100273",
     "id": 101560,
@@ -48388,6 +48448,78 @@
     "iconName": "icon_item_100030",
     "id": 101562,
     "name": "キツネいっぱい！ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100011",
+    "id": 101563,
+    "name": "アフリカフレンズすぺしゃるショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100024",
+    "id": 101566,
+    "name": "春応援！ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100388",
+    "id": 101567,
+    "name": "4月体力測定応援ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100042",
+    "id": 101568,
+    "name": "ヘビフレンズ復刻SPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100021",
+    "id": 101571,
+    "name": "トリフレンズショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100020",
+    "id": 101572,
+    "name": "新生活応援ショップしょうたい券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,

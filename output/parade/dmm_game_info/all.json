@@ -5243,9 +5243,7 @@
         "file_check_type": "FILELIST",
         "total_size": 384834983,
         "latest_version": "2.38.0.0",
-        "conversion_url": [
-          "https://site-gameplayer.dmm.com/cvlpcb/chLrfHR2t0COkeN7"
-        ]
+        "conversion_url": ["https://site-gameplayer.dmm.com/cvlpcb/chLrfHR2t0COkeN7"]
       },
       "fileList": {
         "domain": "https://cdn-gameplayer.games.dmm.com",

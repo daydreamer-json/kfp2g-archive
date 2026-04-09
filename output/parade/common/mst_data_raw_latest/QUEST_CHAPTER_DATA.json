@@ -5066,5 +5066,33 @@
     "retireReturnStaminaratio": 100,
     "topCharaComment": "",
     "weatherType": 0
+  },
+  {
+    "category": 5,
+    "chapterId": 7301,
+    "chapterName": "",
+    "chapterTitle": "体力測定　シュバシコウ編",
+    "endType": 0,
+    "hardChapterId": 0,
+    "loseReturnStaminaratio": 100,
+    "mapPath": "MainStory_01",
+    "markerType": 0,
+    "retireReturnStaminaratio": 100,
+    "topCharaComment": "",
+    "weatherType": 0
+  },
+  {
+    "category": 5,
+    "chapterId": 7303,
+    "chapterName": "",
+    "chapterTitle": "野生大解放チャレンジ",
+    "endType": 0,
+    "hardChapterId": 0,
+    "loseReturnStaminaratio": 100,
+    "mapPath": "MainStory_01",
+    "markerType": 0,
+    "retireReturnStaminaratio": 100,
+    "topCharaComment": "",
+    "weatherType": 0
   }
 ]

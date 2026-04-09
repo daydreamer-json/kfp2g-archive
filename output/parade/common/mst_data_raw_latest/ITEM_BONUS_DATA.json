@@ -8926,5 +8926,53 @@
     "id": 1121,
     "increaseItemId": 33169,
     "startDatetime": 1774328400000
+  },
+  {
+    "bonusPhotoId": 6304,
+    "bonusRatio": 3000,
+    "endDatetime": 1776315600000,
+    "id": 1122,
+    "increaseItemId": 30270,
+    "startDatetime": 1775106000000
+  },
+  {
+    "bonusPhotoId": 6308,
+    "bonusRatio": 3000,
+    "endDatetime": 1776315600000,
+    "id": 1123,
+    "increaseItemId": 30270,
+    "startDatetime": 1775106000000
+  },
+  {
+    "bonusPhotoId": 6153,
+    "bonusRatio": 3000,
+    "endDatetime": 1776315600000,
+    "id": 1124,
+    "increaseItemId": 30270,
+    "startDatetime": 1775106000000
+  },
+  {
+    "bonusPhotoId": 4505,
+    "bonusRatio": 1000,
+    "endDatetime": 1776315600000,
+    "id": 1125,
+    "increaseItemId": 30270,
+    "startDatetime": 1775106000000
+  },
+  {
+    "bonusPhotoId": 5257,
+    "bonusRatio": 3000,
+    "endDatetime": 1776315600000,
+    "id": 1126,
+    "increaseItemId": 30270,
+    "startDatetime": 1775106000000
+  },
+  {
+    "bonusPhotoId": 5003,
+    "bonusRatio": 3000,
+    "endDatetime": 1776265199000,
+    "id": 1127,
+    "increaseItemId": 30932,
+    "startDatetime": 1775710800000
   }
 ]
