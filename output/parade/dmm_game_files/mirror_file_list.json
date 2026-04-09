@@ -1,10 +1,1 @@
-[
-  {
-    "version": "2.37.1.0",
-    "mirror": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg/v2.37.1.0.tar.zst"
-  },
-  {
-    "version": "2.38.0.0",
-    "mirror": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg/v2.38.0.0.tar.zst"
-  }
-]
+[{"version":"2.37.1.0","mirror":"https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg/v2.37.1.0.tar.zst"},{"version":"2.38.0.0","mirror":"https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg/v2.38.0.0.tar.zst"},{"version":"2.39.0.0","mirror":"https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg/v2.39.0.0.tar.zst"}]
