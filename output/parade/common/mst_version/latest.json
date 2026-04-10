@@ -459,7 +459,7 @@
       },
       {
         "type": "MISSION_DATA",
-        "version": "a5e4024c295310522ea3c63b3e44f9d0"
+        "version": "f8f23c1a843d646da47ee8c8bd01bdd5"
       },
       {
         "type": "CHARA_PROMOTE_PRESET_DATA",
@@ -471,7 +471,7 @@
       },
       {
         "type": "QUEST_QUESTONE_DATA",
-        "version": "435f2bb5619a393794b4772a49d30f05"
+        "version": "a7c9bd68e0f99a6161d703d2b7564a42"
       },
       {
         "type": "FRIEND_POINT_DATA",
@@ -643,8 +643,8 @@
       }
     ],
     "res_code": 0,
-    "server_time": 1775787927784,
+    "server_time": 1775790039628,
     "target_server_type": null,
-    "transaction_id": "FE-001-00CB00"
+    "transaction_id": "D0-001-00DE5D"
   }
 }
