@@ -558,5 +558,47 @@
     "randomId": 2,
     "scenarioFileName": "",
     "startTime": 1767538800000
+  },
+  {
+    "endTime": 1776783599000,
+    "id": 41,
+    "memoryCharaId01": 566,
+    "memoryCharaId02": 0,
+    "memoryGroupName": "超絶美少女　おとど襲来の巻",
+    "memoryText01": "実は水族館でよく会った女の子と",
+    "memoryText02": "トドさんがちょっとにてるんだ",
+    "memoryTitleName": "1話 トドに似た女の子？",
+    "orderId": 1,
+    "randomId": 0,
+    "scenarioFileName": "Login/Scenario_L_7304_01_1_x",
+    "startTime": 1776697200000
+  },
+  {
+    "endTime": 1776869999000,
+    "id": 42,
+    "memoryCharaId01": 1056,
+    "memoryCharaId02": 0,
+    "memoryGroupName": "超絶美少女　おとど襲来の巻",
+    "memoryText01": "わたくし、おとどちゃんともうします",
+    "memoryText02": "ハマスイこと桂浜水族館からまいりました",
+    "memoryTitleName": "2話 ぷるぷる、わるいおとどじゃないよ",
+    "orderId": 2,
+    "randomId": 0,
+    "scenarioFileName": "Login/Scenario_L_7304_01_2_x",
+    "startTime": 1776783600000
+  },
+  {
+    "endTime": 1776956399000,
+    "id": 43,
+    "memoryCharaId01": 568,
+    "memoryCharaId02": 0,
+    "memoryGroupName": "超絶美少女　おとど襲来の巻",
+    "memoryText01": "おニューの姿で",
+    "memoryText02": "ハマスイのアピール再開ちや！",
+    "memoryTitleName": "3話 おニューの姿に大変身！",
+    "orderId": 3,
+    "randomId": 0,
+    "scenarioFileName": "Login/Scenario_L_7304_01_3_x",
+    "startTime": 1776870000000
   }
 ]

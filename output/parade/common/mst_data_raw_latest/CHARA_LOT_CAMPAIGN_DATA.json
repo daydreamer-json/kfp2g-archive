@@ -702,5 +702,16 @@
     "startDatetime": 1773291600000,
     "successAcqRate": 100,
     "successProbability": 0
+  },
+  {
+    "bigSuccessAcqRate": 150,
+    "bigSuccessProbability": 60,
+    "campaignId": 65,
+    "endDatetime": 1778130000000,
+    "greatSuccessAcqRate": 200,
+    "greatSuccessProbability": 10,
+    "startDatetime": 1776315600000,
+    "successAcqRate": 100,
+    "successProbability": 30
   }
 ]

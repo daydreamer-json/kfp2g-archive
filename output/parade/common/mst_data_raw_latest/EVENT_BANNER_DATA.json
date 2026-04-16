@@ -3402,6 +3402,34 @@
     "startTime": 1773896400000
   },
   {
+    "bannerName": "20XZNd5M0Z4A7L",
+    "bannerText": "5/7(木)14:00まで",
+    "endQuestId": 0,
+    "endTime": 1778130000000,
+    "id": 248,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013965zs9BjJYz.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startQuestId": 0,
+    "startTime": 1776315600000
+  },
+  {
+    "bannerName": "XY0XV65crdoQlG",
+    "bannerText": "",
+    "endQuestId": 0,
+    "endTime": 1778165999000,
+    "id": 249,
+    "linkAdress": "https://www.kemono-friends-3.jp/game/campaign/CampaignTop.do?data=b3c95cc049c412c40563e6d724c4013a45cf0b516ce940de7661ffb31569eb085bde4a17b28023026927",
+    "linkType": 3,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startQuestId": 0,
+    "startTime": 1776315600000
+  },
+  {
     "bannerName": "2XXfI0UgCoHpQd",
     "bannerText": "",
     "endQuestId": 0,

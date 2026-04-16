@@ -30193,5 +30193,170 @@
     "promotePresetId": 565,
     "promoteStep": 4,
     "promoteStepDatetime": 1917860400000
+  },
+  {
+    "promoteId00": 156601,
+    "promoteId01": 156602,
+    "promoteId02": 156603,
+    "promoteId03": 156604,
+    "promoteId04": 156605,
+    "promoteId05": 156606,
+    "promotePresetId": 566,
+    "promoteStep": 0,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156611,
+    "promoteId01": 156612,
+    "promoteId02": 156613,
+    "promoteId03": 156614,
+    "promoteId04": 156615,
+    "promoteId05": 156616,
+    "promotePresetId": 566,
+    "promoteStep": 1,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156621,
+    "promoteId01": 156622,
+    "promoteId02": 156623,
+    "promoteId03": 156624,
+    "promoteId04": 156625,
+    "promoteId05": 156626,
+    "promotePresetId": 566,
+    "promoteStep": 2,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156631,
+    "promoteId01": 156632,
+    "promoteId02": 156633,
+    "promoteId03": 156634,
+    "promoteId04": 156635,
+    "promoteId05": 156636,
+    "promotePresetId": 566,
+    "promoteStep": 3,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156641,
+    "promoteId01": 156642,
+    "promoteId02": 156643,
+    "promoteId03": 156644,
+    "promoteId04": 156645,
+    "promoteId05": 156646,
+    "promotePresetId": 566,
+    "promoteStep": 4,
+    "promoteStepDatetime": 1917860400000
+  },
+  {
+    "promoteId00": 156701,
+    "promoteId01": 156702,
+    "promoteId02": 156703,
+    "promoteId03": 156704,
+    "promoteId04": 156705,
+    "promoteId05": 156706,
+    "promotePresetId": 567,
+    "promoteStep": 0,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156711,
+    "promoteId01": 156712,
+    "promoteId02": 156713,
+    "promoteId03": 156714,
+    "promoteId04": 156715,
+    "promoteId05": 156716,
+    "promotePresetId": 567,
+    "promoteStep": 1,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156721,
+    "promoteId01": 156722,
+    "promoteId02": 156723,
+    "promoteId03": 156724,
+    "promoteId04": 156725,
+    "promoteId05": 156726,
+    "promotePresetId": 567,
+    "promoteStep": 2,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156731,
+    "promoteId01": 156732,
+    "promoteId02": 156733,
+    "promoteId03": 156734,
+    "promoteId04": 156735,
+    "promoteId05": 156736,
+    "promotePresetId": 567,
+    "promoteStep": 3,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156741,
+    "promoteId01": 156742,
+    "promoteId02": 156743,
+    "promoteId03": 156744,
+    "promoteId04": 156745,
+    "promoteId05": 156746,
+    "promotePresetId": 567,
+    "promoteStep": 4,
+    "promoteStepDatetime": 1917860400000
+  },
+  {
+    "promoteId00": 156801,
+    "promoteId01": 156802,
+    "promoteId02": 156803,
+    "promoteId03": 156804,
+    "promoteId04": 156805,
+    "promoteId05": 156806,
+    "promotePresetId": 568,
+    "promoteStep": 0,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156811,
+    "promoteId01": 156812,
+    "promoteId02": 156813,
+    "promoteId03": 156814,
+    "promoteId04": 156815,
+    "promoteId05": 156816,
+    "promotePresetId": 568,
+    "promoteStep": 1,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156821,
+    "promoteId01": 156822,
+    "promoteId02": 156823,
+    "promoteId03": 156824,
+    "promoteId04": 156825,
+    "promoteId05": 156826,
+    "promotePresetId": 568,
+    "promoteStep": 2,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156831,
+    "promoteId01": 156832,
+    "promoteId02": 156833,
+    "promoteId03": 156834,
+    "promoteId04": 156835,
+    "promoteId05": 156836,
+    "promotePresetId": 568,
+    "promoteStep": 3,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 156841,
+    "promoteId01": 156842,
+    "promoteId02": 156843,
+    "promoteId03": 156844,
+    "promoteId04": 156845,
+    "promoteId05": 156846,
+    "promotePresetId": 568,
+    "promoteStep": 4,
+    "promoteStepDatetime": 1917860400000
   }
 ]

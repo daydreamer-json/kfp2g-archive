@@ -32878,5 +32878,125 @@
     "kizunaLevel": 10,
     "rewardItemId": 710565,
     "rewardItemNum": 1
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 1,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 2,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 3,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 4,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 5,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 6,
+    "rewardItemId": 652566,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 7,
+    "rewardItemId": 656566,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 8,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 9,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 566,
+    "kizunaLevel": 10,
+    "rewardItemId": 710566,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 1,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 2,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 3,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 4,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 5,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 6,
+    "rewardItemId": 652567,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 7,
+    "rewardItemId": 656567,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 8,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 9,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 567,
+    "kizunaLevel": 10,
+    "rewardItemId": 710567,
+    "rewardItemNum": 1
   }
 ]

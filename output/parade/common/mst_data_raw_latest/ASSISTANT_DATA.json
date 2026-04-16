@@ -796,5 +796,17 @@
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1773896400000
+  },
+  {
+    "charaId": 566,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1776315600000
+  },
+  {
+    "charaId": 567,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1776488400000
   }
 ]

@@ -19340,7 +19340,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 8,
+    "priority": 6,
     "startTime": 1773896400000
   },
   {
@@ -19388,7 +19388,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 9,
+    "priority": 7,
     "startTime": 1774969200000
   },
   {
@@ -19460,7 +19460,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 1,
+    "priority": 4,
     "startTime": 1775883600000
   },
   {
@@ -19472,8 +19472,44 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 10,
+    "priority": 8,
     "startTime": 1775710800000
+  },
+  {
+    "bannerName": "wwYwYYJJ_4IwuxE8",
+    "bannerText": "5/7(木)14:00まで",
+    "endTime": 1778130000000,
+    "id": 1663,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013962BzDUBxL8.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 3,
+    "startTime": 1776315600000
+  },
+  {
+    "bannerName": "wwYwZYGOPEYc2sS3",
+    "bannerText": "5/7(木)14:00まで",
+    "endTime": 1778130000000,
+    "id": 1664,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013963duTJLdbJ.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 2,
+    "startTime": 1776488400000
+  },
+  {
+    "bannerName": "wwYwgYhvHs7noLrx",
+    "bannerText": "4/28(火)14:00まで",
+    "endTime": 1777352400000,
+    "id": 1665,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013964dWGyr3iK.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startTime": 1776747600000
   },
   {
     "bannerName": "2XXYEJxCF4kDHt",
@@ -22918,6 +22954,18 @@
     "platform": 0,
     "priority": 7,
     "startTime": 1775106000000
+  },
+  {
+    "bannerName": "20XZNd5M0Z4A7L",
+    "bannerText": "5/7(木)14:00まで",
+    "endTime": 1778130000000,
+    "id": 7302,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013965zs9BjJYz.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 5,
+    "startTime": 1776315600000
   },
   {
     "bannerName": "2ZZfuNdu4KHruz",

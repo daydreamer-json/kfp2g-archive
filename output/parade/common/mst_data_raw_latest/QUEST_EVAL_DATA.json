@@ -8272,5 +8272,33 @@
     "evalValue02": 0,
     "evalValue03": 0,
     "evalValue04": 0
+  },
+  {
+    "evalId": 3566,
+    "evalKey00": 7,
+    "evalKey01": 0,
+    "evalKey02": 0,
+    "evalKey03": 0,
+    "evalKey04": 0,
+    "evalName": "アカウミガメを編成してクリア",
+    "evalValue00": 566,
+    "evalValue01": 0,
+    "evalValue02": 0,
+    "evalValue03": 0,
+    "evalValue04": 0
+  },
+  {
+    "evalId": 3567,
+    "evalKey00": 7,
+    "evalKey01": 0,
+    "evalKey02": 0,
+    "evalKey03": 0,
+    "evalKey04": 0,
+    "evalName": "アオウミガメを編成してクリア",
+    "evalValue00": 567,
+    "evalValue01": 0,
+    "evalValue02": 0,
+    "evalValue03": 0,
+    "evalValue04": 0
   }
 ]
