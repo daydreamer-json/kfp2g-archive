@@ -8,16 +8,16 @@
     "asset_bundle_version": "1.0.0",
     "base_data_url": "https://parade-mobile-prod-app.kemono-friends-3.jp/paradesv/",
     "botcmd": null,
-    "client_wait": 0,
+    "client_wait": 1,
     "error_code": null,
     "is_need_version_up": 0,
     "maintenance": null,
     "notice_url": "",
     "res_code": 0,
     "server_id": "prod",
-    "server_time": 1776315640068,
+    "server_time": 1776672330636,
     "target_server_type": null,
-    "transaction_id": "5F-003-0007EE",
+    "transaction_id": "54-035-268062",
     "webview_url": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/Information/"
   }
 }

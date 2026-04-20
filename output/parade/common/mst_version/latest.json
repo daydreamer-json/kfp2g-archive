@@ -2,7 +2,7 @@
   "req": {},
   "rsp": {
     "botcmd": null,
-    "client_wait": 0,
+    "client_wait": 1,
     "error_code": null,
     "mst_ver": [
       {
@@ -643,8 +643,8 @@
       }
     ],
     "res_code": 0,
-    "server_time": 1776315640662,
+    "server_time": 1776672331253,
     "target_server_type": null,
-    "transaction_id": "F3-002-0007FD"
+    "transaction_id": "B9-001-009037"
   }
 }
