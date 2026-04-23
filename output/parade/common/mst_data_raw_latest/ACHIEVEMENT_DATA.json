@@ -7992,6 +7992,24 @@
     "startTime": 1776488400000
   },
   {
+    "achievementBg": "achievement_bg_06",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0568",
+    "achievementName": "おとどちゃん",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "おとどちゃん入隊の称号です",
+    "hideFlag": 1,
+    "iconName": "icon_item_700001",
+    "id": 700568,
+    "infoGettext": "おとどちゃんを\nしょうたいすると入手可能",
+    "name": "おとどちゃん入隊！",
+    "rarity": 1,
+    "sortId": 1135,
+    "stackMax": 1,
+    "startTime": 1776920400000
+  },
+  {
     "achievementBg": "achievement_bg_kizuna_03",
     "achievementFrame": "",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0001",
@@ -15984,6 +16002,24 @@
     "startTime": 1776488400000
   },
   {
+    "achievementBg": "achievement_bg_kizuna_06",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0568",
+    "achievementName": "今後ともハマスイをよろしゅう♡",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "おとどちゃんのなかよし称号です",
+    "hideFlag": 1,
+    "iconName": "icon_item_700001",
+    "id": 710568,
+    "infoGettext": "おとどちゃんの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "今後ともハマスイをよろしゅう♡",
+    "rarity": 1,
+    "sortId": 1136,
+    "stackMax": 1,
+    "startTime": 1776920400000
+  },
+  {
     "achievementBg": "achievement_bg_event_06",
     "achievementFrame": "",
     "achievementIcon": "",
@@ -16612,6 +16648,24 @@
     "sortId": 50016,
     "stackMax": 1,
     "startTime": 1776315600000
+  },
+  {
+    "achievementBg": "achievement_bg_event_34",
+    "achievementFrame": "",
+    "achievementIcon": "",
+    "achievementName": "アヴァンギャルドなおとどたち",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "シナリオイベント「体力測定　桂浜水族館編」の特別なクエストのクリアを記念した称号です",
+    "hideFlag": 1,
+    "iconName": "icon_item_700001",
+    "id": 750017,
+    "infoGettext": "シナリオイベント「体力測定　桂浜水族館編」の\nクエスト「エクストラ　その6 ～増えるおとど～」をクリア",
+    "name": "アヴァンギャルドなおとどたち",
+    "rarity": 1,
+    "sortId": 50017,
+    "stackMax": 1,
+    "startTime": 1776920400000
   },
   {
     "achievementBg": "achievement_bg_07",

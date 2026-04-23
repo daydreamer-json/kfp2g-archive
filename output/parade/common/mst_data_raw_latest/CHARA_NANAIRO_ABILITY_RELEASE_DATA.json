@@ -12382,5 +12382,29 @@
       3,
       3
     ]
+  },
+  {
+    "charaId": 568,
+    "itemId00": 13120,
+    "itemId01": 14078,
+    "itemId02": 14079,
+    "itemId03": 14080,
+    "itemNum00": 10,
+    "itemNum01": 3,
+    "itemNum02": 3,
+    "itemNum03": 3,
+    "startTime": 4102412400000,
+    "useItemIds": [
+      13120,
+      14078,
+      14079,
+      14080
+    ],
+    "useItemNums": [
+      10,
+      3,
+      3,
+      3
+    ]
   }
 ]

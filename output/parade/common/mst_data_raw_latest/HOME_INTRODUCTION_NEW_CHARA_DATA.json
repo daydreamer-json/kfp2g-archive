@@ -582,5 +582,13 @@
     "endTime": 1778130000000,
     "introductionId": 73,
     "startTime": 1776488400000
+  },
+  {
+    "bannerId": 1666,
+    "charaId": 568,
+    "characterFlag": 0,
+    "endTime": 1778130000000,
+    "introductionId": 74,
+    "startTime": 1776920400000
   }
 ]

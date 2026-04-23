@@ -7176,6 +7176,19 @@
     "itemNum04": 0
   },
   {
+    "compItemId": 3568,
+    "itemId00": 10568,
+    "itemId01": 0,
+    "itemId02": 0,
+    "itemId03": 0,
+    "itemId04": 0,
+    "itemNum00": 3,
+    "itemNum01": 0,
+    "itemNum02": 0,
+    "itemNum03": 0,
+    "itemNum04": 0
+  },
+  {
     "compItemId": 4349,
     "itemId00": 6024,
     "itemId01": 0,
@@ -8249,6 +8262,19 @@
     "itemId03": 0,
     "itemId04": 0,
     "itemNum00": 150000,
+    "itemNum01": 0,
+    "itemNum02": 0,
+    "itemNum03": 0,
+    "itemNum04": 0
+  },
+  {
+    "compItemId": 9132,
+    "itemId00": 750017,
+    "itemId01": 0,
+    "itemId02": 0,
+    "itemId03": 0,
+    "itemId04": 0,
+    "itemNum00": 1,
     "itemNum01": 0,
     "itemNum02": 0,
     "itemNum03": 0,

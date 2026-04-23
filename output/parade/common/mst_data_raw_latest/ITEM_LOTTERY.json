@@ -998,5 +998,13 @@
     "name": "4月ぬいぐるみ便のおまけ",
     "rarity": 1,
     "stackMax": 1
+  },
+  {
+    "flavorText": "おまけのRインテリアが獲得できます",
+    "iconName": "icon_item_200001",
+    "id": 310085,
+    "name": "5月ぬいぐるみ便のおまけ",
+    "rarity": 1,
+    "stackMax": 1
   }
 ]

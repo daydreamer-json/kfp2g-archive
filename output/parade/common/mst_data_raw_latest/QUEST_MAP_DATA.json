@@ -9954,6 +9954,27 @@
     "weatherType": 0
   },
   {
+    "chapterId": 3,
+    "dispItemIconId00": 0,
+    "dispItemIconId01": 0,
+    "dispItemIconId02": 0,
+    "dispItemIconId03": 0,
+    "dispItemIconId04": 0,
+    "dispItemIconId05": 0,
+    "freeword": "",
+    "mapId": 3568,
+    "mapName": "おとどちゃん",
+    "mapObjName": "",
+    "mapPosX": 0,
+    "mapPosY": 0,
+    "questMapCategory": 0,
+    "questRelWeek": 0,
+    "raidTargetCharaId": 0,
+    "startDatetime": 1776920400000,
+    "startHideFlag": 0,
+    "weatherType": 0
+  },
+  {
     "chapterId": 8,
     "dispItemIconId00": 0,
     "dispItemIconId01": 0,

@@ -19340,7 +19340,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 6,
+    "priority": 9,
     "startTime": 1773896400000
   },
   {
@@ -19388,7 +19388,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 7,
+    "priority": 10,
     "startTime": 1774969200000
   },
   {
@@ -19472,7 +19472,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 8,
+    "priority": 14,
     "startTime": 1775710800000
   },
   {
@@ -19484,7 +19484,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 3,
+    "priority": 6,
     "startTime": 1776315600000
   },
   {
@@ -19496,7 +19496,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 2,
+    "priority": 5,
     "startTime": 1776488400000
   },
   {
@@ -19508,8 +19508,92 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 1,
+    "priority": 4,
     "startTime": 1776747600000
+  },
+  {
+    "bannerName": "wwYwhYaAlH0DB8jD",
+    "bannerText": "5/7(木)14:00まで",
+    "endTime": 1778130000000,
+    "id": 1666,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013988JcB3beuJ.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 3,
+    "startTime": 1776920400000
+  },
+  {
+    "bannerName": "wwXZhYgb_B_C5tDw",
+    "bannerText": "5/2(土)23:59まで",
+    "endTime": 1777733999000,
+    "id": 1667,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013989r3HQ2L4X.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 2,
+    "startTime": 1777042800000
+  },
+  {
+    "bannerName": "wwYw2YRiJthJVfJQ",
+    "bannerText": "5/6(水)23:59まで",
+    "endTime": 1778079599000,
+    "id": 1668,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/0139907HTN3YrM.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startTime": 1777388400000
+  },
+  {
+    "bannerName": "X0gfT3SJsy7GFA",
+    "bannerText": "5/7(木)23:59まで",
+    "endTime": 1778165999000,
+    "id": 1669,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013992R2FnEQiN.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 13,
+    "startTime": 1776920400000
+  },
+  {
+    "bannerName": "1XXXZ2aPG22JaSU",
+    "bannerText": "5/31(日)23:59まで",
+    "endTime": 1780239599000,
+    "id": 1670,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013994XLXyFYgg.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 11,
+    "startTime": 1777561200000
+  },
+  {
+    "bannerName": "hXY20aj4_W4V9yh",
+    "bannerText": "5/31(日)23:59まで",
+    "endTime": 1780239599000,
+    "id": 1671,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/013993VDYr4A5f.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 12,
+    "startTime": 1777561200000
+  },
+  {
+    "bannerName": "XYYg4ZijAAm0jio4",
+    "bannerText": "5/14(木)14:00まで",
+    "endTime": 1778734800000,
+    "id": 1672,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/0139956CB58sET.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 8,
+    "startTime": 1776920400000
   },
   {
     "bannerName": "2XXYEJxCF4kDHt",
@@ -22964,7 +23048,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 5,
+    "priority": 7,
     "startTime": 1776315600000
   },
   {

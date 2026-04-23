@@ -9008,6 +9008,14 @@
     "startDatetime": 1776315600000
   },
   {
+    "bonusPhotoId": 6568,
+    "bonusRatio": 1500,
+    "endDatetime": 1778130000000,
+    "id": 1132,
+    "increaseItemId": 33170,
+    "startDatetime": 1776920400000
+  },
+  {
     "bonusPhotoId": 4617,
     "bonusRatio": 500,
     "endDatetime": 1778130000000,
@@ -9038,5 +9046,13 @@
     "id": 1136,
     "increaseItemId": 33171,
     "startDatetime": 1776488400000
+  },
+  {
+    "bonusPhotoId": 6568,
+    "bonusRatio": 1500,
+    "endDatetime": 1778130000000,
+    "id": 1137,
+    "increaseItemId": 33171,
+    "startDatetime": 1776920400000
   }
 ]

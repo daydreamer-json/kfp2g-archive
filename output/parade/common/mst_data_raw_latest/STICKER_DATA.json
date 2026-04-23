@@ -41,6 +41,19 @@
   {
     "bgTextureName": "card_sticker_bg_0000",
     "bonusWeight": 1,
+    "flavorText": "アルパカ・スリのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800081",
+    "id": 800081,
+    "name": "アルパカ・スリのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
     "flavorText": "ライオンのシールです",
     "hideFlag": 0,
     "iconName": "icon_Sticker_800091",
@@ -49,6 +62,32 @@
     "rarity": 4,
     "stackMax": 9999,
     "startTime": 1773896400000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "アフリカオオコノハズクのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800111",
+    "id": 800111,
+    "name": "アフリカオオコノハズクのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "ワシミミズクのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800121",
+    "id": 800121,
+    "name": "ワシミミズクのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
     "stickerType": 1
   },
   {
@@ -140,6 +179,19 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1776488400000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "おとどちゃんのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810004",
+    "id": 810004,
+    "name": "おとどちゃんのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1776920400000,
     "stickerType": 0
   },
   {
@@ -439,6 +491,97 @@
     "rarity": 3,
     "stackMax": 9999,
     "startTime": 1773896400000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "少しキラキラしてる石のシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820023",
+    "id": 820023,
+    "name": "少しキラキラしてる石のシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "なんかすごそうな石のシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820024",
+    "id": 820024,
+    "name": "なんかすごそうな石のシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "きれいな笹の葉のシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820025",
+    "id": 820025,
+    "name": "きれいな笹の葉のシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "カラフルな短冊のシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820026",
+    "id": 820026,
+    "name": "カラフルな短冊のシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "納涼うちわのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820027",
+    "id": 820027,
+    "name": "納涼うちわのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "特訓スタンプのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820028",
+    "id": 820028,
+    "name": "特訓スタンプのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "金のチケットのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820029",
+    "id": 820029,
+    "name": "金のチケットのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1777561200000,
     "stickerType": 0
   }
 ]

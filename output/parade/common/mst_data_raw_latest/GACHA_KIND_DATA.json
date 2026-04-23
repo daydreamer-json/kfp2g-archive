@@ -420,7 +420,17 @@
     "ratio": 0
   },
   {
+    "gachaId": 50173,
+    "kindId": 9,
+    "ratio": 0
+  },
+  {
     "gachaId": 60001,
+    "kindId": 12,
+    "ratio": 0
+  },
+  {
+    "gachaId": 60002,
     "kindId": 12,
     "ratio": 0
   },
@@ -53656,6 +53666,136 @@
   },
   {
     "gachaId": 991942,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991951,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991951,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991952,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991952,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991953,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991953,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991954,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991954,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991955,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991955,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991956,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991956,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991961,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991961,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991971,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991972,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991973,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991974,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991975,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991976,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991977,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 991978,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992021,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992021,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992022,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992022,
     "kindId": 3,
     "ratio": 0
   }

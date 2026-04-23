@@ -48672,6 +48672,18 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101570",
+    "id": 101570,
+    "name": "おとどちゃんSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100021",
     "id": 101571,
@@ -48696,10 +48708,70 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100036",
+    "id": 101573,
+    "name": "すごい!!すぺしゃる10回しょうたい券24",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100055",
     "id": 101575,
     "name": "海のフレンズショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100030",
+    "id": 101581,
+    "name": "GW直前ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_30177",
+    "id": 101582,
+    "name": "GWフレンズショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100027",
+    "id": 101583,
+    "name": "ペンギンフレンズすぺしゃるショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100236",
+    "id": 101585,
+    "name": "5月フォト交換券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
