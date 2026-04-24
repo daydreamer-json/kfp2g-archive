@@ -35,7 +35,7 @@
       },
       {
         "type": "MAINTENANCE_DATA",
-        "version": "38ed612fcb3be50730d61ef9fee869bc"
+        "version": "890047fda2efb2f07a4a01742e558362"
       },
       {
         "type": "CHARA_KIZUNA_LEVEL_DATA",
@@ -255,7 +255,7 @@
       },
       {
         "type": "PURCHASE_PRODUCT",
-        "version": "9b8d2afa10e0824474405c7cecbb723e"
+        "version": "64e30fe287c9ed29b7b424bb369c53fa"
       },
       {
         "type": "QUEST_CAMPAIGN_KIZUNAMAP",
@@ -643,8 +643,8 @@
       }
     ],
     "res_code": 0,
-    "server_time": 1776920439308,
+    "server_time": 1776997837131,
     "target_server_type": null,
-    "transaction_id": "38-001-000570"
+    "transaction_id": "85-001-00AF6D"
   }
 }
