@@ -5,7 +5,7 @@
     "output/raw/**/ab_list.txt",
     "output/raw/**/ab_guid.txt",
     "output/raw/**/filesize.csv",
-    "output/parade/common/mst_data/all.json",
+    "output/parade/common/mst_data/all*.json",
     "output/parade/common/mst_data/latest.json",
     "output/parade/common/mst_data_raw_latest/*.json"
   ],
