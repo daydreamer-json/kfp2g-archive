@@ -936,6 +936,24 @@
     "startTime": 1514732400000
   },
   {
+    "achievementBg": "achievement_bg_05",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0055",
+    "achievementName": "ニホンツキノワグマ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ニホンツキノワグマ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700055,
+    "infoGettext": "ニホンツキノワグマを\nしょうたいすると入手可能",
+    "name": "ニホンツキノワグマ入隊！",
+    "rarity": 1,
+    "sortId": 109,
+    "stackMax": 1,
+    "startTime": 1777611600000
+  },
+  {
     "achievementBg": "achievement_bg_02",
     "achievementFrame": "achievement_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0056",
@@ -8010,6 +8028,24 @@
     "startTime": 1776920400000
   },
   {
+    "achievementBg": "achievement_bg_v2_friendly",
+    "achievementFrame": "achievement_v2_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0576",
+    "achievementName": "サラブレッドしろげ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【華麗に舞いま～す！】サラブレッドしろげ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700576,
+    "infoGettext": "【華麗に舞いま～す！】サラブレッドしろげを\nしょうたいすると入手可能",
+    "name": "【華麗に舞いま～す！】サラブレッドしろげ入隊！",
+    "rarity": 1,
+    "sortId": 1151,
+    "stackMax": 1,
+    "startTime": 1778130000000
+  },
+  {
     "achievementBg": "achievement_bg_kizuna_03",
     "achievementFrame": "",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0001",
@@ -8944,6 +8980,24 @@
     "sortId": 108,
     "stackMax": 1,
     "startTime": 1514732400000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_04",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0055",
+    "achievementName": "こたつで夜を越してみたい",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ニホンツキノワグマのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710055,
+    "infoGettext": "ニホンツキノワグマの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "こたつで夜を越してみたい",
+    "rarity": 1,
+    "sortId": 110,
+    "stackMax": 1,
+    "startTime": 1777611600000
   },
   {
     "achievementBg": "achievement_bg_kizuna_02",
@@ -16018,6 +16072,24 @@
     "sortId": 1136,
     "stackMax": 1,
     "startTime": 1776920400000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_03",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0576",
+    "achievementName": "もっと楽しく！華やかに！",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【華麗に舞いま～す！】サラブレッドしろげのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710576,
+    "infoGettext": "【華麗に舞いま～す！】サラブレッドしろげの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "もっと楽しく！華やかに！",
+    "rarity": 1,
+    "sortId": 1152,
+    "stackMax": 1,
+    "startTime": 1778130000000
   },
   {
     "achievementBg": "achievement_bg_event_06",

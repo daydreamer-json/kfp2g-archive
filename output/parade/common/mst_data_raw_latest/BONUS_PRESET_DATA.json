@@ -2870,6 +2870,20 @@
     "totalFlg": 0
   },
   {
+    "bannerName": "Texture2D/LoginBonus/loginbonus_bg_1113",
+    "bonusId": 206,
+    "bonusLoopFlg": 0,
+    "bonusName": "GW記念ログインボーナス",
+    "bonusType": 3,
+    "charaId": 1,
+    "charaMessage": "",
+    "displayType": 3,
+    "endDatetime": 1778770799000,
+    "lastPlayDay": 0,
+    "startDatetime": 1777611600000,
+    "totalFlg": 0
+  },
+  {
     "bannerName": "Texture2D/LoginBonus/loginbonus_bg_500",
     "bonusId": 500,
     "bonusLoopFlg": 0,

@@ -13209,6 +13209,76 @@
     "pickupFlg": 0
   },
   {
+    "bonusId": 206,
+    "days": 1,
+    "itemId": 30130,
+    "itemNum": 10,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 2,
+    "itemId": 13110,
+    "itemNum": 50,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 3,
+    "itemId": 13003,
+    "itemNum": 300,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 4,
+    "itemId": 30119,
+    "itemNum": 120,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 5,
+    "itemId": 13053,
+    "itemNum": 100,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 6,
+    "itemId": 30104,
+    "itemNum": 100,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 7,
+    "itemId": 13100,
+    "itemNum": 1,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 8,
+    "itemId": 12019,
+    "itemNum": 10,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 9,
+    "itemId": 13110,
+    "itemNum": 100,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 206,
+    "days": 10,
+    "itemId": 101574,
+    "itemNum": 1,
+    "pickupFlg": 0
+  },
+  {
     "bonusId": 500,
     "days": 1,
     "itemId": 13003,

@@ -11409,6 +11409,23 @@
   {
     "comebackDay": 0,
     "comebackFlag": 0,
+    "endDatetime": 1778252400000,
+    "exclusionUsersetId": 0,
+    "id": 674,
+    "itemId": 30001,
+    "itemNum": 5,
+    "kind": 0,
+    "playEventId": 0,
+    "presentText": "メンテナンス協力のお礼",
+    "recvBorderTime": 1778252400000,
+    "startDatetime": 1777611600000,
+    "tutorialEndDatetime": 946652400000,
+    "tutorialFlag": 0,
+    "tutorialStartDatetime": 946652400000
+  },
+  {
+    "comebackDay": 0,
+    "comebackFlag": 0,
     "endDatetime": 1593529200000,
     "exclusionUsersetId": 0,
     "id": 99997,

@@ -204,6 +204,12 @@
     "startTime": 946652400000
   },
   {
+    "charaId": 55,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
+  },
+  {
     "charaId": 58,
     "priceItemId": 39001,
     "priceItemNum": 1,
@@ -300,10 +306,28 @@
     "startTime": 946652400000
   },
   {
+    "charaId": 125,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
+  },
+  {
     "charaId": 128,
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1773896400000
+  },
+  {
+    "charaId": 134,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
+  },
+  {
+    "charaId": 152,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
   },
   {
     "charaId": 153,
@@ -322,6 +346,12 @@
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1773896400000
+  },
+  {
+    "charaId": 162,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
   },
   {
     "charaId": 168,
@@ -358,6 +388,12 @@
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1770267600000
+  },
+  {
+    "charaId": 196,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1777611600000
   },
   {
     "charaId": 227,
@@ -820,5 +856,11 @@
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1776920400000
+  },
+  {
+    "charaId": 576,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1778130000000
   }
 ]

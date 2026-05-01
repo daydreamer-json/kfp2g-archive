@@ -880,6 +880,17 @@
     "stackMax": 100
   },
   {
+    "category": 3,
+    "charaReactionId": 0,
+    "flavorText": "『サラブレッドしろげ』のワイルドフォトポスター\n拠点に配置することができる",
+    "id": 52576,
+    "modelFileName": "",
+    "name": "『サラブレッドしろげ』のポスター",
+    "photoId": 6235,
+    "rarity": 1,
+    "stackMax": 100
+  },
+  {
     "category": 4,
     "charaReactionId": 0,
     "flavorText": "いたって普通の本棚。貴重な本がいっぱい\n拠点に配置することができる",
