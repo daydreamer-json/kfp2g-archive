@@ -166,5 +166,26 @@
     "platform": "iOS",
     "chunkMapFile": "ab_310.0_iOS_1.0.0_chunk_map.json",
     "chunkMapBaseName": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg"
+  },
+  {
+    "assetBundleUrl": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/AssetBundles/311.0/2277c8aa86f6f37bef1b4e35a51774e8/311.0",
+    "assetBundleVersion": "1.0.0",
+    "platform": "Windows",
+    "chunkMapFile": "ab_311.0_Windows_1.0.0_chunk_map.json",
+    "chunkMapBaseName": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg"
+  },
+  {
+    "assetBundleUrl": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/AssetBundles/311.0/2277c8aa86f6f37bef1b4e35a51774e8/311.0",
+    "assetBundleVersion": "1.0.0",
+    "platform": "Android",
+    "chunkMapFile": "ab_311.0_Android_1.0.0_chunk_map.json",
+    "chunkMapBaseName": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg"
+  },
+  {
+    "assetBundleUrl": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/AssetBundles/311.0/2277c8aa86f6f37bef1b4e35a51774e8/311.0",
+    "assetBundleVersion": "1.0.0",
+    "platform": "iOS",
+    "chunkMapFile": "ab_311.0_iOS_1.0.0_chunk_map.json",
+    "chunkMapBaseName": "https://github.com/AetherArchive/kfp2g-bin-archive/releases/download/pkg"
   }
 ]
