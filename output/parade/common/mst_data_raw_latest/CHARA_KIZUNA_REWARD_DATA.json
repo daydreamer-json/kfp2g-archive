@@ -33060,6 +33060,66 @@
     "rewardItemNum": 1
   },
   {
+    "charaId": 571,
+    "kizunaLevel": 1,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 2,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 3,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 4,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 5,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 6,
+    "rewardItemId": 652571,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 7,
+    "rewardItemId": 656571,
+    "rewardItemNum": 1
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 8,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 9,
+    "rewardItemId": 0,
+    "rewardItemNum": 0
+  },
+  {
+    "charaId": 571,
+    "kizunaLevel": 10,
+    "rewardItemId": 710571,
+    "rewardItemNum": 1
+  },
+  {
     "charaId": 576,
     "kizunaLevel": 1,
     "rewardItemId": 0,

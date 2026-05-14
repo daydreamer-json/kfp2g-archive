@@ -6612,6 +6612,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "想いから生まれた不思議な鉱物\nハシボソガラスのけも級アップに使用します",
+    "iconName": "icon_item_10571",
+    "id": 10571,
+    "name": "小さなハシボソガラスの輝石",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "想いから生まれた不思議な鉱物\n【華麗に舞いま～す！】サラブレッドしろげのけも級アップに使用します",
     "iconName": "icon_item_10576",
     "id": 10576,
@@ -13228,6 +13240,18 @@
     "iconName": "icon_item_11568",
     "id": 11568,
     "name": "おとどちゃんの輝石",
+    "noSaleFlg": 1,
+    "rarity": 5,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nハシボソガラスのフォトポケット解放に使用します",
+    "iconName": "icon_item_11571",
+    "id": 11571,
+    "name": "ハシボソガラスの輝石",
     "noSaleFlg": 1,
     "rarity": 5,
     "salePrice": 0,
@@ -21720,6 +21744,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "秘めた野性を解き放つ秘密の小瓶\nハシボソガラスの野生解放の強化に使用します",
+    "iconName": "icon_item_16571",
+    "id": 16571,
+    "name": "ハシボソガラスの小瓶",
+    "noSaleFlg": 0,
+    "rarity": 5,
+    "salePrice": 10,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "秘めた野性を解き放つ秘密の小瓶\n【華麗に舞いま～す！】サラブレッドしろげの野生解放の強化に使用します",
     "iconName": "icon_item_16576",
     "id": 16576,
@@ -29818,6 +29854,30 @@
     "stackMax": 9999999,
     "tabCategory": 0,
     "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_33173",
+    "id": 33173,
+    "name": "ツヤッとかがやく黒い羽",
+    "noSaleFlg": 1,
+    "rarity": 1,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_33174",
+    "id": 33174,
+    "name": "ミニこいのぼり",
+    "noSaleFlg": 1,
+    "rarity": 2,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
   },
   {
     "flavorText": "特定のクエストをスキップできます",
@@ -48840,6 +48900,18 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100011",
+    "id": 101579,
+    "name": "5月シナリオイベントSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100030",
     "id": 101581,
@@ -48868,6 +48940,18 @@
     "iconName": "icon_item_100027",
     "id": 101583,
     "name": "ペンギンフレンズすぺしゃるショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100039",
+    "id": 101584,
+    "name": "とくべつ復刻SPしょうたいチケット",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
@@ -48916,6 +49000,18 @@
     "iconName": "icon_item_100362",
     "id": 101588,
     "name": "はなまるチェンジショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100021",
+    "id": 101596,
+    "name": "トリフレンズショップしょうたい券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,

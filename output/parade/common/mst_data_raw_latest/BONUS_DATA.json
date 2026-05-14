@@ -13279,6 +13279,55 @@
     "pickupFlg": 0
   },
   {
+    "bonusId": 207,
+    "days": 1,
+    "itemId": 3502,
+    "itemNum": 1,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 2,
+    "itemId": 30119,
+    "itemNum": 30,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 3,
+    "itemId": 13003,
+    "itemNum": 30,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 4,
+    "itemId": 100001,
+    "itemNum": 1,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 5,
+    "itemId": 31002,
+    "itemNum": 2,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 6,
+    "itemId": 13003,
+    "itemNum": 40,
+    "pickupFlg": 0
+  },
+  {
+    "bonusId": 207,
+    "days": 7,
+    "itemId": 30001,
+    "itemNum": 25,
+    "pickupFlg": 0
+  },
+  {
     "bonusId": 500,
     "days": 1,
     "itemId": 13003,

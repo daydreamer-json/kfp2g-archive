@@ -166,7 +166,7 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1776315600000,
-    "stickerType": 0
+    "stickerType": 3
   },
   {
     "bgTextureName": "card_sticker_bg_0000",
@@ -179,7 +179,7 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1776488400000,
-    "stickerType": 0
+    "stickerType": 3
   },
   {
     "bgTextureName": "card_sticker_bg_0000",
@@ -192,7 +192,7 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1776920400000,
-    "stickerType": 0
+    "stickerType": 3
   },
   {
     "bgTextureName": "card_sticker_bg_0000",
@@ -205,7 +205,33 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1776315600000,
-    "stickerType": 0
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "シーラカンスのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810006",
+    "id": 810006,
+    "name": "シーラカンスのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1778907600000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "メンダコのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810007",
+    "id": 810007,
+    "name": "メンダコのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1778907600000,
+    "stickerType": 3
   },
   {
     "bgTextureName": "card_sticker_bg_0000",

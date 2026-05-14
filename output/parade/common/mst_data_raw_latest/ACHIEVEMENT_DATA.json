@@ -8028,6 +8028,24 @@
     "startTime": 1776920400000
   },
   {
+    "achievementBg": "achievement_bg_02",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0571",
+    "achievementName": "ハシボソガラス",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ハシボソガラス入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700571,
+    "infoGettext": "ハシボソガラスを\nしょうたいすると入手可能",
+    "name": "ハシボソガラス入隊！",
+    "rarity": 1,
+    "sortId": 1141,
+    "stackMax": 1,
+    "startTime": 1778734800000
+  },
+  {
     "achievementBg": "achievement_bg_v2_friendly",
     "achievementFrame": "achievement_v2_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0576",
@@ -16074,6 +16092,24 @@
     "startTime": 1776920400000
   },
   {
+    "achievementBg": "achievement_bg_kizuna_02",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0571",
+    "achievementName": "アナタもアタシのもの",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ハシボソガラスのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710571,
+    "infoGettext": "ハシボソガラスの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "アナタもアタシのもの",
+    "rarity": 1,
+    "sortId": 1142,
+    "stackMax": 1,
+    "startTime": 1778734800000
+  },
+  {
     "achievementBg": "achievement_bg_kizuna_03",
     "achievementFrame": "",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0576",
@@ -16432,6 +16468,24 @@
     "sortId": 30019,
     "stackMax": 1,
     "startTime": 1776315600000
+  },
+  {
+    "achievementBg": "achievement_bg_event_35",
+    "achievementFrame": "",
+    "achievementIcon": "",
+    "achievementName": "アタシだけを見なさいよ！",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "シナリオイベント「ガァーガァー探せ　空回り恋のぼり」の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 730020,
+    "infoGettext": "シナリオイベント「ガァーガァー探せ　空回り恋のぼり」の\nミッション「イベントメインストーリー5話のバトル3をクリア」を達成",
+    "name": "アタシだけを見なさいよ！",
+    "rarity": 1,
+    "sortId": 30020,
+    "stackMax": 1,
+    "startTime": 1778734800000
   },
   {
     "achievementBg": "achievement_bg_event_01",

@@ -19568,7 +19568,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 11,
+    "priority": 4,
     "startTime": 1777561200000
   },
   {
@@ -19580,7 +19580,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 12,
+    "priority": 5,
     "startTime": 1777561200000
   },
   {
@@ -19640,7 +19640,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 13,
+    "priority": 6,
     "startTime": 1778130000000
   },
   {
@@ -19654,6 +19654,42 @@
     "platform": 0,
     "priority": 15,
     "startTime": 1777611600000
+  },
+  {
+    "bannerName": "wwZXYY7Bt7QXfHBL",
+    "bannerText": "5/21(木)14:00まで",
+    "endTime": 1779339600000,
+    "id": 1678,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014069jMxhb9cw.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 2,
+    "startTime": 1778734800000
+  },
+  {
+    "bannerName": "wwZX0YkIBsGXTski",
+    "bannerText": "5/23(土)14:00まで",
+    "endTime": 1779512400000,
+    "id": 1679,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014072hKDTBSKR.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startTime": 1778907600000
+  },
+  {
+    "bannerName": "XZ0ZSfP5RYrmKP",
+    "bannerText": "",
+    "endTime": 1779512400000,
+    "id": 1680,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014071BKx9yQjh.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 7,
+    "startTime": 1778907600000
   },
   {
     "bannerName": "2XXYEJxCF4kDHt",
@@ -23134,6 +23170,18 @@
     "platform": 0,
     "priority": 9,
     "startTime": 1777611600000
+  },
+  {
+    "bannerName": "20X1BJcS770tyR",
+    "bannerText": "5/21(木)14:00まで",
+    "endTime": 1779339600000,
+    "id": 7306,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014070j3JyrLzs.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 3,
+    "startTime": 1778734800000
   },
   {
     "bannerName": "wXYfElK-zC6Ksy",

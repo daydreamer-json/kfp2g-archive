@@ -10058,19 +10058,19 @@
   {
     "charaId": 454,
     "itemId00": 13120,
-    "itemId01": 14079,
-    "itemId02": 14084,
-    "itemId03": 14090,
+    "itemId01": 14088,
+    "itemId02": 14078,
+    "itemId03": 14076,
     "itemNum00": 10,
     "itemNum01": 3,
     "itemNum02": 3,
     "itemNum03": 3,
-    "startTime": 4102412400000,
+    "startTime": 1778907600000,
     "useItemIds": [
       13120,
-      14079,
-      14084,
-      14090
+      14088,
+      14078,
+      14076
     ],
     "useItemNums": [
       10,
@@ -10082,19 +10082,19 @@
   {
     "charaId": 455,
     "itemId00": 13120,
-    "itemId01": 14079,
-    "itemId02": 14084,
-    "itemId03": 14090,
+    "itemId01": 14088,
+    "itemId02": 14083,
+    "itemId03": 14076,
     "itemNum00": 10,
     "itemNum01": 3,
     "itemNum02": 3,
     "itemNum03": 3,
-    "startTime": 4102412400000,
+    "startTime": 1778907600000,
     "useItemIds": [
       13120,
-      14079,
-      14084,
-      14090
+      14088,
+      14083,
+      14076
     ],
     "useItemNums": [
       10,
@@ -12399,6 +12399,30 @@
       14078,
       14079,
       14080
+    ],
+    "useItemNums": [
+      10,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "charaId": 571,
+    "itemId00": 13120,
+    "itemId01": 14082,
+    "itemId02": 14086,
+    "itemId03": 14084,
+    "itemNum00": 10,
+    "itemNum01": 3,
+    "itemNum02": 3,
+    "itemNum03": 3,
+    "startTime": 4102412400000,
+    "useItemIds": [
+      13120,
+      14082,
+      14086,
+      14084
     ],
     "useItemNums": [
       10,

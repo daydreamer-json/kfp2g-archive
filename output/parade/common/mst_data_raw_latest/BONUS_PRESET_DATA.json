@@ -2884,6 +2884,20 @@
     "totalFlg": 0
   },
   {
+    "bannerName": "Texture2D/LoginBonus/loginbonus_bg_1114",
+    "bonusId": 207,
+    "bonusLoopFlg": 0,
+    "bonusName": "ガァーガァー探せ　空回り恋のぼりログインボーナス",
+    "bonusType": 3,
+    "charaId": 1,
+    "charaMessage": "",
+    "displayType": 3,
+    "endDatetime": 1779289199000,
+    "lastPlayDay": 0,
+    "startDatetime": 1778734800000,
+    "totalFlg": 0
+  },
+  {
     "bannerName": "Texture2D/LoginBonus/loginbonus_bg_500",
     "bonusId": 500,
     "bonusLoopFlg": 0,

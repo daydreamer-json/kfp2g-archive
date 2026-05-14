@@ -5122,5 +5122,19 @@
     "retireReturnStaminaratio": 100,
     "topCharaComment": "",
     "weatherType": 0
+  },
+  {
+    "category": 5,
+    "chapterId": 7306,
+    "chapterName": "",
+    "chapterTitle": "ガァーガァー探せ　空回り恋のぼり",
+    "endType": 0,
+    "hardChapterId": 0,
+    "loseReturnStaminaratio": 100,
+    "mapPath": "MainStory_01",
+    "markerType": 0,
+    "retireReturnStaminaratio": 100,
+    "topCharaComment": "",
+    "weatherType": 0
   }
 ]
