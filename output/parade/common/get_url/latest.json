@@ -4,7 +4,7 @@
     "platform": 4
   },
   "rsp": {
-    "asset_bundle_url": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/AssetBundles/313.0/aeace2d45d88677fba655eef428a4f1e/313.0",
+    "asset_bundle_url": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/AssetBundles/314.0/307a8bd8e2c8bff44f417f3411ba3db5/314.0",
     "asset_bundle_version": "1.0.0",
     "base_data_url": "https://parade-mobile-prod-app.kemono-friends-3.jp/paradesv/",
     "botcmd": null,
@@ -15,9 +15,9 @@
     "notice_url": "",
     "res_code": 0,
     "server_id": "prod",
-    "server_time": 1778734852684,
+    "server_time": 1779345346765,
     "target_server_type": null,
-    "transaction_id": "42-001-000A2C",
+    "transaction_id": "92-001-000EC8",
     "webview_url": "https://parade-mobile-prod-cdn.kemono-friends-3.jp/Information/"
   }
 }
