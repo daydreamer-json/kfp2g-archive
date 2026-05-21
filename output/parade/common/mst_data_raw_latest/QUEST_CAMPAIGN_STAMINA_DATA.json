@@ -4674,5 +4674,257 @@
     "endTime": 1772168400000,
     "startTime": 1771477200000,
     "value": 8
+  },
+  {
+    "campaignId": 669,
+    "chapterId": 1001,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 7
+  },
+  {
+    "campaignId": 670,
+    "chapterId": 1002,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 671,
+    "chapterId": 1003,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 672,
+    "chapterId": 1004,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 673,
+    "chapterId": 1005,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 674,
+    "chapterId": 1006,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 675,
+    "chapterId": 1007,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 676,
+    "chapterId": 1008,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 677,
+    "chapterId": 1009,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 678,
+    "chapterId": 1101,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 679,
+    "chapterId": 1102,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 680,
+    "chapterId": 1103,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 681,
+    "chapterId": 1104,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 682,
+    "chapterId": 1105,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 683,
+    "chapterId": 1200,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 684,
+    "chapterId": 1201,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 685,
+    "chapterId": 1202,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 686,
+    "chapterId": 1203,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 687,
+    "chapterId": 1204,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 688,
+    "chapterId": 1205,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 689,
+    "chapterId": 1206,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 690,
+    "chapterId": 1207,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 691,
+    "chapterId": 6001,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 692,
+    "chapterId": 6002,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 693,
+    "chapterId": 6003,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 694,
+    "chapterId": 6004,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 695,
+    "chapterId": 6005,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 696,
+    "chapterId": 6006,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 697,
+    "chapterId": 1300,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 698,
+    "chapterId": 1301,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 699,
+    "chapterId": 1302,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 700,
+    "chapterId": 1303,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 701,
+    "chapterId": 1304,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 702,
+    "chapterId": 1305,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 703,
+    "chapterId": 1306,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
+  },
+  {
+    "campaignId": 704,
+    "chapterId": 1307,
+    "endTime": 1779944400000,
+    "startTime": 1779339600000,
+    "value": 8
   }
 ]

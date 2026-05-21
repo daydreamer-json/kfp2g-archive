@@ -55926,6 +55926,114 @@
     "rate": 70
   },
   {
+    "drawId": 54991,
+    "itemId": 14021,
+    "itemNum": 1,
+    "rate": 20
+  },
+  {
+    "drawId": 54991,
+    "itemId": 14039,
+    "itemNum": 1,
+    "rate": 20
+  },
+  {
+    "drawId": 54991,
+    "itemId": 14066,
+    "itemNum": 1,
+    "rate": 20
+  },
+  {
+    "drawId": 54992,
+    "itemId": 14021,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54992,
+    "itemId": 14039,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54992,
+    "itemId": 14066,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14021,
+    "itemNum": 1,
+    "rate": 80
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14021,
+    "itemNum": 2,
+    "rate": 20
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14039,
+    "itemNum": 1,
+    "rate": 80
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14039,
+    "itemNum": 2,
+    "rate": 20
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14066,
+    "itemNum": 1,
+    "rate": 80
+  },
+  {
+    "drawId": 54993,
+    "itemId": 14066,
+    "itemNum": 2,
+    "rate": 20
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14021,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14021,
+    "itemNum": 2,
+    "rate": 70
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14039,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14039,
+    "itemNum": 2,
+    "rate": 70
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14066,
+    "itemNum": 1,
+    "rate": 30
+  },
+  {
+    "drawId": 54994,
+    "itemId": 14066,
+    "itemNum": 2,
+    "rate": 70
+  },
+  {
     "drawId": 55011,
     "itemId": 14024,
     "itemNum": 1,

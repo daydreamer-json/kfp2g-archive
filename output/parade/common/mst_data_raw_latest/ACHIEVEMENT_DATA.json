@@ -7110,6 +7110,24 @@
     "startTime": 1771477200000
   },
   {
+    "achievementBg": "achievement_bg_01",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0499",
+    "achievementName": "ウミイグアナ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ウミイグアナ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700499,
+    "infoGettext": "ウミイグアナを\nしょうたいすると入手可能",
+    "name": "ウミイグアナ入隊！",
+    "rarity": 1,
+    "sortId": 997,
+    "stackMax": 1,
+    "startTime": 1779339600000
+  },
+  {
     "achievementBg": "achievement_bg_06",
     "achievementFrame": "achievement_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0501",
@@ -15172,6 +15190,24 @@
     "sortId": 994,
     "stackMax": 1,
     "startTime": 1771477200000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_01",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0499",
+    "achievementName": "ふしぎ島の海を案内するよ！",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ウミイグアナのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710499,
+    "infoGettext": "ウミイグアナの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "ふしぎ島の海を案内するよ！",
+    "rarity": 1,
+    "sortId": 998,
+    "stackMax": 1,
+    "startTime": 1779339600000
   },
   {
     "achievementBg": "achievement_bg_kizuna_06",

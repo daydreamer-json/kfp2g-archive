@@ -8912,6 +8912,27 @@
     "dispItemIconId04": 0,
     "dispItemIconId05": 0,
     "freeword": "",
+    "mapId": 3499,
+    "mapName": "ウミイグアナ",
+    "mapObjName": "",
+    "mapPosX": 0,
+    "mapPosY": 0,
+    "questMapCategory": 0,
+    "questRelWeek": 0,
+    "raidTargetCharaId": 0,
+    "startDatetime": 1779339600000,
+    "startHideFlag": 0,
+    "weatherType": 0
+  },
+  {
+    "chapterId": 3,
+    "dispItemIconId00": 0,
+    "dispItemIconId01": 0,
+    "dispItemIconId02": 0,
+    "dispItemIconId03": 0,
+    "dispItemIconId04": 0,
+    "dispItemIconId05": 0,
+    "freeword": "",
     "mapId": 3501,
     "mapName": "ガラパゴスペンギン",
     "mapObjName": "",
@@ -21168,6 +21189,27 @@
     "weatherType": 0
   },
   {
+    "chapterId": 7302,
+    "dispItemIconId00": 0,
+    "dispItemIconId01": 0,
+    "dispItemIconId02": 0,
+    "dispItemIconId03": 0,
+    "dispItemIconId04": 0,
+    "dispItemIconId05": 0,
+    "freeword": "",
+    "mapId": 73025,
+    "mapName": "エクストラ",
+    "mapObjName": "",
+    "mapPosX": 0,
+    "mapPosY": 0,
+    "questMapCategory": 0,
+    "questRelWeek": 0,
+    "raidTargetCharaId": 0,
+    "startDatetime": 1776654000000,
+    "startHideFlag": 0,
+    "weatherType": 0
+  },
+  {
     "chapterId": 7303,
     "dispItemIconId00": 0,
     "dispItemIconId01": 0,
@@ -28513,7 +28555,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -28534,7 +28576,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -28555,7 +28597,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -28576,7 +28618,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -28597,7 +28639,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -28618,7 +28660,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35863,7 +35905,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35884,7 +35926,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35905,7 +35947,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35926,7 +35968,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35947,7 +35989,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },
@@ -35968,7 +36010,7 @@
     "questMapCategory": 0,
     "questRelWeek": 0,
     "raidTargetCharaId": 0,
-    "startDatetime": 1905570000000,
+    "startDatetime": 1779339600000,
     "startHideFlag": 0,
     "weatherType": 0
   },

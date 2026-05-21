@@ -16370,7 +16370,7 @@
   {
     "bossAuth": "",
     "enemiesId": 1307035,
-    "questOneId": 13070701,
+    "questOneId": 13070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
@@ -16381,13 +16381,13 @@
   {
     "bossAuth": "",
     "enemiesId": 1307038,
-    "questOneId": 13070702,
+    "questOneId": 13070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
@@ -16398,22 +16398,11 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
     "enemiesId": 1307044,
-    "questOneId": 13070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307047,
     "questOneId": 13070901,
     "rate": 1000,
     "textinfoId": 0,
@@ -16424,40 +16413,7 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307050,
-    "questOneId": 13070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307053,
-    "questOneId": 13070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307056,
-    "questOneId": 13070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307059,
+    "enemiesId": 1307047,
     "questOneId": 13071001,
     "rate": 1000,
     "textinfoId": 0,
@@ -16468,47 +16424,58 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307062,
-    "questOneId": 13071003,
+    "enemiesId": 1307050,
+    "questOneId": 13071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307065,
+    "enemiesId": 1307053,
+    "questOneId": 13071101,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0128"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 1307056,
+    "questOneId": 13071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 1307059,
     "questOneId": 13071103,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0130"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307068,
+    "enemiesId": 1307060,
     "questOneId": 13071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307071,
-    "questOneId": 13071202,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0106"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -28822,24 +28789,24 @@
   {
     "bossAuth": "",
     "enemiesId": 2307035,
-    "questOneId": 23070701,
+    "questOneId": 23070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307038,
-    "questOneId": 23070702,
+    "questOneId": 23070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
@@ -28850,117 +28817,84 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307044,
-    "questOneId": 23070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307047,
     "questOneId": 23070901,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307050,
-    "questOneId": 23070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307053,
-    "questOneId": 23070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307056,
-    "questOneId": 23070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307059,
+    "enemiesId": 2307047,
     "questOneId": 23071001,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307062,
-    "questOneId": 23071003,
+    "enemiesId": 2307050,
+    "questOneId": 23071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307065,
+    "enemiesId": 2307053,
+    "questOneId": 23071101,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0128"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 2307056,
+    "questOneId": 23071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 2307059,
     "questOneId": 23071103,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0130"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307068,
+    "enemiesId": 2307060,
     "questOneId": 23071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 1,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307071,
-    "questOneId": 23071202,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 1,
-    "waveStartBgmId": "prd_bgm0106"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -83471,6 +83405,138 @@
     "bossAuth": "",
     "enemiesId": 3497034,
     "questOneId": 34970403,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499001,
+    "questOneId": 34990101,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499004,
+    "questOneId": 34990102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499007,
+    "questOneId": 34990103,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499010,
+    "questOneId": 34990201,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499013,
+    "questOneId": 34990202,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499016,
+    "questOneId": 34990203,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499019,
+    "questOneId": 34990301,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499022,
+    "questOneId": 34990302,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499025,
+    "questOneId": 34990303,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499028,
+    "questOneId": 34990401,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499031,
+    "questOneId": 34990402,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 1,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499034,
+    "questOneId": 34990403,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
@@ -196286,7 +196352,7 @@
   {
     "bossAuth": "",
     "enemiesId": 1307036,
-    "questOneId": 13070701,
+    "questOneId": 13070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
@@ -196297,13 +196363,13 @@
   {
     "bossAuth": "",
     "enemiesId": 1307039,
-    "questOneId": 13070702,
+    "questOneId": 13070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
@@ -196314,22 +196380,11 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
     "enemiesId": 1307045,
-    "questOneId": 13070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307048,
     "questOneId": 13070901,
     "rate": 1000,
     "textinfoId": 0,
@@ -196340,40 +196395,7 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307051,
-    "questOneId": 13070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307054,
-    "questOneId": 13070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307057,
-    "questOneId": 13070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307060,
+    "enemiesId": 1307048,
     "questOneId": 13071001,
     "rate": 1000,
     "textinfoId": 0,
@@ -196384,36 +196406,47 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307063,
-    "questOneId": 13071003,
+    "enemiesId": 1307051,
+    "questOneId": 13071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307066,
-    "questOneId": 13071103,
+    "enemiesId": 1307054,
+    "questOneId": 13071101,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307069,
+    "enemiesId": 1307057,
+    "questOneId": 13071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 1307061,
     "questOneId": 13071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -207990,24 +208023,24 @@
   {
     "bossAuth": "",
     "enemiesId": 2307036,
-    "questOneId": 23070701,
+    "questOneId": 23070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307039,
-    "questOneId": 23070702,
+    "questOneId": 23070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
@@ -208018,106 +208051,73 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307045,
-    "questOneId": 23070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307048,
     "questOneId": 23070901,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307051,
-    "questOneId": 23070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307054,
-    "questOneId": 23070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307057,
-    "questOneId": 23070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307060,
+    "enemiesId": 2307048,
     "questOneId": 23071001,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307063,
-    "questOneId": 23071003,
+    "enemiesId": 2307051,
+    "questOneId": 23071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307066,
-    "questOneId": 23071103,
+    "enemiesId": 2307054,
+    "questOneId": 23071101,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307069,
+    "enemiesId": 2307057,
+    "questOneId": 23071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 2307061,
     "questOneId": 23071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 2,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -262617,6 +262617,138 @@
     "bossAuth": "",
     "enemiesId": 3497035,
     "questOneId": 34970403,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499002,
+    "questOneId": 34990101,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499005,
+    "questOneId": 34990102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499008,
+    "questOneId": 34990103,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499011,
+    "questOneId": 34990201,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499014,
+    "questOneId": 34990202,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499017,
+    "questOneId": 34990203,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499020,
+    "questOneId": 34990301,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499023,
+    "questOneId": 34990302,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499026,
+    "questOneId": 34990303,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499029,
+    "questOneId": 34990401,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499032,
+    "questOneId": 34990402,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 2,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499035,
+    "questOneId": 34990403,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
@@ -370042,7 +370174,7 @@
   {
     "bossAuth": "",
     "enemiesId": 1307037,
-    "questOneId": 13070701,
+    "questOneId": 13070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
@@ -370053,13 +370185,13 @@
   {
     "bossAuth": "",
     "enemiesId": 1307040,
-    "questOneId": 13070702,
+    "questOneId": 13070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
@@ -370070,22 +370202,11 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0012"
   },
   {
     "bossAuth": "",
     "enemiesId": 1307046,
-    "questOneId": 13070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307049,
     "questOneId": 13070901,
     "rate": 1000,
     "textinfoId": 0,
@@ -370096,40 +370217,7 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307052,
-    "questOneId": 13070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307055,
-    "questOneId": 13070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307058,
-    "questOneId": 13070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 1307061,
+    "enemiesId": 1307049,
     "questOneId": 13071001,
     "rate": 1000,
     "textinfoId": 0,
@@ -370140,36 +370228,47 @@
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307064,
-    "questOneId": 13071003,
+    "enemiesId": 1307052,
+    "questOneId": 13071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307067,
-    "questOneId": 13071103,
+    "enemiesId": 1307055,
+    "questOneId": 13071101,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
-    "enemiesId": 1307070,
+    "enemiesId": 1307058,
+    "questOneId": 13071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 1307062,
     "questOneId": 13071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -381504,24 +381603,24 @@
   {
     "bossAuth": "",
     "enemiesId": 2307037,
-    "questOneId": 23070701,
+    "questOneId": 23070703,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307040,
-    "questOneId": 23070702,
+    "questOneId": 23070801,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
@@ -381532,106 +381631,73 @@
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
     "enemiesId": 2307046,
-    "questOneId": 23070804,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307049,
     "questOneId": 23070901,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307052,
-    "questOneId": 23070902,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307055,
-    "questOneId": 23070903,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307058,
-    "questOneId": 23070904,
-    "rate": 1000,
-    "textinfoId": 0,
-    "victoryBgmId": "",
-    "vsFriendsSetId": 0,
-    "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
-  },
-  {
-    "bossAuth": "",
-    "enemiesId": 2307061,
+    "enemiesId": 2307049,
     "questOneId": 23071001,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307064,
-    "questOneId": 23071003,
+    "enemiesId": 2307052,
+    "questOneId": 23071002,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0127"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307067,
-    "questOneId": 23071103,
+    "enemiesId": 2307055,
+    "questOneId": 23071101,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0128"
   },
   {
     "bossAuth": "",
-    "enemiesId": 2307070,
+    "enemiesId": 2307058,
+    "questOneId": 23071102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0129"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 2307062,
     "questOneId": 23071201,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",
     "vsFriendsSetId": 0,
     "waveId": 3,
-    "waveStartBgmId": "prd_bgm0011"
+    "waveStartBgmId": "prd_bgm0129"
   },
   {
     "bossAuth": "",
@@ -436131,6 +436197,138 @@
     "bossAuth": "",
     "enemiesId": 3497036,
     "questOneId": 34970403,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499003,
+    "questOneId": 34990101,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499006,
+    "questOneId": 34990102,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499009,
+    "questOneId": 34990103,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499012,
+    "questOneId": 34990201,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499015,
+    "questOneId": 34990202,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499018,
+    "questOneId": 34990203,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499021,
+    "questOneId": 34990301,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499024,
+    "questOneId": 34990302,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499027,
+    "questOneId": 34990303,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499030,
+    "questOneId": 34990401,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499033,
+    "questOneId": 34990402,
+    "rate": 1000,
+    "textinfoId": 0,
+    "victoryBgmId": "",
+    "vsFriendsSetId": 0,
+    "waveId": 3,
+    "waveStartBgmId": "prd_bgm0011"
+  },
+  {
+    "bossAuth": "",
+    "enemiesId": 3499036,
+    "questOneId": 34990403,
     "rate": 1000,
     "textinfoId": 0,
     "victoryBgmId": "",

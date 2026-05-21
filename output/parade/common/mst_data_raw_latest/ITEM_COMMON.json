@@ -5976,10 +5976,10 @@
     "unitName": "個"
   },
   {
-    "flavorText": "フレンズの想いから生まれた不思議な鉱物\nのけも級アップに使用します",
+    "flavorText": "フレンズの想いから生まれた不思議な鉱物\nウミイグアナのけも級アップに使用します",
     "iconName": "icon_item_10499",
     "id": 10499,
-    "name": "小さなの輝石",
+    "name": "小さなウミイグアナの輝石",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
@@ -12612,10 +12612,10 @@
     "unitName": "個"
   },
   {
-    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nのフォトポケット解放に使用します",
+    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nウミイグアナのフォトポケット解放に使用します",
     "iconName": "icon_item_11499",
     "id": 11499,
-    "name": "の輝石",
+    "name": "ウミイグアナの輝石",
     "noSaleFlg": 1,
     "rarity": 5,
     "salePrice": 0,
@@ -21108,10 +21108,10 @@
     "unitName": "個"
   },
   {
-    "flavorText": "秘めた野性を解き放つ秘密の小瓶\nの野生解放の強化に使用します",
+    "flavorText": "秘めた野性を解き放つ秘密の小瓶\nウミイグアナの野生解放の強化に使用します",
     "iconName": "icon_item_16499",
     "id": 16499,
-    "name": "の小瓶",
+    "name": "ウミイグアナの小瓶",
     "noSaleFlg": 0,
     "rarity": 5,
     "salePrice": 10,
@@ -49008,10 +49008,70 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101589",
+    "id": 101589,
+    "name": "ウミイグアナSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100013",
+    "id": 101591,
+    "name": "爬虫類フレンズSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100027",
+    "id": 101592,
+    "name": "世界カメの日！すぺしゃるショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100021",
     "id": 101596,
     "name": "トリフレンズショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100030",
+    "id": 101598,
+    "name": "隊長さん応援ショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100274",
+    "id": 101603,
+    "name": "梅雨準備応援！フォト交換券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,
