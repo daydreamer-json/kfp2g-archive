@@ -7812,6 +7812,24 @@
     "startTime": 1770267600000
   },
   {
+    "achievementBg": "achievement_bg_04",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0554",
+    "achievementName": "ガーンジー",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ガーンジー入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700554,
+    "infoGettext": "ガーンジーを\nしょうたいすると入手可能",
+    "name": "ガーンジー入隊！",
+    "rarity": 1,
+    "sortId": 1107,
+    "stackMax": 1,
+    "startTime": 1779944400000
+  },
+  {
     "achievementBg": "achievement_bg_01",
     "achievementFrame": "achievement_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0556",
@@ -15892,6 +15910,24 @@
     "sortId": 1106,
     "stackMax": 1,
     "startTime": 1770267600000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_05",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0554",
+    "achievementName": "いっぱい飲んでカラダを強くして",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ガーンジーのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710554,
+    "infoGettext": "ガーンジーの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "いっぱい飲んでカラダを強くして",
+    "rarity": 1,
+    "sortId": 1108,
+    "stackMax": 1,
+    "startTime": 1779944400000
   },
   {
     "achievementBg": "achievement_bg_kizuna_01",

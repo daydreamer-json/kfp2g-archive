@@ -29645,6 +29645,61 @@
     "promoteStepDatetime": 1917860400000
   },
   {
+    "promoteId00": 155401,
+    "promoteId01": 155402,
+    "promoteId02": 155403,
+    "promoteId03": 155404,
+    "promoteId04": 155405,
+    "promoteId05": 155406,
+    "promotePresetId": 554,
+    "promoteStep": 0,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 155411,
+    "promoteId01": 155412,
+    "promoteId02": 155413,
+    "promoteId03": 155414,
+    "promoteId04": 155415,
+    "promoteId05": 155416,
+    "promotePresetId": 554,
+    "promoteStep": 1,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 155421,
+    "promoteId01": 155422,
+    "promoteId02": 155423,
+    "promoteId03": 155424,
+    "promoteId04": 155425,
+    "promoteId05": 155426,
+    "promotePresetId": 554,
+    "promoteStep": 2,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 155431,
+    "promoteId01": 155432,
+    "promoteId02": 155433,
+    "promoteId03": 155434,
+    "promoteId04": 155435,
+    "promoteId05": 155436,
+    "promotePresetId": 554,
+    "promoteStep": 3,
+    "promoteStepDatetime": 971175600000
+  },
+  {
+    "promoteId00": 155441,
+    "promoteId01": 155442,
+    "promoteId02": 155443,
+    "promoteId03": 155444,
+    "promoteId04": 155445,
+    "promoteId05": 155446,
+    "promotePresetId": 554,
+    "promoteStep": 4,
+    "promoteStepDatetime": 1917860400000
+  },
+  {
     "promoteId00": 155601,
     "promoteId01": 155602,
     "promoteId02": 155603,

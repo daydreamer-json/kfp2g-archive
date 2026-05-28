@@ -400,6 +400,16 @@
     "typeId": 1
   },
   {
+    "eventId": 0,
+    "pvpId": 41,
+    "rankResetNum": 0,
+    "rankResetRatio": 25,
+    "seasonEndDatetime": 1785387600000,
+    "seasonId": 41,
+    "seasonStartDatetime": 1779944400000,
+    "typeId": 1
+  },
+  {
     "eventId": 61,
     "pvpId": 101,
     "rankResetNum": 0,

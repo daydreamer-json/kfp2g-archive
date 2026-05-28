@@ -425,12 +425,22 @@
     "ratio": 0
   },
   {
+    "gachaId": 50174,
+    "kindId": 9,
+    "ratio": 0
+  },
+  {
     "gachaId": 60001,
     "kindId": 12,
     "ratio": 0
   },
   {
     "gachaId": 60002,
+    "kindId": 12,
+    "ratio": 0
+  },
+  {
+    "gachaId": 60003,
     "kindId": 12,
     "ratio": 0
   },
@@ -54276,6 +54286,251 @@
   },
   {
     "gachaId": 992072,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992081,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992081,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992082,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992082,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992083,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992083,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992084,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992084,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992085,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992085,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992086,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992086,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992087,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992087,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992088,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992088,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992089,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992089,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992090,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992090,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992101,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992101,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992102,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992102,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992103,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992103,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992104,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992104,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992105,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992105,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992106,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992106,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992107,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992107,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992108,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992108,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992109,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992109,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992111,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992111,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992112,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992112,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992113,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992114,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992114,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992115,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992115,
+    "kindId": 3,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992116,
+    "kindId": 1,
+    "ratio": 0
+  },
+  {
+    "gachaId": 992116,
     "kindId": 3,
     "ratio": 0
   }

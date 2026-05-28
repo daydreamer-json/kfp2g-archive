@@ -41,6 +41,19 @@
   {
     "bgTextureName": "card_sticker_bg_0000",
     "bonusWeight": 1,
+    "flavorText": "タスマニアデビルのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800051",
+    "id": 800051,
+    "name": "タスマニアデビルのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
     "flavorText": "アルパカ・スリのシールです",
     "hideFlag": 0,
     "iconName": "icon_Sticker_800081",
@@ -88,6 +101,32 @@
     "rarity": 4,
     "stackMax": 9999,
     "startTime": 1777561200000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "ブラックバックのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800181",
+    "id": 800181,
+    "name": "ブラックバックのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 1
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "オーストラリアデビルのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_800201",
+    "id": 800201,
+    "name": "オーストラリアデビルのシール",
+    "rarity": 4,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
     "stickerType": 1
   },
   {
@@ -231,6 +270,19 @@
     "rarity": 5,
     "stackMax": 9999,
     "startTime": 1778907600000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "ガーンジーとジャージーのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810008",
+    "id": 810008,
+    "name": "ガーンジーとジャージーのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1779944400000,
     "stickerType": 3
   },
   {
@@ -608,6 +660,97 @@
     "rarity": 3,
     "stackMax": 9999,
     "startTime": 1777561200000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "太陽のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820030",
+    "id": 820030,
+    "name": "太陽のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "月のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820031",
+    "id": 820031,
+    "name": "月のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "時のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820032",
+    "id": 820032,
+    "name": "時のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "風のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820033",
+    "id": 820033,
+    "name": "風のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "空のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820034",
+    "id": 820034,
+    "name": "空のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "夢のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820035",
+    "id": 820035,
+    "name": "夢のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
+    "stickerType": 0
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "星のしずくのシールです",
+    "hideFlag": 0,
+    "iconName": "icon_Sticker_820036",
+    "id": 820036,
+    "name": "星のしずくのシール",
+    "rarity": 3,
+    "stackMax": 9999,
+    "startTime": 1780239600000,
     "stickerType": 0
   }
 ]

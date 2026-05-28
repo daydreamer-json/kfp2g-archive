@@ -933,5 +933,20 @@
     "bonusRatio": 190000,
     "charaId": 576,
     "growthPresetId": 102
+  },
+  {
+    "bonusRatio": 190000,
+    "charaId": 19,
+    "growthPresetId": 103
+  },
+  {
+    "bonusRatio": 190000,
+    "charaId": 233,
+    "growthPresetId": 103
+  },
+  {
+    "bonusRatio": 190000,
+    "charaId": 554,
+    "growthPresetId": 103
   }
 ]

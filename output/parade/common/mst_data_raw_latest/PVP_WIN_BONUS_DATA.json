@@ -1200,6 +1200,36 @@
     "winningNum": 5
   },
   {
+    "pvpId": 41,
+    "winAcquirePoint": 0,
+    "winningNum": 0
+  },
+  {
+    "pvpId": 41,
+    "winAcquirePoint": 0,
+    "winningNum": 1
+  },
+  {
+    "pvpId": 41,
+    "winAcquirePoint": 1,
+    "winningNum": 2
+  },
+  {
+    "pvpId": 41,
+    "winAcquirePoint": 2,
+    "winningNum": 3
+  },
+  {
+    "pvpId": 41,
+    "winAcquirePoint": 3,
+    "winningNum": 4
+  },
+  {
+    "pvpId": 41,
+    "winAcquirePoint": 5,
+    "winningNum": 5
+  },
+  {
     "pvpId": 101,
     "winAcquirePoint": 0,
     "winningNum": 0
