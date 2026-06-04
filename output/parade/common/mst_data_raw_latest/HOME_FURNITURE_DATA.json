@@ -882,6 +882,17 @@
   {
     "category": 3,
     "charaReactionId": 0,
+    "flavorText": "『サラブレッドあおかげ』のワイルドフォトポスター\n拠点に配置することができる",
+    "id": 52575,
+    "modelFileName": "",
+    "name": "『サラブレッドあおかげ』のポスター",
+    "photoId": 6234,
+    "rarity": 1,
+    "stackMax": 100
+  },
+  {
+    "category": 3,
+    "charaReactionId": 0,
     "flavorText": "『サラブレッドしろげ』のワイルドフォトポスター\n拠点に配置することができる",
     "id": 52576,
     "modelFileName": "",

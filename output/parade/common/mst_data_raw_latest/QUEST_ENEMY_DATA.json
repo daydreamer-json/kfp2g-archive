@@ -416557,6 +416557,630 @@
   },
   {
     "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575001,
+    "level": 1
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575002,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575003,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575004,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575005,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575006,
+    "level": 1
+  },
+  {
+    "drawId": 55751,
+    "enemyCharaId": 20020,
+    "enemyId": 3575007,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575008,
+    "level": 1
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575009,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575010,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575011,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575012,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575013,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575014,
+    "level": 1
+  },
+  {
+    "drawId": 55751,
+    "enemyCharaId": 20080,
+    "enemyId": 3575015,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575016,
+    "level": 1
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575017,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575018,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575019,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575020,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575021,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575022,
+    "level": 1
+  },
+  {
+    "drawId": 55751,
+    "enemyCharaId": 20080,
+    "enemyId": 3575023,
+    "level": 1
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575024,
+    "level": 1
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575025,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575026,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575027,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575028,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575029,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575030,
+    "level": 10
+  },
+  {
+    "drawId": 55752,
+    "enemyCharaId": 20020,
+    "enemyId": 3575031,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575032,
+    "level": 10
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575033,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575034,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575035,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575036,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575037,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575038,
+    "level": 10
+  },
+  {
+    "drawId": 55752,
+    "enemyCharaId": 20090,
+    "enemyId": 3575039,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575040,
+    "level": 10
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575041,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575042,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575043,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575044,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575045,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575046,
+    "level": 10
+  },
+  {
+    "drawId": 55752,
+    "enemyCharaId": 20010,
+    "enemyId": 3575047,
+    "level": 10
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575048,
+    "level": 10
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575049,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575050,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575051,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575052,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575053,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575054,
+    "level": 25
+  },
+  {
+    "drawId": 55753,
+    "enemyCharaId": 20080,
+    "enemyId": 3575055,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575056,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575057,
+    "level": 25
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20001,
+    "enemyId": 3575058,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575059,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575060,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575061,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575062,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575063,
+    "level": 25
+  },
+  {
+    "drawId": 55753,
+    "enemyCharaId": 20010,
+    "enemyId": 3575064,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575065,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575066,
+    "level": 25
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20020,
+    "enemyId": 3575067,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20001,
+    "enemyId": 3575068,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575069,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575070,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575071,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575072,
+    "level": 25
+  },
+  {
+    "drawId": 55753,
+    "enemyCharaId": 20010,
+    "enemyId": 3575073,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575074,
+    "level": 25
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575075,
+    "level": 40
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20020,
+    "enemyId": 3575076,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575077,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575078,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575079,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575080,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575081,
+    "level": 40
+  },
+  {
+    "drawId": 55754,
+    "enemyCharaId": 20090,
+    "enemyId": 3575082,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575083,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575084,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575085,
+    "level": 40
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20080,
+    "enemyId": 3575086,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575087,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575088,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575089,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575090,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575091,
+    "level": 40
+  },
+  {
+    "drawId": 55754,
+    "enemyCharaId": 20090,
+    "enemyId": 3575092,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575093,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575094,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20020,
+    "enemyId": 3575095,
+    "level": 40
+  },
+  {
+    "drawId": 10001,
+    "enemyCharaId": 20090,
+    "enemyId": 3575096,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575097,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575098,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20080,
+    "enemyId": 3575099,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575100,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20090,
+    "enemyId": 3575101,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575102,
+    "level": 40
+  },
+  {
+    "drawId": 55754,
+    "enemyCharaId": 20010,
+    "enemyId": 3575103,
+    "level": 40
+  },
+  {
+    "drawId": 0,
+    "enemyCharaId": 20010,
+    "enemyId": 3575104,
+    "level": 40
+  },
+  {
+    "drawId": 0,
     "enemyCharaId": 20003,
     "enemyId": 3576001,
     "level": 1
@@ -765901,7 +766525,7 @@
   },
   {
     "drawId": 71230,
-    "enemyCharaId": 21754,
+    "enemyCharaId": 21892,
     "enemyId": 7307117,
     "level": 65
   },

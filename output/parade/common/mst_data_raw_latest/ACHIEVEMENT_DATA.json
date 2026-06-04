@@ -8082,6 +8082,24 @@
     "startTime": 1778734800000
   },
   {
+    "achievementBg": "achievement_bg_v2_relax",
+    "achievementFrame": "achievement_v2_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0575",
+    "achievementName": "サラブレッドあおかげ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【努力は裏切らない】サラブレッドあおかげ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700575,
+    "infoGettext": "【努力は裏切らない】サラブレッドあおかげを\nしょうたいすると入手可能",
+    "name": "【努力は裏切らない】サラブレッドあおかげ入隊！",
+    "rarity": 1,
+    "sortId": 1149,
+    "stackMax": 1,
+    "startTime": 1780549200000
+  },
+  {
     "achievementBg": "achievement_bg_v2_friendly",
     "achievementFrame": "achievement_v2_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0576",
@@ -16180,6 +16198,24 @@
     "sortId": 1142,
     "stackMax": 1,
     "startTime": 1778734800000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_04",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0575",
+    "achievementName": "どこまでも駆け抜けよう！",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "【努力は裏切らない】サラブレッドあおかげのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710575,
+    "infoGettext": "【努力は裏切らない】サラブレッドあおかげの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "どこまでも駆け抜けよう！",
+    "rarity": 1,
+    "sortId": 1150,
+    "stackMax": 1,
+    "startTime": 1780549200000
   },
   {
     "achievementBg": "achievement_bg_kizuna_03",
