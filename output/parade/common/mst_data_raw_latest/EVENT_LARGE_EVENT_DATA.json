@@ -548,5 +548,27 @@
     "tipsFilepath02": "Texture2D/Tutorial_Window/Event_Map/004/tutorial_eventmap_004_02",
     "tipsFilepath03": "Texture2D/Tutorial_Window/Event_Map/004/tutorial_eventmap_004_03",
     "tipsFilepath04": ""
+  },
+  {
+    "bgmFilepath": "prd_bgm0090",
+    "changemapFilepath01": "Texture2D/EventMap/event_map_7308",
+    "changemapFilepath02": "Texture2D/EventMap/event_map_7308",
+    "changemapFilepath03": "Texture2D/EventMap/event_map_7308",
+    "changemapQuest01": 10010101,
+    "changemapQuest02": 10010101,
+    "eventId": 387,
+    "mapFilepath": "Gui/QuestMap/GUI_Map_Event_0027",
+    "mapMoveX": 1,
+    "mapMoveY": 1,
+    "mapOffsetX": -100,
+    "mapOffsetY": 0,
+    "mapRangeHeight": 560,
+    "mapRangeOriginX": 0,
+    "mapRangeOriginY": 0,
+    "mapRangeWidth": 1000,
+    "tipsFilepath01": "Texture2D/Tutorial_Window/Event_Map/004/tutorial_eventmap_004_01",
+    "tipsFilepath02": "Texture2D/Tutorial_Window/Event_Map/004/tutorial_eventmap_004_02",
+    "tipsFilepath03": "Texture2D/Tutorial_Window/Event_Map/004/tutorial_eventmap_004_03",
+    "tipsFilepath04": ""
   }
 ]

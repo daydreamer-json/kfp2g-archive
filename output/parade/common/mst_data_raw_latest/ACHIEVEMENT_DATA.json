@@ -8082,6 +8082,24 @@
     "startTime": 1778734800000
   },
   {
+    "achievementBg": "achievement_bg_03",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0572",
+    "achievementName": "ゴールデンライオンタマリン",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ゴールデンライオンタマリン入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700572,
+    "infoGettext": "ゴールデンライオンタマリンを\nしょうたいすると入手可能",
+    "name": "ゴールデンライオンタマリン入隊！",
+    "rarity": 1,
+    "sortId": 1143,
+    "stackMax": 1,
+    "startTime": 1781154000000
+  },
+  {
     "achievementBg": "achievement_bg_v2_relax",
     "achievementFrame": "achievement_v2_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0575",
@@ -16200,6 +16218,24 @@
     "startTime": 1778734800000
   },
   {
+    "achievementBg": "achievement_bg_kizuna_03",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0572",
+    "achievementName": "みんなのあこがれのゴラリン",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ゴールデンライオンタマリンのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710572,
+    "infoGettext": "ゴールデンライオンタマリンの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "みんなのあこがれのゴラリン",
+    "rarity": 1,
+    "sortId": 1144,
+    "stackMax": 1,
+    "startTime": 1781154000000
+  },
+  {
     "achievementBg": "achievement_bg_kizuna_04",
     "achievementFrame": "",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0575",
@@ -16594,6 +16630,24 @@
     "sortId": 30020,
     "stackMax": 1,
     "startTime": 1778734800000
+  },
+  {
+    "achievementBg": "achievement_bg_event_36",
+    "achievementFrame": "",
+    "achievementIcon": "",
+    "achievementName": "？？？",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "シナリオイベント「かがやけリクホク☆ひゅ～どろの段！？」の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 730021,
+    "infoGettext": "シナリオイベント「かがやけリクホク☆ひゅ～どろの段！？」の\nミッション「イベントストーリー10話をクリア」を達成",
+    "name": "？？？",
+    "rarity": 1,
+    "sortId": 30021,
+    "stackMax": 1,
+    "startTime": 1781154000000
   },
   {
     "achievementBg": "achievement_bg_event_01",

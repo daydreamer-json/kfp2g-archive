@@ -5150,5 +5150,19 @@
     "retireReturnStaminaratio": 100,
     "topCharaComment": "",
     "weatherType": 0
+  },
+  {
+    "category": 5,
+    "chapterId": 7308,
+    "chapterName": "",
+    "chapterTitle": "かがやけリクホク☆ひゅ～どろの段！？",
+    "endType": 0,
+    "hardChapterId": 0,
+    "loseReturnStaminaratio": 100,
+    "mapPath": "MainStory_01",
+    "markerType": 1,
+    "retireReturnStaminaratio": 100,
+    "topCharaComment": "",
+    "weatherType": 0
   }
 ]

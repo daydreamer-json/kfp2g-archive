@@ -1,0 +1,5 @@
+Target=Android
+UnityVersion=2022.3.67f2
+Date=2026/06/11 12:43:17
+DataVersion=1.0.0
+Revision=

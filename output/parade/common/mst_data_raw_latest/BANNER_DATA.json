@@ -19820,7 +19820,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 9,
+    "priority": 7,
     "startTime": 1780239600000
   },
   {
@@ -19832,7 +19832,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 8,
+    "priority": 6,
     "startTime": 1780239600000
   },
   {
@@ -19868,7 +19868,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 2,
+    "priority": 4,
     "startTime": 1780722000000
   },
   {
@@ -19880,7 +19880,7 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 1,
+    "priority": 3,
     "startTime": 1780981200000
   },
   {
@@ -19892,8 +19892,32 @@
     "linkType": 2,
     "linkValue": 0,
     "platform": 0,
-    "priority": 10,
+    "priority": 8,
     "startTime": 1780549200000
+  },
+  {
+    "bannerName": "wwZYgYNV8i-oMmEA",
+    "bannerText": "7/2(木)14:00まで",
+    "endTime": 1782968400000,
+    "id": 1699,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014172VtrGaa4i.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 2,
+    "startTime": 1781154000000
+  },
+  {
+    "bannerName": "wwZYhYqyouJmbtHD",
+    "bannerText": "6/23(火)14:00まで",
+    "endTime": 1782190800000,
+    "id": 1700,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014173kp7JACCe.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 1,
+    "startTime": 1781586000000
   },
   {
     "bannerName": "2XXYEJxCF4kDHt",
@@ -23398,6 +23422,18 @@
     "platform": 0,
     "priority": 7,
     "startTime": 1779944400000
+  },
+  {
+    "bannerName": "20Xf3JOkoLTI8O",
+    "bannerText": "7/2(木)14:00まで",
+    "endTime": 1782968400000,
+    "id": 7308,
+    "linkAdress": "https://kemono-friends-3.jp/webview/game/webinfo/detail/014176CPipKbeG.html",
+    "linkType": 2,
+    "linkValue": 0,
+    "platform": 0,
+    "priority": 5,
+    "startTime": 1781154000000
   },
   {
     "bannerName": "wXYfElK-zC6Ksy",

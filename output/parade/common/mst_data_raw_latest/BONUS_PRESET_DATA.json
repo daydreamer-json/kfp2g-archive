@@ -2898,6 +2898,20 @@
     "totalFlg": 0
   },
   {
+    "bannerName": "Texture2D/LoginBonus/loginbonus_bg_1115",
+    "bonusId": 208,
+    "bonusLoopFlg": 0,
+    "bonusName": "かがやけリクホク☆ひゅ～どろの段！？ログインボーナス",
+    "bonusType": 3,
+    "charaId": 1,
+    "charaMessage": "",
+    "displayType": 3,
+    "endDatetime": 1782917999000,
+    "lastPlayDay": 0,
+    "startDatetime": 1781154000000,
+    "totalFlg": 0
+  },
+  {
     "bannerName": "Texture2D/LoginBonus/loginbonus_bg_500",
     "bonusId": 500,
     "bonusLoopFlg": 0,

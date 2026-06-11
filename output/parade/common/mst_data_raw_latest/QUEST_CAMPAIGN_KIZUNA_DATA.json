@@ -400,5 +400,11 @@
     "endTime": 1778130000000,
     "ratio": 10000,
     "startTime": 1776315600000
+  },
+  {
+    "campaignId": 68,
+    "endTime": 1782968400000,
+    "ratio": 10000,
+    "startTime": 1781154000000
   }
 ]
