@@ -35,7 +35,7 @@
       },
       {
         "type": "MAINTENANCE_DATA",
-        "version": "1ec8126be5a1d48d4425a67e473a3bf2"
+        "version": "3d27d225e739450b6ae27559f2fb74f8"
       },
       {
         "type": "CHARA_KIZUNA_LEVEL_DATA",
@@ -643,8 +643,8 @@
       }
     ],
     "res_code": 0,
-    "server_time": 1781170257280,
+    "server_time": 1781752256383,
     "target_server_type": null,
-    "transaction_id": "FE-002-00D19A"
+    "transaction_id": "E5-001-00A2A9"
   }
 }
