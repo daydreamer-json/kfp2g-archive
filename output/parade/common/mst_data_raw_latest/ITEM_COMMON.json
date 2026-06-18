@@ -6672,6 +6672,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "想いから生まれた不思議な鉱物\nダイイヌガミギョウブのけも級アップに使用します",
+    "iconName": "icon_item_10580",
+    "id": 10580,
+    "name": "小さなダイイヌガミギョウブの輝石",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nドールのフォトポケット解放に使用します",
     "iconName": "icon_item_11001",
     "id": 11001,
@@ -13336,6 +13348,18 @@
     "iconName": "icon_item_11576",
     "id": 11576,
     "name": "【華麗に舞いま～す！】サラブレッドしろげの輝石",
+    "noSaleFlg": 1,
+    "rarity": 5,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
+    "flavorText": "フレンズの強い想いから生まれた不思議な鉱物\nダイイヌガミギョウブのフォトポケット解放に使用します",
+    "iconName": "icon_item_11580",
+    "id": 11580,
+    "name": "ダイイヌガミギョウブの輝石",
     "noSaleFlg": 1,
     "rarity": 5,
     "salePrice": 0,
@@ -21876,6 +21900,18 @@
     "unitName": "個"
   },
   {
+    "flavorText": "秘めた野性を解き放つ秘密の小瓶\nダイイヌガミギョウブの野生解放の強化に使用します",
+    "iconName": "icon_item_16580",
+    "id": 16580,
+    "name": "ダイイヌガミギョウブの小瓶",
+    "noSaleFlg": 0,
+    "rarity": 5,
+    "salePrice": 10,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "個"
+  },
+  {
     "flavorText": "ぎっしり書かれた、指揮のヒケツ！\n隊長スキルの強化に使用します",
     "iconName": "icon_item_17001",
     "id": 17001,
@@ -30058,6 +30094,18 @@
     "stackMax": 9999999,
     "tabCategory": 0,
     "unitName": "個"
+  },
+  {
+    "flavorText": "パッションな気持ちがあふれたチケット\n特定クエストで使用します",
+    "iconName": "icon_item_30109",
+    "id": 33179,
+    "name": "ルビーチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
   },
   {
     "flavorText": "特定のクエストをスキップできます",
@@ -49357,6 +49405,30 @@
   },
   {
     "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100039",
+    "id": 101605,
+    "name": "とくべつ復刻SPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101606",
+    "id": 101606,
+    "name": "ダイイヌガミギョウブSPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
     "iconName": "icon_item_100023",
     "id": 101607,
     "name": "シナリオイベント☆４フレンズしょうたい券",
@@ -49416,6 +49488,18 @@
     "unitName": "枚"
   },
   {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_101299",
+    "id": 101612,
+    "name": "山本五郎左衛門復刻SPしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
     "flavorText": "イベントショップで使用できます",
     "iconName": "icon_item_100020",
     "id": 101616,
@@ -49444,6 +49528,42 @@
     "iconName": "icon_item_100055",
     "id": 101621,
     "name": "サルフレンズショップしょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "対応するしょうたい（ガチャ）で使用できます",
+    "iconName": "icon_item_100070",
+    "id": 101626,
+    "name": "隊長さん応援5回しょうたい券",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100361",
+    "id": 101627,
+    "name": "隊長さん応援ショップしょうたいチケット",
+    "noSaleFlg": 1,
+    "rarity": 4,
+    "salePrice": 0,
+    "stackMax": 9999999,
+    "tabCategory": 0,
+    "unitName": "枚"
+  },
+  {
+    "flavorText": "イベントショップで使用できます",
+    "iconName": "icon_item_100030",
+    "id": 101628,
+    "name": "妖怪フレンズショップしょうたい券",
     "noSaleFlg": 1,
     "rarity": 4,
     "salePrice": 0,

@@ -288,6 +288,32 @@
   {
     "bgTextureName": "card_sticker_bg_0000",
     "bonusWeight": 1,
+    "flavorText": "ヌエのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810009",
+    "id": 810009,
+    "name": "ヌエのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1782018000000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "ライリュウのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810010",
+    "id": 810010,
+    "name": "ライリュウのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1782018000000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
     "flavorText": "キラキラのシールです",
     "hideFlag": 0,
     "iconName": "icon_Sticker_820001",

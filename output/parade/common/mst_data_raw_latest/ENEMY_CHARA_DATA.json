@@ -3906,5 +3906,17 @@
   {
     "attribute": 5,
     "enemyCharaId": 21972
+  },
+  {
+    "attribute": 1,
+    "enemyCharaId": 21980
+  },
+  {
+    "attribute": 4,
+    "enemyCharaId": 21990
+  },
+  {
+    "attribute": 6,
+    "enemyCharaId": 22000
   }
 ]

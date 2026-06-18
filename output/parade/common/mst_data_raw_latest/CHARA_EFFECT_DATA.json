@@ -34,5 +34,11 @@
     "effectType": 4,
     "id": 6,
     "searchTarget": "_0516_a"
+  },
+  {
+    "effectName": "Ef_info_516_tail",
+    "effectType": 4,
+    "id": 7,
+    "searchTarget": "_22000"
   }
 ]
