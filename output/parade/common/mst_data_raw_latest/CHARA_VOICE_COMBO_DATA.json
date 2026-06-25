@@ -27244,6 +27244,118 @@
     "situationType": 4
   },
   {
+    "firstCharaId": 499,
+    "firstVoiceId": "send_0500_01",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0499_01",
+    "situationType": 1
+  },
+  {
+    "firstCharaId": 499,
+    "firstVoiceId": "send_0500_02",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0499_02",
+    "situationType": 2
+  },
+  {
+    "firstCharaId": 499,
+    "firstVoiceId": "send_0500_03",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0499_03",
+    "situationType": 3
+  },
+  {
+    "firstCharaId": 499,
+    "firstVoiceId": "send_0500_04",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0499_04",
+    "situationType": 4
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0499_01",
+    "secondCharaId": 499,
+    "secondVoiceId": "coop_0500_01",
+    "situationType": 1
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0499_02",
+    "secondCharaId": 499,
+    "secondVoiceId": "coop_0500_02",
+    "situationType": 2
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0499_03",
+    "secondCharaId": 499,
+    "secondVoiceId": "coop_0500_03",
+    "situationType": 3
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0499_04",
+    "secondCharaId": 499,
+    "secondVoiceId": "coop_0500_04",
+    "situationType": 4
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0501_01",
+    "secondCharaId": 501,
+    "secondVoiceId": "coop_0500_01",
+    "situationType": 1
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0501_02",
+    "secondCharaId": 501,
+    "secondVoiceId": "coop_0500_02",
+    "situationType": 2
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0501_03",
+    "secondCharaId": 501,
+    "secondVoiceId": "coop_0500_03",
+    "situationType": 3
+  },
+  {
+    "firstCharaId": 500,
+    "firstVoiceId": "send_0501_04",
+    "secondCharaId": 501,
+    "secondVoiceId": "coop_0500_04",
+    "situationType": 4
+  },
+  {
+    "firstCharaId": 501,
+    "firstVoiceId": "send_0500_01",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0501_01",
+    "situationType": 1
+  },
+  {
+    "firstCharaId": 501,
+    "firstVoiceId": "send_0500_02",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0501_02",
+    "situationType": 2
+  },
+  {
+    "firstCharaId": 501,
+    "firstVoiceId": "send_0500_03",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0501_03",
+    "situationType": 3
+  },
+  {
+    "firstCharaId": 501,
+    "firstVoiceId": "send_0500_04",
+    "secondCharaId": 500,
+    "secondVoiceId": "coop_0501_04",
+    "situationType": 4
+  },
+  {
     "firstCharaId": 503,
     "firstVoiceId": "send_0504_01",
     "secondCharaId": 504,

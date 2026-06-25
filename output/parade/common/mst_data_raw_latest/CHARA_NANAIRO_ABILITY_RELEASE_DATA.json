@@ -11162,9 +11162,9 @@
   {
     "charaId": 500,
     "itemId00": 13120,
-    "itemId01": 14079,
-    "itemId02": 14084,
-    "itemId03": 14090,
+    "itemId01": 14087,
+    "itemId02": 14076,
+    "itemId03": 14085,
     "itemNum00": 10,
     "itemNum01": 3,
     "itemNum02": 3,
@@ -11172,9 +11172,9 @@
     "startTime": 4102412400000,
     "useItemIds": [
       13120,
-      14079,
-      14084,
-      14090
+      14087,
+      14076,
+      14085
     ],
     "useItemNums": [
       10,

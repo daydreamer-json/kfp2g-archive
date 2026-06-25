@@ -7616,6 +7616,20 @@
     "evalValue04": 0
   },
   {
+    "evalId": 3500,
+    "evalKey00": 7,
+    "evalKey01": 0,
+    "evalKey02": 0,
+    "evalKey03": 0,
+    "evalKey04": 0,
+    "evalName": "ガラパゴスコバネウを編成してクリア",
+    "evalValue00": 500,
+    "evalValue01": 0,
+    "evalValue02": 0,
+    "evalValue03": 0,
+    "evalValue04": 0
+  },
+  {
     "evalId": 3501,
     "evalKey00": 7,
     "evalKey01": 0,

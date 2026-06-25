@@ -7128,6 +7128,24 @@
     "startTime": 1779339600000
   },
   {
+    "achievementBg": "achievement_bg_01",
+    "achievementFrame": "achievement_title_01",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0500",
+    "achievementName": "ガラパゴスコバネウ",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ガラパゴスコバネウ入隊の称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 700500,
+    "infoGettext": "ガラパゴスコバネウを\nしょうたいすると入手可能",
+    "name": "ガラパゴスコバネウ入隊！",
+    "rarity": 1,
+    "sortId": 999,
+    "stackMax": 1,
+    "startTime": 1782363600000
+  },
+  {
     "achievementBg": "achievement_bg_06",
     "achievementFrame": "achievement_title_01",
     "achievementIcon": "Icon_Chara/Chara/icon_chara_0501",
@@ -15280,6 +15298,24 @@
     "sortId": 998,
     "stackMax": 1,
     "startTime": 1779339600000
+  },
+  {
+    "achievementBg": "achievement_bg_kizuna_01",
+    "achievementFrame": "",
+    "achievementIcon": "Icon_Chara/Chara/icon_chara_0500",
+    "achievementName": "パークの流行教えてー！",
+    "duplicateItemId": 30130,
+    "duplicateItemNum": 1,
+    "flavorText": "ガラパゴスコバネウのなかよし称号です",
+    "hideFlag": 0,
+    "iconName": "icon_item_700001",
+    "id": 710500,
+    "infoGettext": "ガラパゴスコバネウの\nなかよしレベルを10まで強化すると入手可能",
+    "name": "パークの流行教えてー！",
+    "rarity": 1,
+    "sortId": 1000,
+    "stackMax": 1,
+    "startTime": 1782363600000
   },
   {
     "achievementBg": "achievement_bg_kizuna_06",
