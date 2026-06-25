@@ -16916,5 +16916,656 @@
       "target_server_type": null,
       "transaction_id": "69-001-000513"
     }
+  },
+  {
+    "updatedAt": "2026-06-25T02:05:58.939+00:00",
+    "req": {},
+    "rsp": {
+      "botcmd": null,
+      "client_wait": 0,
+      "error_code": null,
+      "mst_ver": [
+        {
+          "type": "MASTER_ROOM_ACTION_DATA",
+          "version": "86275e85ac982fe9380f1135180f7b44"
+        },
+        {
+          "type": "GACHA_DISC_DATA",
+          "version": "c21507fbd1aca1ca190c4d35123e8550"
+        },
+        {
+          "type": "PVP_RANK_DATA",
+          "version": "ec1cffd8d027c7d83aed25de3442c903"
+        },
+        {
+          "type": "TRAINING_DAYOFWEEK_DATA",
+          "version": "45dc6c099eae8d2bc8a4a743e7d4b172"
+        },
+        {
+          "type": "ACHIEVEMENT_DATA",
+          "version": "49d28d357149c092dac6f69c6e1c7b75"
+        },
+        {
+          "type": "EVENT_MISSION_DATA",
+          "version": "cd5211417f4618a507dde437845400d2"
+        },
+        {
+          "type": "CHARA_FILTER_DATA",
+          "version": "7b3669c54da8a40b8ce8b3e1e542b756"
+        },
+        {
+          "type": "MAINTENANCE_DATA",
+          "version": "430dd7055b45333766018c28859d5abc"
+        },
+        {
+          "type": "CHARA_KIZUNA_LEVEL_DATA",
+          "version": "54b72d0e9d6375b50d470fcfa646ed56"
+        },
+        {
+          "type": "PVP_SEASON_DATA",
+          "version": "3be8bebd3da7af1c593f38ddde734b6e"
+        },
+        {
+          "type": "CHARA_DATA",
+          "version": "9ab2286626f6e8e4b768bbb3a52214eb"
+        },
+        {
+          "type": "COOP_RAID_DRAW_DATA",
+          "version": "884634cef52ed2904ec9012a47bb709f"
+        },
+        {
+          "type": "HOME_FURNITURE_COUNT_DATA",
+          "version": "1171ad296c245dbb77c46db75731807f"
+        },
+        {
+          "type": "PHOTO_LOT_CAMPAIGN_DATA",
+          "version": "5fc8d583bee73b727751960f03a36fdc"
+        },
+        {
+          "type": "EVENT_GROWTH_DATA",
+          "version": "e67430b97426b82fa306308b6381a451"
+        },
+        {
+          "type": "QUEST_QUEST_QUESTGROUP_DATA",
+          "version": "7c0d6ac624901090a557803542ed12fd"
+        },
+        {
+          "type": "EVENT_DATA",
+          "version": "ca83044a2e963697aa086fe7be6b106a"
+        },
+        {
+          "type": "MONTHLYPACK_CONTINUE_DATA",
+          "version": "c653065aff9578866ec310687bf83b24"
+        },
+        {
+          "type": "CHARA_KIZUNA_BUFF_DATA",
+          "version": "5263f7d2ee961a49a5e1fb59b6c65902"
+        },
+        {
+          "type": "CHARA_MISSION_DATA",
+          "version": "88efde84086283ed89362fd487ebb28a"
+        },
+        {
+          "type": "DEBUG_ACCOUNT_DATA",
+          "version": "801ef49d1316e993cd2f72260b11e5f7"
+        },
+        {
+          "type": "MASTER_SKILL_LEVEL_DATA",
+          "version": "5ea495d3e654cda716d6cbfa912ccf2a"
+        },
+        {
+          "type": "NOAH_CPE_PARAMETER_BASE",
+          "version": "1a7540550914a94eef2a70d897f61119"
+        },
+        {
+          "type": "CHARA_LOT_CAMPAIGN_DATA",
+          "version": "a78fec0d6c49e6cd4efa472ad5b093b6"
+        },
+        {
+          "type": "ITEM_COMMON",
+          "version": "c82a86ebe4a1178666925c3bbfc07b88"
+        },
+        {
+          "type": "SHOP_CHARA_STATUS_DATA",
+          "version": "24d0a027ba0f276ca66203026eecc338"
+        },
+        {
+          "type": "PVP_DATA",
+          "version": "7609746e27d406d654a489b125d81197"
+        },
+        {
+          "type": "BONUS_PRESET_DATA",
+          "version": "fb1bd888b6cd453262da5883a2780cee"
+        },
+        {
+          "type": "QUEST_ENEMYFRIENDS_DATA",
+          "version": "ffa8c3df2fc24a8ed597613c44273f70"
+        },
+        {
+          "type": "STAMINA_RECOVERY_CAMPAIGN_TIME_DATA",
+          "version": "ab6fb9baa5444731fef8b4be2516b533"
+        },
+        {
+          "type": "KIZUNA_REWARD_DATA",
+          "version": "062aa188337d2d8d1e316ac4c7c5be67"
+        },
+        {
+          "type": "QUEST_ENEMIES_DATA",
+          "version": "236a7e7af95cf03e75db2c310e4f937f"
+        },
+        {
+          "type": "SHOP_DATA",
+          "version": "2c3616647caf176e8472c79b742d7647"
+        },
+        {
+          "type": "EVENT_COOP_CONDITION_DATA",
+          "version": "b22f3f5c6060b7f51d6f3b96ba277fb3"
+        },
+        {
+          "type": "SPECIALTEXT_DECODE_DATA",
+          "version": "012a9c1ebbd937d1d579ded1143c09cc"
+        },
+        {
+          "type": "EVENT_BONUS_CHARA_DATA",
+          "version": "52fef5638d3a956e86252f693b920e9a"
+        },
+        {
+          "type": "QUEST_CAMPAIGN_ITEM_DATA",
+          "version": "e5a149e62b75b714b597dc1b2d4795ff"
+        },
+        {
+          "type": "STICKER_DATA",
+          "version": "ac13d0aab126a7e66be52436ec86493a"
+        },
+        {
+          "type": "EVENT_BANNER_DATA",
+          "version": "a0b428c4118934f10e461699416ff9ca"
+        },
+        {
+          "type": "TRAINING_REWARD_DATA",
+          "version": "5f6fac52244731c4682add995ee6124b"
+        },
+        {
+          "type": "GACHA_ITEM_DATA",
+          "version": "8647a404fc09fdb5967d5b91cdf0d020"
+        },
+        {
+          "type": "PICNIC_CAMPAIGN_DATA",
+          "version": "f67eb8bbfb875bb12de208a79e44795e"
+        },
+        {
+          "type": "EVENT_LARGE_EVENT_DATA",
+          "version": "282f8c71e9b67f3640e558ad53b60a05"
+        },
+        {
+          "type": "PICNIC_DATA",
+          "version": "368aef0e30b50898fbb5da3fbd93595b"
+        },
+        {
+          "type": "CHARA_NANAIRO_ABILITY_RELEASE_DATA",
+          "version": "e4df0d0025ab923c093f69d94ee47a36"
+        },
+        {
+          "type": "CHARA_LEVEL_ITEM_DATA",
+          "version": "ce4e1161337481381594798d880881af"
+        },
+        {
+          "type": "ENEMY_CHARA_DATA",
+          "version": "28ba0595a1aa893053d84590f8b62dab"
+        },
+        {
+          "type": "CHARA_MOTION_ITEM_DATA",
+          "version": "99c51c6ca820b553ef0c856e9aead770"
+        },
+        {
+          "type": "TRAINING_PRACTICE_TRIAL_DATA",
+          "version": "22f68a276f5e585f8aead789116462ed"
+        },
+        {
+          "type": "GACHA_KIND_DATA",
+          "version": "fa630038fa1053c8bfb0e99d95c2e733"
+        },
+        {
+          "type": "QUEST_COMP_DATA",
+          "version": "7c5b985adb7d3810c87bcd2e187b0fd5"
+        },
+        {
+          "type": "NPC_DATA",
+          "version": "cf3004f53ff86549ccff7bc498b9a049"
+        },
+        {
+          "type": "LEVEL_DATA",
+          "version": "fb63ad729bddb6fde5f7995c55c52e9e"
+        },
+        {
+          "type": "PVP_WIN_BONUS_DATA",
+          "version": "b688f51380d872b8e27bea6a58fd2b49"
+        },
+        {
+          "type": "HOME_BGM_PLAYBACK_DATA",
+          "version": "9390bcd06727942a2109f2b750153cc5"
+        },
+        {
+          "type": "PICNIC_PLAY_ITEM_DATA",
+          "version": "ceb54552904050c4af2ade1d354e5318"
+        },
+        {
+          "type": "MASTER_SKILL_DATA",
+          "version": "e72591ce1101364728362f027055f38e"
+        },
+        {
+          "type": "CHARA_CLOTHES_DATA",
+          "version": "045734da26c6935e7f790e3b92f35617"
+        },
+        {
+          "type": "ADVERTISE_BANNER_DATA",
+          "version": "d85d2dd678c2601c1df4b3bc1fb953f3"
+        },
+        {
+          "type": "EVENT_PERIOD_DATA",
+          "version": "69cfc82d81642b0236b6b8bf41fc4b13"
+        },
+        {
+          "type": "PVP_CAMPAIGN_COIN_DATA",
+          "version": "7c831f87a10e30f35462623e4b212b29"
+        },
+        {
+          "type": "CHARA_VOICE_COMBO_DATA",
+          "version": "67abeaed9082c4be5f2cd5d889c6e397"
+        },
+        {
+          "type": "PURCHASE_PRODUCT",
+          "version": "0c65fcc51ef6eced06e476d2ada52a1c"
+        },
+        {
+          "type": "QUEST_CAMPAIGN_KIZUNAMAP",
+          "version": "f4d22b68407f938ae7881975247ae8f1"
+        },
+        {
+          "type": "ASSISTANT_DATA",
+          "version": "c9757014924b0006bee76c5d39c32bfc"
+        },
+        {
+          "type": "CHARA_PP_DATA",
+          "version": "1633bcde04547de21142955b27ce59dd"
+        },
+        {
+          "type": "ITEM_LOTTERY",
+          "version": "414ba7adf14059b4d58d34582db8f95a"
+        },
+        {
+          "type": "ACCESSORY_RARITY_DATA",
+          "version": "603f9b792c42cd299c165bb4d3208675"
+        },
+        {
+          "type": "QUEST_PHOTO_DROP_ITEM_DATA",
+          "version": "60590d9b10f4b700d2c1a4f33b3c1999"
+        },
+        {
+          "type": "GACHA_TYPE_DATA",
+          "version": "df297fca3a31eab4edfb86c80592d5bf"
+        },
+        {
+          "type": "TRAINING_SEASON_DATA",
+          "version": "1eeb8f7c69d732e7466b9b4805f9ecb8"
+        },
+        {
+          "type": "ITEM_LOTTERY_LINEUP",
+          "version": "fa39a366dac106e4a7163e598c9ce205"
+        },
+        {
+          "type": "QUEST_CAMPAIGN_KIZUNA_DATA",
+          "version": "234eae17f4ae482e23bc721d183a88f5"
+        },
+        {
+          "type": "QUEST_ENEMY_DATA",
+          "version": "1675e48c5b225beace87719c0b66d0d9"
+        },
+        {
+          "type": "CHARA_EFFECT_DATA",
+          "version": "c28555e3fa4be88b8fd249b8b7e79bd6"
+        },
+        {
+          "type": "QUEST_CAMPAIGN_ITEMMAP",
+          "version": "6440565cfefbf3e580e8f2089ae5b459"
+        },
+        {
+          "type": "PICNIC_PLAY_TYPE_DATA",
+          "version": "10a6a1e2e354962c932d30ca2b70bd1a"
+        },
+        {
+          "type": "TRAINING_RANKPOINT_DATA",
+          "version": "f50655e2e03bc38a5837bf4a5151b42d"
+        },
+        {
+          "type": "ITEM_RECOVERY",
+          "version": "0e9d26e555be4d8607f1192a0d3663bf"
+        },
+        {
+          "type": "MASTER_SKILL_LEVEL_ITEM",
+          "version": "a4b6e0fd1c88bfddb8fb2b33dceb7bc1"
+        },
+        {
+          "type": "GACHA_PICKUP_DATA",
+          "version": "13a9d69199b9c30dea998128ae99aaf5"
+        },
+        {
+          "type": "PVP_OPP_EXT_DATA",
+          "version": "fa4c8fcef6005939e154a019a5af39f3"
+        },
+        {
+          "type": "PVP_DEFENSE_DATA",
+          "version": "835c291c4ffbf491ad5c773e6245e660"
+        },
+        {
+          "type": "PHOTO_CHARACTERISTIC_DATA",
+          "version": "a1f173b475a5f190484cdd2e93cea031"
+        },
+        {
+          "type": "GACHA_RARITY_DATA",
+          "version": "3dafe96b1b64144f02dab87d0fc306de"
+        },
+        {
+          "type": "CHARA_RANK_DATA",
+          "version": "4869e4d2e2b22525fdc7a3ffa24f555c"
+        },
+        {
+          "type": "QUEST_QUESTDROP_ITEM_DATA",
+          "version": "283a2b904b9c1e74eae6d6706dca24ca"
+        },
+        {
+          "type": "PHOTO_LEVEL_DATA",
+          "version": "ddadb10e0a792929a475cc834b5e426b"
+        },
+        {
+          "type": "ITEM_BONUS_DATA",
+          "version": "7ae43caa60f97067855d4fee64f97146"
+        },
+        {
+          "type": "CHARA_LEVEL_DATA",
+          "version": "0c955fc5b273b906462e8c683a8a8898"
+        },
+        {
+          "type": "EVENT_IMAGE_DATA",
+          "version": "be4b7f56316d39025f64304be0a1d63f"
+        },
+        {
+          "type": "KICK_OUT_DATA",
+          "version": "24d0a027ba0f276ca66203026eecc338"
+        },
+        {
+          "type": "HOME_PLACEMENT_DATA",
+          "version": "a0a260a60a2b8d8af293450a8ee6a914"
+        },
+        {
+          "type": "ITEM_PRESET",
+          "version": "ad5d02dff7fddcdfe1af2b4e015e4e52"
+        },
+        {
+          "type": "PVP_TURN_BONUS_DATA",
+          "version": "ab6cfca02575dea0ea6c53d1be1b0b74"
+        },
+        {
+          "type": "EVENT_COOP_HARD_QUEST_DATA",
+          "version": "972e71f542a1645392708872638ea625"
+        },
+        {
+          "type": "MASTER_ROOM_FUEL_DATA",
+          "version": "c862202f93f9b8c28501955920617c4e"
+        },
+        {
+          "type": "MASTER_ROOM_STAMINA_BONUS",
+          "version": "1a0659d0e2887551882d9d002f7ec583"
+        },
+        {
+          "type": "QUEST_CHAPTER_DATA",
+          "version": "4b93c2899e045721211f79b2a0f59592"
+        },
+        {
+          "type": "CHARA_KIZUNA_LOT_CAMPAIGN_DATA",
+          "version": "20e9f509077755da65d9f6d762b14d19"
+        },
+        {
+          "type": "CHARA_GROUP_DATA",
+          "version": "effc03964ad37a382865b47cedccaa52"
+        },
+        {
+          "type": "CHARA_PROMOTE_DATA",
+          "version": "7430349448ff3194a91d4f8475d492ac"
+        },
+        {
+          "type": "QUEST_DRAW_ITEM_DATA",
+          "version": "a6ad2c6c1d07675e00600e123a629903"
+        },
+        {
+          "type": "PURCHASE_MONTHLYPACK_DATA",
+          "version": "082d1d535dd09c5346dd7bba28ed970a"
+        },
+        {
+          "type": "RANDOM_SCENARIO_LOGIN",
+          "version": "190d917bd6aa7cf16c1cebaa9264a191"
+        },
+        {
+          "type": "CHARA_LIMITLEVEL_DATA",
+          "version": "120c9233cdee661201a7baefe3f28607"
+        },
+        {
+          "type": "QUEST_MODE_OPEN_DATA",
+          "version": "bda8a59d67224b8dcd1bc1c80f824031"
+        },
+        {
+          "type": "PICNIC_FOOD_DATA",
+          "version": "599e77938b7234589cc6ea17f3532d3f"
+        },
+        {
+          "type": "QUEST_EVAL_SET_DATA",
+          "version": "024b2280c1e1a693e2027be3be6833cb"
+        },
+        {
+          "type": "QUEST_RULE_DATA",
+          "version": "24d0a027ba0f276ca66203026eecc338"
+        },
+        {
+          "type": "BANNER_DATA",
+          "version": "343331c0a40c6356ff8b1583f88cb5db"
+        },
+        {
+          "type": "KEMOBOARD_AREA_DATA",
+          "version": "ce986258ff4fc270d8eea838771f9d36"
+        },
+        {
+          "type": "HELP_DATA",
+          "version": "15bc80b57f92811db98d6e9d49582c2e"
+        },
+        {
+          "type": "MISSION_DATA",
+          "version": "cc8470cf1f560fd296c00cf7daa87dfd"
+        },
+        {
+          "type": "CHARA_PROMOTE_PRESET_DATA",
+          "version": "4e3e5badf043a2a2dee0d14885917095"
+        },
+        {
+          "type": "MONTHLYPACK_MESSAGE_DATA",
+          "version": "170560f32333e33dcb1d12c1241c8d22"
+        },
+        {
+          "type": "QUEST_QUESTONE_DATA",
+          "version": "79e38e03796e3344d8a27d5ddbb06a1c"
+        },
+        {
+          "type": "FRIEND_POINT_DATA",
+          "version": "2f43a9d79fc03ee1bfee022e2841cb84"
+        },
+        {
+          "type": "PICNIC_GETTIME_DATA",
+          "version": "4ed5f8ce972e101e2a7bfcf656868ae7"
+        },
+        {
+          "type": "PHOTO_GROWBONUS_DATA",
+          "version": "c70de0c9dad4af6c24ee255666714d18"
+        },
+        {
+          "type": "TIPS_DATA",
+          "version": "ec78020092cfb579bd13258842ebe32a"
+        },
+        {
+          "type": "CHARA_KIZUNA_REWARD_DATA",
+          "version": "59ff9e95db48265e84b00817723c91f5"
+        },
+        {
+          "type": "SHOP_ITEM_DATA",
+          "version": "a8030e5e037fe8a317371d6e04f520be"
+        },
+        {
+          "type": "QUEST_REWARDGROUP_DATA",
+          "version": "f59377e6dd943f3c82500e7b87bf6af2"
+        },
+        {
+          "type": "CHARA_ARTS_DATA",
+          "version": "2b2110649c96525278f9ae67089746f4"
+        },
+        {
+          "type": "PHOTO_RARITY_DATA",
+          "version": "4bfa4a1a44056c7152377aea57a5f0fa"
+        },
+        {
+          "type": "FRIEND_SELECT_DATA",
+          "version": "263f4910cdb33868f2e0f45d87c123bc"
+        },
+        {
+          "type": "PVP_OPP_SET_DATA",
+          "version": "3fad5a688f94c6211823619679427571"
+        },
+        {
+          "type": "PHOTO_DATA",
+          "version": "e12cb6d594b87707f573250644b78898"
+        },
+        {
+          "type": "PLATFORM_STATUS_DATA",
+          "version": "24069c2cb6a19ccb5dfaa1af6ed57cfe"
+        },
+        {
+          "type": "GACHA_DATA",
+          "version": "afc4d751cc53d6d480ba79a51b1ff708"
+        },
+        {
+          "type": "QUEST_CAMPAIGN_STAMINA_DATA",
+          "version": "4d635ed8bdcb12b98371d66c9a56e0b6"
+        },
+        {
+          "type": "HOME_FURNITURE_DATA",
+          "version": "d224e6e22fc56ef3ec5daf2be336a988"
+        },
+        {
+          "type": "QUEST_WAVE_DATA",
+          "version": "209b5797d81a08e38f42e92f932d742c"
+        },
+        {
+          "type": "MASTER_ROOM_MACHINE_DATA",
+          "version": "887bd7b681007f2d5aa0c5b0ccbef32c"
+        },
+        {
+          "type": "SCENARIO_LOGIN",
+          "version": "5dabbe91d6eb12124deebfcd076ef754"
+        },
+        {
+          "type": "QUEST_TEXTINFO_DATA",
+          "version": "24d0a027ba0f276ca66203026eecc338"
+        },
+        {
+          "type": "COND_COMP_DATA",
+          "version": "ae45c4f21c0a2a0f16eb993b4c7ec1be"
+        },
+        {
+          "type": "MOVIE_DATA",
+          "version": "1c3c3c4b0b0391edbf099776aa1cad18"
+        },
+        {
+          "type": "PVPSPECIAL_DATA",
+          "version": "d812e8ee4f279515c7b49278173cfaf8"
+        },
+        {
+          "type": "ACCESSORY_DATA",
+          "version": "9c697cabd7da4ccdf12200700a5b14f1"
+        },
+        {
+          "type": "APP_CONFIG",
+          "version": "85157b87591b0264bd4bd8ce2cdfe0f7"
+        },
+        {
+          "type": "KEMOBOARD_PANEL_DATA",
+          "version": "e4f1bfa95f80f02e4cc6e079d8e42caf"
+        },
+        {
+          "type": "PVP_OPP_BONUS_DATA",
+          "version": "9e1af02597f7614a0015ea44aa89e3de"
+        },
+        {
+          "type": "QUEST_MAP_DATA",
+          "version": "22a444330fa9130656a7410946229ee8"
+        },
+        {
+          "type": "QUEST_EVAL_DATA",
+          "version": "d127bf22793e0e83020670117a038854"
+        },
+        {
+          "type": "LIMITLEVEL_RISING_STATUS",
+          "version": "43faa215b81b7e70480fe568fc75ac8d"
+        },
+        {
+          "type": "NOAH_PRESENT_BASE",
+          "version": "24d0a027ba0f276ca66203026eecc338"
+        },
+        {
+          "type": "GAME_APPEARANCE_DATA",
+          "version": "2cb551c33525959c3a2fb6c2e2beb5c0"
+        },
+        {
+          "type": "HOME_INTRODUCTION_NEW_CHARA_DATA",
+          "version": "624b1fd9332249e25859a8962b0bda34"
+        },
+        {
+          "type": "MASTER_ROOM_FURNITURE_DATA",
+          "version": "fd3d53269b0e85c9a2c7612b3edc3425"
+        },
+        {
+          "type": "NOAH_PARAMETER_BASE",
+          "version": "f79d04bc7ed46b402c2527c8074aa068"
+        },
+        {
+          "type": "MASTER_ROOM_CONFIG_DATA",
+          "version": "163e9f8b17304afe793532b9e78ba54c"
+        },
+        {
+          "type": "ITEM_EXCHANGE_RATES_DATA",
+          "version": "3806172d921cc6a93497fb2b0d9d8338"
+        },
+        {
+          "type": "STICKER_PLAYER_EXP_BONUS",
+          "version": "69ef9bc9e770f104084db9e885e6d2aa"
+        },
+        {
+          "type": "ITEM_ENDTIME_DATA",
+          "version": "44f7adbda8ef83a3df90f6f26326c173"
+        },
+        {
+          "type": "MASTER_ROOM_KIZUNA_BONUS",
+          "version": "c4dba40a3041b5de99db5bebe8b68225"
+        },
+        {
+          "type": "BONUS_DATA",
+          "version": "86f87311475e726e1e203bdafcc1954a"
+        },
+        {
+          "type": "COOP_RAID_TERM_DATA",
+          "version": "9b4f7be79ab3cb33eec70cce40e81585"
+        }
+      ],
+      "res_code": 0,
+      "server_time": 1782353158871,
+      "target_server_type": null,
+      "transaction_id": "72-033-118C9D8"
+    }
   }
 ]
