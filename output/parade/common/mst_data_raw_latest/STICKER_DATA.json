@@ -353,6 +353,32 @@
   {
     "bgTextureName": "card_sticker_bg_0000",
     "bonusWeight": 1,
+    "flavorText": "ホンドタヌキのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810011",
+    "id": 810011,
+    "name": "ホンドタヌキのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1783227600000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
+    "flavorText": "シロフクロウのとくべつなシールです",
+    "hideFlag": 1,
+    "iconName": "icon_Sticker_810012",
+    "id": 810012,
+    "name": "シロフクロウのとくべつなシール",
+    "rarity": 5,
+    "stackMax": 9999,
+    "startTime": 1783227600000,
+    "stickerType": 3
+  },
+  {
+    "bgTextureName": "card_sticker_bg_0000",
+    "bonusWeight": 1,
     "flavorText": "キラキラのシールです",
     "hideFlag": 0,
     "iconName": "icon_Sticker_820001",

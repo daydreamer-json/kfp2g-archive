@@ -888,6 +888,18 @@
     "startTime": 946652400000
   },
   {
+    "charaId": 549,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1783227600000
+  },
+  {
+    "charaId": 550,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1783227600000
+  },
+  {
     "charaId": 553,
     "priceItemId": 39001,
     "priceItemNum": 1,
@@ -898,6 +910,12 @@
     "priceItemId": 39001,
     "priceItemNum": 1,
     "startTime": 1779944400000
+  },
+  {
+    "charaId": 555,
+    "priceItemId": 39001,
+    "priceItemNum": 1,
+    "startTime": 1782968400000
   },
   {
     "charaId": 556,
